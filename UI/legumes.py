@@ -1,6 +1,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
-
-class Ui_Form(object):
+import main
+class Legumes(object):
     def setupUi(self, Form):
 
         iconWidth = 65
@@ -20,7 +20,6 @@ class Ui_Form(object):
         self.label.setFont(labelFont)
         self.label.setGeometry(QtCore.QRect(30, 10, 131, 41))
         self.label.setObjectName("label")
-
 
         self.pushButton = QtWidgets.QPushButton(Form)
         self.pushButton.setGeometry(QtCore.QRect(620, 390, 97, 26))
@@ -242,7 +241,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "Form"))
+        Form.setWindowTitle(_translate("Form", "Liste des légumes"))
         self.label.setText(_translate("Form", "Légumes"))
         self.pushButton.setText(_translate("Form", "Valider"))
         self.label_2.setText(_translate("Form", "Ail"))
@@ -264,20 +263,27 @@ class Ui_Form(object):
 
     def getCheckedIng(self):
         layout = self.gridLayout
-        legumes = []
+        self.legumesList = []
         for index in range(layout.count()):
             widget = layout.itemAt(index).widget()
             if (widget.isChecked()):
-                legumes.append(widget.objectName()) 
-        print(legumes)
+                self.legumesList.append(widget.objectName()) 
+        # print(self.legumesList)
+        return self.legumesList
+
+
+    def main(self):
+        import sys
+        app = QtWidgets.QApplication(sys.argv)
+        Form = QtWidgets.QWidget()
+        ui = Legumes()
+        ui.setupUi(Form)
+        Form.show()
+        sys.exit(app.exec_())
 
 
 if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    Form = QtWidgets.QWidget()
-    ui = Ui_Form()
-    ui.setupUi(Form)
-    Form.show()
-    sys.exit(app.exec_())
+    legumes = Legumes()
+    legumes.main()
+    
 
