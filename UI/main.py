@@ -1,4 +1,4 @@
-import legumes              
+import legumes, search              
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
@@ -52,6 +52,7 @@ class Main(object):
         self.pushButton_3 = QtWidgets.QPushButton(Form)
         self.pushButton_3.setObjectName("pushButton_3")
         self.formLayout.setWidget(0, QtWidgets.QFormLayout.LabelRole, self.pushButton_3)
+
         self.lineEdit = QtWidgets.QLineEdit(Form)
         self.lineEdit.setObjectName("lineEdit")
         self.formLayout.setWidget(0, QtWidgets.QFormLayout.FieldRole, self.lineEdit)
@@ -113,12 +114,20 @@ class Main(object):
 
     def openLegumes(self):
         self.window = QtWidgets.QMainWindow()
-        self.ui = legumes.Legumes()
+        self.ui = legumes.Legumes(self)
         self.ui.setupUi(self.window)
         self.window.show()
 
-
-
+    def showLegumes(self, myLeg):
+        searchC = search.Search(myLeg, 'French_corpus.txt')
+        text = searchC.getRecipe(1)
+        recipeKeyWords = searchC.getKeyWords(text)
+        # print(recipeKeyWords)
+        query = str(self.lineEdit.text())
+        cleanQuery = searchC.getKeyWords(query)
+        print(cleanQuery)
+        # print(searchC.compare(recipeKeyWords))
+        # print(myLeg)
 
 
 if __name__ == "__main__":
