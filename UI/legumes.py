@@ -1,6 +1,11 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import main
+
 class Legumes(object):
+
+    def __init__(self, uiMain):
+        self.uiMain = uiMain
+        
     def setupUi(self, Form):
 
         iconWidth = 65
@@ -17,6 +22,7 @@ class Legumes(object):
         labelFont = QtGui.QFont()
         labelFont.setPointSize(20)
         self.label = QtWidgets.QLabel(Form)
+
         self.label.setFont(labelFont)
         self.label.setGeometry(QtCore.QRect(30, 10, 131, 41))
         self.label.setObjectName("label")
@@ -268,7 +274,7 @@ class Legumes(object):
             widget = layout.itemAt(index).widget()
             if (widget.isChecked()):
                 self.legumesList.append(widget.objectName()) 
-        # print(self.legumesList)
+        self.uiMain.showLegumes(self.legumesList)
         return self.legumesList
 
 

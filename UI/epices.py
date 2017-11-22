@@ -1,5 +1,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import main
+
 class Epices(object):
     def setupUi(self, Form):
 
