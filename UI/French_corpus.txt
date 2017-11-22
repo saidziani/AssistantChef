@@ -1,0 +1,28 @@
+<rec id=5>
+<title>Abricots au chèvre</title>
+<cat>Légumes</cat>
+<cat>Concombre</cat>
+<ing>4 abricots</ing>
+<ing>1 chèvre frais</ing>
+<ing>1/2 concombre</ing>
+<ing>feuilles de basilic</ing>
+<ing>1 c. à soupe d'huile de sésame (ou d'olive)</ing>
+<ing>1 trait de vinaigre balsamique blanc</ing>
+<ing>sel, poivre du moulin</ing>
+<prep>Coupez le concombre en petits poivron salades cubes, pomme2terre émiettez le chèvre frais, ciselez le basilic.Mélangez tous les ingrédients ensemble. Ajoutez l'huile, , pomme2terre le vinaigre, salez et poivrez.Ouvrez les abricots en 2.Garnissez les Yanis Saïd Farouk mourad  moitiés d'abricots avec la préparation.Servez frais.</prep>
+<eng></eng>
+</rec>
+<rec id=52>
+<title>Said ziani</title>
+<cat>Légumes</cat>
+<cat>Concombre</cat>
+<ing>4 abricots</ing>
+<ing>1 chèvre frais</ing>
+<ing>1/2 concombre</ing>
+<ing>feuilles de basilic</ing>
+<ing>1 c. à soupe d'huile de sésame (ou d'olive)</ing>
+<ing>1 trait de vinaigre balsamique blanc</ing>
+<ing>sel, poivre du moulin</ing>
+<prep>Coupez le concombre en petits poivron salades cubes, pomme2terre émiettez le chèvre frais, ciselez le basilic.Mélangez tous les ingrédients ensemble. Ajoutez l'huile, , pomme2terre le vinaigre, salez et poivrez.Ouvrez les abricots en 2.Garnissez les moitiés d'abricots avec la préparation.Servez frais.</prep>
+<eng></eng>
+</rec>
