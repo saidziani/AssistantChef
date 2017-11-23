@@ -9,8 +9,8 @@ from string import punctuation
 
 subUrls = os.listdir('/var/www/TALN/altabkh.net/recipes-copy')
 
-ar_corpus = open('corpus.txt','w')
-i = 0
+ar_corpus = open('ar_altabkhCorpus.txt','w')
+i = 1011
 for subUrl in subUrls:
     url = 'http://localhost/TALN/altabkh.net/' + quote(subUrl)
     page = urlopen(url).read().decode('utf-8')
@@ -44,8 +44,9 @@ for subUrl in subUrls:
     strPreparations = "\n".join(preparations)
 
     #String to write in my Corpus
-    toWrite = '<rec>\n'+strTitles+'\n'+strCategories+'\n'+strIngredients+'\n'+strPreparations+'\n</rec>\n'
+    toWrite = '<rec id='+str(i)+'>\n'+strTitles+'\n'+strCategories+'\n'+strIngredients+'\n'+strPreparations+'\n</rec>\n'
     ar_corpus.write(toWrite)
+    i += 1
 
     #Recipe architecture
     # <rec>

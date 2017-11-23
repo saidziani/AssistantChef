@@ -10,7 +10,7 @@ from string import punctuation
 directory = '/var/www/TALN/tareekaa.com/طبخ/'
 subDir = os.listdir(directory)
 ar_trkCorpus = open('ar_trkCorpus.txt','w')
-
+i = 927 
 for Dir in subDir:
     subDirectory = '/var/www/TALN/tareekaa.com/طبخ/'+Dir+'/'
     subUrls = os.listdir(subDirectory)
@@ -52,9 +52,9 @@ for Dir in subDir:
         strPreparations = "\n".join(preparations)
 
         # #String to write in my Corpus
-        toWrite = '<rec>\n'+strTitles+'\n'+categories+'\n'+strIngredients+'\n'+strPreparations+'\n</rec>\n'
+        toWrite = '<rec id='+str(i)+'>\n'+strTitles+'\n'+categories+'\n'+strIngredients+'\n'+strPreparations+'\n</rec>\n'
         ar_trkCorpus.write(toWrite)
-
+        i += 1
 
 
     #Recipe architecture

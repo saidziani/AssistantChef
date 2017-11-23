@@ -10,7 +10,7 @@ from string import punctuation
 subUrls = os.listdir('/var/www/TALN/nestle-family.com/recipes/arRecipes/')
 
 ar_corpus = open('ar_nestleCorpus.txt','w')
-i = 0
+i = 1
 for subUrl in subUrls:
     url = 'http://localhost/TALN/nestle-family.com/recipes/' + quote(subUrl)
     page = urlopen(url).read().decode('utf-8')
@@ -52,9 +52,9 @@ for subUrl in subUrls:
     strCalories = "\n".join(calories)
 
     #String to write in my Corpus
-    toWrite = '<rec>\n'+strTitles+'\n'+strCategories+'\n'+strIngredients+'\n'+strPreparations+'\n'+strCalories+'\n</rec>\n'
+    toWrite = '<rec id='+str(i)+'>\n'+strTitles+'\n'+strCategories+'\n'+strIngredients+'\n'+strPreparations+'\n'+strCalories+'\n</rec>\n'
     ar_corpus.write(toWrite)
-
+    i += 1
     #Recipe architecture
     # <rec>
     #     <title></title>
