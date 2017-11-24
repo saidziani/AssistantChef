@@ -1,6 +1,9 @@
 from bs4 import BeautifulSoup
 import os
+from nltk.tokenize import TweetTokenizer
 
+#Tokenisation
+tweet = "Hi! i'm Farid i have 1520$ #mony :-) :) <3 !"
 
 class Search():
 
@@ -9,61 +12,62 @@ class Search():
         self.keywords = set(keywords)
         self.corpus = corpus
 
-
+    # get a tagged text: exemple [je suis libre] => [('je', P), ('suis', VB), ('libre', ADJ)]
     def getTagged(self, text):
         from nltk.tag import StanfordPOSTagger
         jar = 'stanford-french-pos-tagger/stanford-postagger-3.8.0.jar'
         model = 'stanford-french-pos-tagger/french.tagger'
-
         pos_tagger = StanfordPOSTagger(model, jar, encoding='utf8' )
-        taggedText = pos_tagger.tag(text.lower().split())
+        tokenizer = TweetTokenizer()
+        tokenizedText = tokenizer.tokenize(text.lower())
+        taggedText = pos_tagger.tag(tokenizedText)
         return taggedText
 
-    
+    # transform my XML page to Beautifull soup object
     def getCorpusSoup(self):
         file = open(self.corpus, 'r')
         content = file.read()
         return BeautifulSoup(content,"lxml")
 
+    # just to split sentence to words
     def text2list(self, text):
-        splitedText = text.split()
-        return splitedText
+        tokenizer = TweetTokenizer()
+        tokenizedText = tokenizer.tokenize(text.lower())
+        return tokenizedText
 
+    # check if my recipe contain a denied ingredient (porc, liqueur...)
     def isDenied(self, content, denied):
-        #content: title or recipe or category 
+        # Content: title or recipe or category 
+        # Denied: my word list to denied
         splitedContent = self.text2list(content)
         for ing in denied:
             if ing in splitedContent:
                 return False
         return True
 
-
+    # just to build correctly my denied word list: french stop words + colors ...etc
     def getDeniedWords(self):
         from nltk.corpus import stopwords
-
         colors = ['blanc', 'noir', 'rouge', 'jaune'] # à compléter
-        otherWord = ['tous', 'les', 'ingrédients', 'moitiés', 'trait', 'frais', 'ensemble', 'petits', 'grand'] #check tags (verbs)
-
+        otherWord = ['tous', 'les', 'ingrédients', 'moitiés', 'trait', 'frais', 'ensemble', 'petits', 'grand', 'préparation', 'préparations']
         deniedList = []
         deniedList.extend(stopwords.words('french')) 
         deniedList.extend(colors)
         deniedList.extend(otherWord)
-
         return deniedList
 
-
+    # transform a recipe on XML format to a keywords list
     def getKeyWords(self, text):
         deniedList = self.getDeniedWords() 
         keywords = []
-
         for line in text:
             line = self.getTagged(line)
             line = [taggedWord[0] for taggedWord in line if taggedWord[1].startswith('N')]
             cleanText = [word for word in line if word not in deniedList and word.isalpha()]
             keywords.extend(cleanText)
-
         return set(keywords)
 
+    # search recipe by diffrent mode
     def getRecipe(self, mode):
         #mode=[1 => all the recipe, 2 => title, 3 => category, 4 => ingredient]
         soup = self.getCorpusSoup()
@@ -86,34 +90,45 @@ class Search():
                 output.append(d.text)
         return output
 
+    # search a recipe by ID
     def idSearch(self, idRecipe):
         soup = self.getCorpusSoup()
         recipe = [ balise.text for balise in soup.find_all("rec", attrs={"id" : idRecipe}) ]
         return recipe
 
-
+    # get recipe ID
     def findById(self, rec):
         soup = BeautifulSoup(rec)
         idRecipe = soup.find("rec")['id']
         return idRecipe
 
-    def isVegetarian(self, rec):
+    # check if a recipe is healthy (callories <= 300)
+    def isHealthy(self, idRecipe):
         soup = self.getCorpusSoup()
-        recipe = [ balise.text for balise in soup.find_all("rec", attrs={"id" : idRecipe}) ]
-        return recipe
+        for balise in soup.find_all("rec", attrs={"id" : idRecipe}):
+            for eng in balise.find_all("eng"):
+                return eng.text
 
 
+    def isVegetarian(self, idRecipe):
+        meat = ['viande', 'poisson', 'poulet','poivron', 'dinde']
+        recipe = self.idSearch(idRecipe)
+        keywords = self.getKeyWords(recipe)
+        cpt, length = self.existNb(meat, keywords)
+        if cpt == 0:
+            print(keywords)
 
 
-    def existNb(self, recipeKeyWords):
+    def existNb(self,keywords, recipeKeyWords):
         cpt = 0
-        for keyword in self.keywords:
+        for keyword in keywords:
             if keyword.lower() in recipeKeyWords:
                 cpt += 1
         return cpt, len(recipeKeyWords)
 
-    def compare(self, recipeKeyWords):
-        nbWords, lenRecipeKeyWords = self.existNb(recipeKeyWords)
+
+    def compare(self,keywords, recipeKeyWords):
+        nbWords, lenRecipeKeyWords = self.existNb(keywords, recipeKeyWords)
         prop = (nbWords / lenRecipeKeyWords) * 100
         print(prop)
         if prop == 0:
@@ -133,6 +148,10 @@ if __name__ == "__main__":
     text = search.getRecipe(1)
     recipeKeyWords = search.getKeyWords(text)
     print(recipeKeyWords)
+    # recipe = search.idSearch(52)
+    # print(recipe)
+
+    # print(search.isVegetarian(52))
     # search.getTagged()
     # print(search.idSearch(52))
 
