@@ -8,14 +8,16 @@ class VegetableSpaceFr(object):
 
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(800, 500)
+        Form.setFixedSize(800, 500)
+        Form.setGeometry(300, 150, 800, 500)
         font = QtGui.QFont()
         font.setFamily("Lato")
         Form.setFont(font)
         Form.setStyleSheet("background-color: #f7f7f7;\n"
 "color: #424242;")
         Form.setWindowFlags(QtCore.Qt.FramelessWindowHint)
-
+        self.closeWindow = Form.close
+        
         self.label = QtWidgets.QLabel(Form)
         self.label.setGeometry(QtCore.QRect(10, 20, 67, 17))
         self.label.setObjectName("label")
@@ -48,37 +50,37 @@ class VegetableSpaceFr(object):
         ####################################################################
 
         self.label_4 = QtWidgets.QLabel(Form)
-        self.label_4.setObjectName("tomate")
+        self.label_4.setObjectName("tomates")
         pixmap = QtGui.QPixmap('ing/legumes/tomate.jpg').scaledToWidth(80)
         self.label_4.setPixmap(pixmap)
         self.label_4.setGeometry(QtCore.QRect(100, 80, 100, 100))
         self.label_5 = QtWidgets.QLabel(Form)
         self.label_5.setGeometry(QtCore.QRect(110, 170, 65, 20))
-        self.label_5.setObjectName("tomate")
+        self.label_5.setObjectName("tomates")
         self.label_5.mousePressEvent = functools.partial(self.stack, source_object=self.label_5)
         self.label_4.mousePressEvent = functools.partial(self.stack, source_object=self.label_5)
 
 
         self.label_6 = QtWidgets.QLabel(Form)
-        self.label_6.setObjectName("concombre")
+        self.label_6.setObjectName("concombres")
         pixmap = QtGui.QPixmap('ing/legumes/concombre.jpg').scaledToWidth(80)
         self.label_6.setPixmap(pixmap)
         self.label_6.setGeometry(QtCore.QRect(220, 80, 100, 100))
         self.label_7 = QtWidgets.QLabel(Form)
         self.label_7.setGeometry(QtCore.QRect(220, 170, 85, 20))
-        self.label_7.setObjectName("concombre")
+        self.label_7.setObjectName("concombres")
         self.label_7.mousePressEvent = functools.partial(self.stack, source_object=self.label_7)
         self.label_6.mousePressEvent = functools.partial(self.stack, source_object=self.label_7)
 
 
         self.label_8 = QtWidgets.QLabel(Form)
-        self.label_8.setObjectName("carotte")
+        self.label_8.setObjectName("carottes")
         pixmap = QtGui.QPixmap('ing/legumes/carotte.jpg').scaledToWidth(80)
         self.label_8.setPixmap(pixmap)
         self.label_8.setGeometry(QtCore.QRect(340, 80, 100, 100))
         self.label_9 = QtWidgets.QLabel(Form)
         self.label_9.setGeometry(QtCore.QRect(350, 170, 60, 20))
-        self.label_9.setObjectName("carotte")
+        self.label_9.setObjectName("carottes")
         self.label_9.mousePressEvent = functools.partial(self.stack, source_object=self.label_9)
         self.label_8.mousePressEvent = functools.partial(self.stack, source_object=self.label_9)
 
@@ -96,13 +98,13 @@ class VegetableSpaceFr(object):
 
 
         self.label_12 = QtWidgets.QLabel(Form)
-        self.label_12.setObjectName("pomme2terre")
+        self.label_12.setObjectName("pomme de terre")
         pixmap = QtGui.QPixmap('ing/legumes/pomme2terre.jpg').scaledToWidth(80)
         self.label_12.setPixmap(pixmap)
         self.label_12.setGeometry(QtCore.QRect(580, 80, 100, 100))
         self.label_13 = QtWidgets.QLabel(Form)
         self.label_13.setGeometry(QtCore.QRect(570, 170, 120, 20))
-        self.label_13.setObjectName("pomme2terre")
+        self.label_13.setObjectName("pomme de terre")
         self.label_13.mousePressEvent = functools.partial(self.stack, source_object=self.label_13)
         self.label_12.mousePressEvent = functools.partial(self.stack, source_object=self.label_13)
 
@@ -110,7 +112,7 @@ class VegetableSpaceFr(object):
 
         ####################################################################
         self.label_14 = QtWidgets.QLabel(Form)
-        self.label_14.setObjectName("poivron")
+        self.label_14.setObjectName("poivrons")
         pixmap = QtGui.QPixmap('ing/legumes/poivron.jpg').scaledToWidth(80)
         self.label_14.setPixmap(pixmap)
         self.label_14.setGeometry(QtCore.QRect(100, 200, 100, 100))
@@ -134,13 +136,13 @@ class VegetableSpaceFr(object):
 
 
         self.label_18 = QtWidgets.QLabel(Form)
-        self.label_18.setObjectName("choufleur")
+        self.label_18.setObjectName("chou-fleur")
         pixmap = QtGui.QPixmap('ing/legumes/choufleur.jpg').scaledToWidth(80)
         self.label_18.setPixmap(pixmap)
         self.label_18.setGeometry(QtCore.QRect(340, 200, 100, 100))
         self.label_19 = QtWidgets.QLabel(Form)
         self.label_19.setGeometry(QtCore.QRect(350, 290, 80, 20))
-        self.label_19.setObjectName("choufleur")
+        self.label_19.setObjectName("chou-fleur")
         self.label_19.mousePressEvent = functools.partial(self.stack, source_object=self.label_19)
         self.label_18.mousePressEvent = functools.partial(self.stack, source_object=self.label_19)
 
@@ -279,7 +281,7 @@ class VegetableSpaceFr(object):
 
     def retour(self, event):
         print('BACK')
-        # Form.close()
+        self.closeWindow()
 
     def stack(self, event, source_object=None):
         if source_object.objectName() in legumes:
@@ -291,10 +293,10 @@ class VegetableSpaceFr(object):
 
     
     def valider(self):
-        print(legumes)
         self.ingList = legumes
         self.uiMain.getKeyWords(self.ingList)
-        # Form.close()
+        self.closeWindow()
+
         
 if __name__ == "__main__":
     import sys

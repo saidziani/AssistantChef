@@ -1,9 +1,11 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
+import search, RecipesResAr
 
 class SearchSpaceAr(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(800, 500)
+        Form.setFixedSize(800, 500)
+        Form.setGeometry(300, 150, 800, 500)
         font = QtGui.QFont()
         font.setFamily("Lato")
         Form.setFont(font)
@@ -11,6 +13,7 @@ class SearchSpaceAr(object):
 "color: #424242;")
         
         Form.setWindowFlags(QtCore.Qt.FramelessWindowHint)
+        self.closeWindow = Form.close
 
         self.label = QtWidgets.QLabel(Form)
         self.label.setGeometry(QtCore.QRect(10, 20, 67, 17))
@@ -47,10 +50,10 @@ class SearchSpaceAr(object):
         self.label_4.setGeometry(QtCore.QRect(175, 300, 500, 30))
         self.label_4.setObjectName("label_4")
 
-        self.checkBox = QtWidgets.QCheckBox(Form)
-        self.checkBox.setGeometry(QtCore.QRect(225, 220, 150, 30))
-        self.checkBox.setLayoutDirection(QtCore.Qt.RightToLeft)
-        self.checkBox.setObjectName("checkBox")
+        self.checkBox_1 = QtWidgets.QCheckBox(Form)
+        self.checkBox_1.setGeometry(QtCore.QRect(225, 220, 150, 30))
+        self.checkBox_1.setLayoutDirection(QtCore.Qt.RightToLeft)
+        self.checkBox_1.setObjectName("checkBox_1")
         self.checkBox_2 = QtWidgets.QCheckBox(Form)
         self.checkBox_2.setGeometry(QtCore.QRect(375, 220, 150, 30))
         self.checkBox_2.setLayoutDirection(QtCore.Qt.RightToLeft)
@@ -82,7 +85,8 @@ class SearchSpaceAr(object):
         self.pushButton.setObjectName("pushButton")
         self.pushButton.setStyleSheet("background-color: #2fd475;\n"
 "border-radius: 15px;color:#fff;font-size:14px")
-        self.pushButton.clicked.connect(self.closed)
+        self.pushButton.clicked.connect(self.recherche)
+
         self.label_5 = QtWidgets.QLabel(Form)
         self.label_5.setObjectName("label_5")
         self.label_5.setStyleSheet("background-color: #fff;\n"
@@ -105,7 +109,7 @@ class SearchSpaceAr(object):
         self.label_2.setText(_translate("Form", ""))
         self.label_3.setText(_translate("Form", "اختر المطبخ المناسب:"))
         self.label_4.setText(_translate("Form", "اختر المكونات الغير مناسبة:"))
-        self.checkBox.setText(_translate("Form", " طبيعي"))
+        self.checkBox_1.setText(_translate("Form", " طبيعي"))
         self.checkBox_2.setText(_translate("Form", " نباتي"))
         self.checkBox_3.setText(_translate("Form", " مرض السكري"))
         self.checkBox_4.setText(_translate("Form", " سمك"))
@@ -118,10 +122,41 @@ class SearchSpaceAr(object):
 
     def retour(self, event):
         print('BACK')
-        # Form.close()
+        self.closeWindow()
+    
 
-    def closed(self):
-        Form.close()
+    def recherche(self):
+        checked = []
+        if self.checkBox_1.isChecked():
+            checked.append(1)
+        if self.checkBox_2.isChecked():
+            checked.append(2)
+        if self.checkBox_3.isChecked():
+            checked.append(3)
+        if self.checkBox_4.isChecked():
+            checked.append(4)
+        if self.checkBox_5.isChecked():
+            checked.append(5)
+        if self.checkBox_6.isChecked():
+            checked.append(6)
+        if self.checkBox_7.isChecked():
+            checked.append(7)
+
+        searchObj = search.Search([], 'corpus/arCorpus.txt', 2)
+        query = self.lineEdit.text()
+        queryToken = searchObj.text2list(query)
+
+        queryKeyWords = searchObj.getKeyWords(queryToken)
+        checked, result  = searchObj.getResult(queryKeyWords , 2, checked)
+
+        self.sendData(result)
+
+    def sendData(self,  data):
+        self.window = QtWidgets.QMainWindow()
+        self.ui = RecipesResAr.RecipesResAr()
+        self.ui.setupUi(self.window, data)
+        self.window.show()            
+
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)

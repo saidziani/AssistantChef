@@ -4,13 +4,15 @@ import ArabicApp, FrenchApp
 class Ui_Form(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(800, 500)
+        Form.setFixedSize(800, 500)
+        Form.setGeometry(300, 150, 800, 500)
         font = QtGui.QFont()
         font.setFamily("Lato")
         Form.setFont(font)
         Form.setStyleSheet("background-color: #f7f7f7;\n"
 "color: #424242;")
         Form.setWindowFlags(QtCore.Qt.FramelessWindowHint)
+        self.hideWindow = Form.hide
 
         self.label = QtWidgets.QLabel(Form)
         self.label.setGeometry(QtCore.QRect(280, 330, 100, 51))
@@ -81,6 +83,7 @@ class Ui_Form(object):
         self.ui = FrenchApp.FrenchApp()
         self.ui.setupUi(self.window)
         self.window.show()
+        # self.hideWindow()
 
 
     def openAr(self, event):
@@ -103,6 +106,5 @@ if __name__ == "__main__":
     Form = QtWidgets.QWidget()
     ui = Ui_Form()
     ui.setupUi(Form)
-    Form.move(300, 150)
     Form.show()
     sys.exit(app.exec_())

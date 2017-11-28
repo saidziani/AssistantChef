@@ -4,10 +4,14 @@ import Application, SearchSpaceAr, SelectSpaceAr
 class ArabicApp(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(800, 500)
+        Form.setFixedSize(800, 500)
+        Form.setGeometry(300, 150, 800, 500)
         Form.setStyleSheet("background-color: #f7f7f7;\n"
 "color: #424242;")
+        self.closeWindow = Form.close
+
         Form.setWindowFlags(QtCore.Qt.FramelessWindowHint)
+        
         self.label = QtWidgets.QLabel(Form)
         self.label.setGeometry(QtCore.QRect(150, 330, 181, 81))
         font = QtGui.QFont()
@@ -104,7 +108,7 @@ class ArabicApp(object):
 
     def retour(self, event):
         print('BACK')
-        Form.close()
+        self.closeWindow()
 
 
 if __name__ == "__main__":
@@ -113,7 +117,7 @@ if __name__ == "__main__":
     Form = QtWidgets.QWidget()
     ui = ArabicApp()
     ui.setupUi(Form)
-    Form.move(300, 150)
+    # Form.move(300, 150)
     Form.show()
     sys.exit(app.exec_())
 

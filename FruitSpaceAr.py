@@ -8,13 +8,15 @@ class FruitSpaceAr(object):
 
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(800, 500)
+        Form.setFixedSize(800, 500)
+        Form.setGeometry(300, 150, 800, 500)
         font = QtGui.QFont()
         font.setFamily("Lato")
         Form.setFont(font)
         Form.setStyleSheet("background-color: #f7f7f7;\n"
 "color: #424242;")
         Form.setWindowFlags(QtCore.Qt.FramelessWindowHint)
+        self.closeWindow = Form.close
 
         self.label = QtWidgets.QLabel(Form)
         self.label.setGeometry(QtCore.QRect(10, 20, 67, 17))
@@ -33,7 +35,7 @@ class FruitSpaceAr(object):
         self.label.mousePressEvent = self.retour
 
         self.pushButton = QtWidgets.QPushButton(Form)
-        self.pushButton.setGeometry(QtCore.QRect(600, 450, 100, 30))
+        self.pushButton.setGeometry(QtCore.QRect(100, 450, 100, 30))
         self.pushButton.setObjectName("pushButton")
         self.pushButton.setStyleSheet("background-color: #2fd475;\n"
 "border-radius: 15px;color:#fff;font-size:14px")
@@ -41,7 +43,7 @@ class FruitSpaceAr(object):
 
 
         self.label_3 = QtWidgets.QLabel(Form)
-        self.label_3.setGeometry(QtCore.QRect(100, 50, 500, 30))
+        self.label_3.setGeometry(QtCore.QRect(400, 50, 250, 30))
         self.label_3.setObjectName("label_3")
         self.label_3.setStyleSheet("font-weight:500;\n"
 "font-size:17px")
@@ -228,8 +230,8 @@ class FruitSpaceAr(object):
         Form.setWindowTitle(_translate("Form", "MonChef. | Fr"))
         self.label.setText(_translate("Form", ""))
         self.label_2.setText(_translate("Form", ""))
-        self.pushButton.setText(_translate("Form", "Valider"))
-        self.label_3.setText(_translate("Form", "Sélectionner les fruits que vous avez pour votre recette :"))
+        self.pushButton.setText(_translate("Form", "ارسل"))
+        self.label_3.setText(_translate("Form", "اختر الفواكه التي تمتلكها لطبقك :"))
         self.label_4.setText(_translate("Form", ""))
         self.label_5.setText(_translate("Form", " التفاح "))
         self.label_6.setText(_translate("Form", ""))
@@ -264,7 +266,7 @@ class FruitSpaceAr(object):
 
     def retour(self, event):
         print('BACK')
-        Form.close()
+        self.closeWindow()
 
 
     def stack(self, event, source_object=None):
@@ -280,7 +282,7 @@ class FruitSpaceAr(object):
         print(fruits)
         self.ingList = fruits
         self.uiMain.getKeyWords(self.ingList)
-        # Form.close()
+        self.closeWindow()
 
 if __name__ == "__main__":
     import sys

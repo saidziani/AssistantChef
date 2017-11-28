@@ -8,14 +8,15 @@ class SpiceSpaceFr(object):
 
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(800, 500)
+        Form.setFixedSize(800, 500)
+        Form.setGeometry(300, 150, 800, 500)
         font = QtGui.QFont()
         font.setFamily("Lato")
         Form.setFont(font)
         Form.setStyleSheet("background-color: #f7f7f7;\n"
 "color: #424242;")
         Form.setWindowFlags(QtCore.Qt.FramelessWindowHint)
-
+        self.closeWindow = Form.close
         self.label = QtWidgets.QLabel(Form)
         self.label.setGeometry(QtCore.QRect(10, 20, 67, 17))
         self.label.setObjectName("label")
@@ -168,7 +169,7 @@ class SpiceSpaceFr(object):
 
     def retour(self, event):
         print('BACK')
-        # Form.close()
+        self.closeWindow()
 
     def stack(self, event, source_object=None):
         if source_object.objectName() in epices:
@@ -179,10 +180,9 @@ class SpiceSpaceFr(object):
             epices.append(source_object.objectName())
 
     def valider(self):
-        print(epices)
         self.ingList = epices
         self.uiMain.getKeyWords(self.ingList)
-        # Form.close()
+        self.closeWindow()
         
 if __name__ == "__main__":
     import sys

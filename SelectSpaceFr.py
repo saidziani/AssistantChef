@@ -1,11 +1,14 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import functools
+import search, RecipesResFr
 import FruitSpaceFr, VegetableSpaceFr, SpiceSpaceFr
 
+ingredient = []
 class SelectSpaceFr(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(800, 500)
+        Form.setFixedSize(800, 500)
+        Form.setGeometry(300, 150, 800, 500)
         font = QtGui.QFont()
         font.setFamily("Lato")
         Form.setFont(font)
@@ -13,6 +16,7 @@ class SelectSpaceFr(object):
 "color: #424242;")
         
         Form.setWindowFlags(QtCore.Qt.FramelessWindowHint)
+        self.closeWindow = Form.close
 
         self.label = QtWidgets.QLabel(Form)
         self.label.setGeometry(QtCore.QRect(10, 20, 67, 17))
@@ -38,9 +42,9 @@ class SelectSpaceFr(object):
         self.label_4.setGeometry(QtCore.QRect(150, 300, 500, 30))
         self.label_4.setObjectName("label_4")
 
-        self.checkBox = QtWidgets.QCheckBox(Form)
-        self.checkBox.setGeometry(QtCore.QRect(150, 220, 100, 30))
-        self.checkBox.setObjectName("checkBox")
+        self.checkBox_1 = QtWidgets.QCheckBox(Form)
+        self.checkBox_1.setGeometry(QtCore.QRect(150, 220, 100, 30))
+        self.checkBox_1.setObjectName("checkBox_1")
         self.checkBox_2 = QtWidgets.QCheckBox(Form)
         self.checkBox_2.setGeometry(QtCore.QRect(300, 220, 100, 30))
         self.checkBox_2.setObjectName("checkBox_2")
@@ -101,6 +105,7 @@ class SelectSpaceFr(object):
         self.label_8.setObjectName("epices")
         self.label_8.mousePressEvent = functools.partial(self.openIngSpace, source_object=self.label_8)
 
+        self.pushButton.clicked.connect(self.recherche)
 
 
         self.retranslateUi(Form)
@@ -117,7 +122,7 @@ class SelectSpaceFr(object):
         self.label_6.setText(_translate("Form", "     Fruits "))
         self.label_7.setText(_translate("Form", "   Viandes "))
         self.label_8.setText(_translate("Form", "     Épices "))
-        self.checkBox.setText(_translate("Form", " Cuisine Bio"))
+        self.checkBox_1.setText(_translate("Form", " Cuisine Bio"))
         self.checkBox_2.setText(_translate("Form", " Végan"))
         self.checkBox_3.setText(_translate("Form", " Diabétique"))
         self.checkBox_4.setText(_translate("Form", " Crustacés"))
@@ -131,7 +136,7 @@ class SelectSpaceFr(object):
 
     def retour(self, event):
         print('BACK')
-        Form.close()
+        self.closeWindow()
 
     def openIngSpace(self, event, source_object=None):
         source_object.setStyleSheet("font-weight:500;\n"
@@ -151,8 +156,43 @@ class SelectSpaceFr(object):
         self.window.show()
 
     def getKeyWords(self, ingList):
-        self.label_8.setText(ingList[0])
+        ingredient.extend(ingList)
+        print(ingredient)
 
+
+    def recherche(self):
+        checked = []
+        if self.checkBox_1.isChecked():
+            checked.append(1)
+        if self.checkBox_2.isChecked():
+            checked.append(2)
+        if self.checkBox_3.isChecked():
+            checked.append(3)
+        if self.checkBox_4.isChecked():
+            checked.append(4)
+        if self.checkBox_5.isChecked():
+            checked.append(5)
+        if self.checkBox_6.isChecked():
+            checked.append(6)
+        if self.checkBox_7.isChecked():
+            checked.append(7)
+
+        searchObj = search.Search([], 'corpus/frCorpus.txt', 1)
+
+        queryToken = ingredient
+        print(queryToken)
+
+        queryKeyWords = searchObj.getKeyWords(queryToken)
+        print(queryKeyWords)
+        checked, result  = searchObj.getResult(queryKeyWords , 1, checked)
+
+        self.sendData(result)
+
+    def sendData(self,  data):
+        self.window = QtWidgets.QMainWindow()
+        self.ui = RecipesResFr.RecipesResFr()
+        self.ui.setupUi(self.window, data)
+        self.window.show()
         
 if __name__ == "__main__":
     import sys

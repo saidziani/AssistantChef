@@ -1,18 +1,21 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import functools
+import search, RecipesResFr
 import FruitSpaceAr, VegetableSpaceAr, SpiceSpaceAr
 
+ingredient = []
 class SelectSpaceAr(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
-        Form.resize(800, 500)
+        Form.setFixedSize(800, 500)
+        Form.setGeometry(300, 150, 800, 500)
         font = QtGui.QFont()
         font.setFamily("Lato")
         Form.setFont(font)
         Form.setStyleSheet("background-color: #f7f7f7;\n"
 "color: #424242;")
-        
         Form.setWindowFlags(QtCore.Qt.FramelessWindowHint)
+        self.closeWindow = Form.close
 
         self.label = QtWidgets.QLabel(Form)
         self.label.setGeometry(QtCore.QRect(10, 20, 67, 17))
@@ -140,7 +143,8 @@ class SelectSpaceAr(object):
 
     def retour(self, event):
         print('BACK')
-        Form.close()
+        self.closeWindow()
+
 
     def openIngSpace(self, event, source_object=None):
         source_object.setStyleSheet("font-weight:500;\n"
@@ -160,7 +164,42 @@ class SelectSpaceAr(object):
         self.window.show()
 
     def getKeyWords(self, ingList):
-        self.label_8.setText(ingList[0])
+        ingredient.extend(ingList)
+        print(ingredient)
+
+    def recherche(self):
+        checked = []
+        if self.checkBox_1.isChecked():
+            checked.append(1)
+        if self.checkBox_2.isChecked():
+            checked.append(2)
+        if self.checkBox_3.isChecked():
+            checked.append(3)
+        if self.checkBox_4.isChecked():
+            checked.append(4)
+        if self.checkBox_5.isChecked():
+            checked.append(5)
+        if self.checkBox_6.isChecked():
+            checked.append(6)
+        if self.checkBox_7.isChecked():
+            checked.append(7)
+
+        searchObj = search.Search([], 'corpus/arCorpus.txt', 1)
+
+        queryToken = ingredient
+        print(queryToken)
+
+        queryKeyWords = searchObj.getKeyWords(queryToken)
+        print(queryKeyWords)
+        # checked, result  = searchObj.getResult(queryKeyWords , 1, checked)
+
+    #     self.sendData(result)
+
+    # def sendData(self,  data):
+    #     self.window = QtWidgets.QMainWindow()
+    #     self.ui = RecipesResAr.RecipesResAr()
+    #     self.ui.setupUi(self.window, data[:5])
+    #     self.window.show()
 
 if __name__ == "__main__":
     import sys
