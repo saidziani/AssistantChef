@@ -1,0 +1,1963 @@
+<rec id=1095>
+<title>Boulettes de viande de boeuf à ma façon</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :10 min</inf>
+<cat>Viandes</cat>
+<cat>Boeuf</cat>
+<ing>200 g de hachée de bœuf</ing>
+<ing>250 g de hachée de veau</ing>
+<ing>1 gousse d'ail </ing>
+<ing>persil</ing>
+<ing>1 oignon</ing>
+<ing>farine</ing>
+<ing>huile d'olive</ing>
+<ing>sel,poivre</ing>
+<prep>Épluchez l’oignon et l'ail.Émincez l’oignon sur votre planche de cuisine. Réservez.Hachez finement l'ail.Lavez le persil, séchez-le et ciselez-le. Réservez dans un bol.Mettez la viande de bœuf et de veau hachées dans un grand bol. Mélangez.Ajoutez l'oignon  émincé, l'ail haché et le persil ciselé.Ajoutez 1 pincée de sel et de poivre, puis, un peu d'huile d'olive.Mélangez le tout pour obtenir une pâte homogène.Versez un peu de farine dans le bol.0Réalisez de petites boules avec la pâte.1Puis, roulez-les dans la farine.2Faites chauffer de l'huile dans une poêle et faites-y frire les boulettes pendant 10 min.3Servez.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1096>
+<title>Boulettes de viande et sauce tomate</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :35 min</inf>
+<cat>Légumes</cat>
+<cat>Tomate</cat>
+<ing>500 g de viande hachée</ing>
+<ing>6 tomates</ing>
+<ing>2 oignons</ing>
+<ing>cumin</ing>
+<ing>25 g de pignons</ing>
+<ing>farine</ing>
+<ing>huile d'olive</ing>
+<ing>vinaigre balsamique</ing>
+<ing>concentré de tomates</ing>
+<ing>sucre en poudre</ing>
+<ing>sel,poivre</ing>
+<prep>Épluchez puis, sur votre planche de cuisine, émincez les 2 oignons.Dans une poêle à feu doux, versez 2 c. à soupe d'huile d'olive.Faites revenir l'oignon émincé.Rajoutez 1 c. à soupe de vinaigre balsamique.Laissez mijoter quelques minutes.Dans un récipient, mélangez la viande hachée à 2 c. à café de cumin.Ajoutez les pignons, le sel ainsi que le poivre.Faites-en des boulettes de 4 cm de circonférence et roulez-les délicatement dans la farine.Lavez vos tomates puis découpez-les en demi-quartiers.0Dans un bol, diluez 2 c. à soupe de concentré de tomates dans un peu d'eau.1Dans une casserole anti adhésive, versez le contenu de votre poêle, puis rajoutez les boulettes, les tomates découpées, le jus de concentré de tomates, 1 c. à café de sucre, le sel ainsi que le poivre.2Portez-la au feu.3Laissez mijoter le tout à couvert pendant 30 min.4Servez accompagné de riz.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1097>
+<title>Boulettes de viande, sauce tomate maison</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 25 min
+Cuisson :30 min</inf>
+<cat>Viandes</cat>
+<cat>Veau</cat>
+<ing>600 g de veau haché</ing>
+<ing>500 g de tomates</ing>
+<ing>1 oignon</ing>
+<ing>2 gousses d'ail</ing>
+<ing>2 œufs</ing>
+<ing>20 g de parmesan râpé</ing>
+<ing>1 pincée de bicarbonate de soude</ing>
+<ing>4 feuilles de basilic</ing>
+<ing>6 brins de persil</ing>
+<ing>huile d'olive</ing>
+<ing>30 g de beurre</ing>
+<ing>sel, poivre</ing>
+<prep>Épluchez les gousses d'ail. Sur votre planche de cuisine, hachez-les.Nettoyez et épongez les brins de persil. Hachez-les.Mettez le veau haché dans un plat creux et ajoutez-y l'ail et le persil hachés.Mélangez puis incorporez le parmesan râpé et les oeufs. Salez et poivrez.Malaxez bien le tout jusqu'à obtenir une préparation bien homogène.Formez des boulettes avec la préparation et placez-les dans un plat.Réservez.Dans une bassine d'eau claire, lavez les tomates et équeutez-les. Ensuite, concassez-les.Épluchez l'oignon puis hachez-le.0Faites chauffer 3 c. à soupe d'huile dans une poêle.1Jetez-y les tomates concassées, l'oignon haché et le bicarbonate de soude puis laissez suer durant 30 minutes à feu doux. Salez et poivrez.2Nettoyez et épongez les feuilles de basilic. Ciselez-les et ajoutez-les à la sauce tomate.3Laissez la sauce tomate mijoter à feu doux, en remuant régulièrement.4Pendant ce temps, faites chauffer 3 c. à soupe d'huile dans une autre poêle.5Ajoutez le beurre et laissez-le fondre.6Jetez-y les boulettes de viande et faites-les revenir pendant 5 à 10 minutes jusqu'à ce qu'elles soient légèrement dorées.7Incorporez alors les boulettes de viande dans la sauce tomate. Laissez cuire 10 minutes à feu doux.8Servez bien chaud accompagné de tagliatelles fraîches.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1098>
+<title>Boulettes des enfants</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :30 min</inf>
+<cat>Viandes</cat>
+<cat>Boeuf</cat>
+<ing>400 g de reste de viandes cuites (poulet, boeuf, porc...)</ing>
+<ing>1 oignon</ing>
+<ing>1 gousse d'ail</ing>
+<ing>persil</ing>
+<ing>1 oeuf</ing>
+<ing>1 peu de pain sec trempé dans du lait</ing>
+<ing>1 peu de farine</ing>
+<ing>huile de tournesol</ing>
+<ing>1 pot de sauce tomates</ing>
+<ing>fines herbes</ing>
+<ing>sel, poivre</ing>
+<prep>Mixez les restes de viandes cuites de la veille, l'ail, l'oignon, le pain, l'oeuf, le persil et l'oeuf. Formez des boules entre les mains et passez-les dans la farine. Tapotez-les pour enlever l'exédent. Faites chauffer l'huile dans une poêle creuse, placez-y les boulettes. Faites-les rissoler de tous les côtés. Ajoutez la sauce tomates, du sel, du poivre et des fines herbes. Laissez mijoter à couvert quelques minutes à feu doux.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1099>
+<title>Boulettes épicées</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :1 h </inf>
+<cat>Recettes</cat>
+<cat>Ail</cat>
+<ing>Pour les boulettes :</ing>
+<ing>3 lbs boeuf maigre haché</ing>
+<ing>2 oeufs</ing>
+<ing>2 tasses d'avoine précuite (Quaker Oats)</ing>
+<ing>1 boîte (12 oz) de lait en poudre</ing>
+<ing>1 tasse d'oignon, hachés</ing>
+<ing>1 gousse d'ail émincée</ing>
+<ing>2 c. à thé de sel</ing>
+<ing>½ c. à thé de poivre</ing>
+<ing>Pour la sauce :</ing>
+<ing>2 tasses de ketchup</ing>
+<ing>1 ½ tasse de sucre brun</ing>
+<ing>½ tasse d'oignons, hachés</ing>
+<ing>1 c. à thé de fumée liquide (facultatif)</ing>
+<ing>1 gousse d'ail émincée</ing>
+<prep>Préchauffez le four th. 6 (180°C) (350°F).Battez les oeufs dans un grand bol. Ajoutez l'avoine, le lait, les oignons, le sel, le poivre, l'ail et mélangez bien. Façonnez des  boulettes de 2,5 cm de diamètre. Répartissez-les dans deux plats peu  profonds et très légèrement graissés. Faites cuire à découvert pendant  40 min. Regroupez les boulettes dans un même plat.Mettez le jus de cuisson et les ingrédients pour la sauce dans une casserole et portez à ébullition. Laissez légèrement réduire.0Versez cette sauce sur les  boulettes et remettez le plat au four pour 20 min, non couvert.1Servez chaud avec des pâtes ou du riz.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1100>
+<title>Boulettes express</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :30 min</inf>
+<cat>Viandes</cat>
+<cat>Boeuf</cat>
+<ing>Pour les boulettes :</ing>
+<ing>500 g de viande de boeuf hachée</ing>
+<ing>2 à 3 oeufs entiers</ing>
+<ing>2 gousses d'ail</ing>
+<ing>1 petit oignon</ing>
+<ing>1 petit verre de lait (environ)</ing>
+<ing>chapelure</ing>
+<ing>persil </ing>
+<ing>sel, poivre</ing>
+<ing>Pour les légumes : </ing>
+<ing>1 kg de pommes de terre</ing>
+<ing>2 verres de vin blanc</ing>
+<ing>1 boite de 500 g de dés de tomates</ing>
+<ing>sel, poivre</ing>
+<prep>Dans un saladier, mélangez la viande hachée, les oeufs, l'ail, l'oignon haché et le persil haché, salez et poivrez puis ajoutez le lait afin de rendre la texture légère, le mélange ne doit pas être liquide, il doit bien tenir pour pouvoir former les boulettes correctement. Dans une assiette, mettez de la chapelure, façonnez des boulettes (la grosseur peut varier selon l'envie), roulez-les dans la chapelure et mettez-les à dorer de chaque côté dans une sauteuse. Quand ces dernières sont toutes dorées, retirez-les.Mettez dans la sauteuse les dés de tomates ainsi que les pommes de terre coupées en dés, ajoutez le vin blanc, (thym et laurier) suivant goût, salez, poivrez et faites cuire 20 min. Puis mettez les boulettes et poursuivez la cuisson 10 min. La cuisson se fait avec un couvercle.</prep>
+<eng>649</eng>
+</rec>
+<rec id=1101>
+<title>Boulettes italiennes</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :40 min</inf>
+<cat>Légumes</cat>
+<cat>Tomate</cat>
+<ing>500 g de viande hachée</ing>
+<ing>1 boîte de tomates pelées de 500 g</ing>
+<ing>1 oeuf</ing>
+<ing>30 g de farine</ing>
+<ing>10 g de marjolaine</ing>
+<ing>1 oignon</ing>
+<ing>1 feuille de laurier</ing>
+<ing>1 cl d'huile d'olive</ing>
+<ing>sel, poivre</ing>
+<prep>Mixez les tomates.Faites chauffer de l'huile dans un faitout, ajoutez-y les oignons hachés, faites dorer.Ajoutez les tomates mixées, salez, poivrez, ajoutez un peu de marjolaine, une feuille de laurier. Faites mijoter à feu doux.Dans un mixeur, mettez la viande hachée, l'oeuf, salez, poivrez, ajoutez 1 c. à soupe de marjolaine, mélangez.Faites des boulettes et roulez-les dans la farine.Mettez les boulettes dans la sauce bouillante, faites cuire 30 min.Servez avec des pâtes al dente.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1102>
+<title>Boulettes le lendemain du potage</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :20 min</inf>
+<cat>Soupes</cat>
+<cat>Potage</cat>
+<ing> Pour le potage : </ing>
+<ing> 1 jarret de bœuf  </ing>
+<ing> des côtes de veau </ing>
+<ing> un os à moelle </ing>
+<ing>  Les légumes : </ing>
+<ing> poireaux </ing>
+<ing> carottes </ing>
+<ing> navets raves </ing>
+<ing> 1 oignon piqué d'un clou de girofle </ing>
+<ing> pommes de terre</ing>
+<ing> pois chiches </ing>
+<ing> sel, poivre</ing>
+<prep>Le lendemain, hachez tous les restes. Ajoutez deux œufs. Formez, à la main des boulettes. Roulez-les dans la farine et passez-les à la poêle. Mangez-les aussitôt avec une salade verte. Cela peut faire un repas complet. Bon appétit !</prep>
+<eng>0</eng>
+</rec>
+<rec id=1103>
+<title>Boulettes light à la libanaise et sauce au yaourt allégé</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 25 min
+Cuisson :15 min</inf>
+<ing>300 g de boeuf haché à 10% de MG maximum </ing>
+<ing>25 cl de yaourt à 0% de MG</ing>
+<ing>2 c. à soupe de son d'avoine</ing>
+<ing>1 petit oignon blanc</ing>
+<ing>1 petite gousse d'ail</ing>
+<ing>1 c. à café de zahtar</ing>
+<ing>1/2 c. à café de sumac en poudre</ing>
+<ing>1 pincée de cannelle en poudre</ing>
+<ing>1 pincée de muscade</ing>
+<ing>poivre noir</ing>
+<ing>1/2 c. à café de menthe séchée</ing>
+<ing>1 c. à café de menthe fraîche</ing>
+<ing>sel fin marin sans anti-agglomérant</ing>
+<prep>Préchauffez le four à th.6 (180°C).Préparez la sauce au yaourt : mélangez dans un bol le yaourt avec le zahtar, 2 pincées de sel, la menthe séchée et la menthe fraîche ciselée, puis le sumac. Réservez.Hachez finement l'oignon et écrasez l'ail au presse-ail ou au mortier, avec une pincée de sel.Dans un bol, mélangez la viande, l'oignon haché, l'ail, 2 pincées de sel, la cannelle, 2 pincées de poivre noir moulu et la muscade râpée à la main. Rajoutez le son d'avoine et mélangez à nouveau.Formez alors les boulettes en prélevant une grosse noix de farce, en la pressant dans le creux d'une main puis en la roulant entre les paumes de vos mains. Déposez les boulettes sur une plaque en silicone allant au four ou sur la plaque du four recouverte de papier sulfurisé.Enfournez une quinzaine de minutes, les boulettes doivent être dorées sans être desséchées.Servez rapidement avec la sauce au yaourt et quelques feuilles de menthe fraîche. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1104>
+<title>Boulettes mijotées</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Intermédiaire
+Préparation : 35 min
+Cuisson :15 min</inf>
+<cat>Viandes</cat>
+<cat>Boeuf</cat>
+<ing>Pour la sauce tomate :</ing>
+<ing>800 g de tomates passées</ing>
+<ing>16 tomates séchées</ing>
+<ing>2 c. à soupe de fromage de chèvre</ing>
+<ing>2 c. à café de concentré de tomate</ing>
+<ing>4 c. à soupe d’huile d’olive</ing>
+<ing>1 petit oignon rouge</ing>
+<ing>2 gousses d’ail</ing>
+<ing>1 c. à soupe de vinaigre balsamique</ing>
+<ing>1 c. à café de paprika en poudre</ing>
+<ing>½ c. à café de cannelle</ing>
+<ing>½ c. à café de clou de girofle moulu</ing>
+<ing>1 c. à café de sucre</ing>
+<ing>sel, poivre noir du moulin</ing>
+<ing>Pour les boulettes :</ing>
+<ing>500 g de hachis porc-boeuf</ing>
+<ing>1 oeuf battu</ing>
+<ing>farine</ing>
+<ing>½ c. à soupe de beurre</ing>
+<ing>2 c. à soupe d’huile d’olive</ing>
+<ing>2 c. à soupe d’oignon finement émincé</ing>
+<ing>3 c. à soupe de chapelure</ing>
+<ing>1 c. à soupe de menthe fraîche finement hachée</ing>
+<ing>1 pincée de poivre de Cayenne</ing>
+<ing>sel, poivre du moulin </ing>
+<prep>Commencez par préparer la sauce. Faites chauffer l’huile d’olive et faites-y revenir l’oignon finement haché et l’ail jusqu’à ce qu’ils deviennent translucides.Ajoutez les tomates passées, le vinaigre balsamique, le paprika, la cannelle, le clou de girofle et le sucre. Salez et poivrez. Faites cuire la sauce à couvert, pendant 15 minutes à feu doux, en remuant régulièrement.Pour les boulettes, mélangez le hachis avec l’oignon et la chapelure. Ajoutez les épices, salez et poivrez. Mélangez l’oeuf battu à la préparation.Saupoudrez vos mains de farine et confectionnez des boulettes de taille moyenne.Faites chauffer le beurre et l’huile dans une grande poêle et faites-y dorer les boulettes. Déposez-les ensuite dans la casserole contenant la sauce tomate. Mélangez-y les tomates séchées finement ciselées, le fromage de chèvre et le concentré de tomate. Laissez mijoter 10 à 15 minutes à feu doux en remuant de temps à autre.Servez avec des pâtes et des feuilles de basilic.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1105>
+<title>Boulettes roulées aux tranches d'aubergine</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :30 min</inf>
+<cat>Viandes</cat>
+<cat>Veau</cat>
+<ing>300 g de veau haché </ing>
+<ing>1 oeuf</ing>
+<ing>2 grosses et longues aubergines</ing>
+<ing>1 tranche de pain de mie rassis </ing>
+<ing>1 oignon </ing>
+<ing>½ c. à café de thym</ing>
+<ing>3 tomates </ing>
+<ing>½ c. à café de basilic ciselé</ing>
+<ing>75 g de parmesan râpé (ou de kaþar, fromage turc) </ing>
+<ing>4 c. à soupe de l'huile d'olive pour la sauce et l'huile de tournesol pour la friture</ing>
+<ing>sel, poivre</ing>
+<prep>Mélangez la viande, le pain de mie, l'oeuf et le fromage dans un bol. Ajoutez le sel, le poivre, le thym et le basilic. Travaillez pour obtenir une pâte lisse et homogène. Formez à la main des boulettes en forme de doigt. Laissez reposer. Lavez les aubergines, coupez-les en lanières et en longueur. Mettez une boulette sur une lanière, roulez et ficelez (ou avec une cure-dent). Chauffez l'huile dans une poêle, laissez dorer les rouleaux d'aubergine en tournant délicatement. Disposez sur le papier absorbant. Pour la sauce, émincez les oignons, pelez et hachez les tomates, faites chauffer l'huile et tournez les oignons et les tomates 4 à 5 minutes. Quand elle est assez onctueuse, disposez les rouleaux et faites mijoter ensemble pendant 7 à 8 minutes à feu doux. Servez chaud, accompagné de pilaf de riz.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1106>
+<title>Boulghour aux legumes</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 25 min
+Cuisson :25 min</inf>
+<cat>Légumes</cat>
+<cat>Aubergine</cat>
+<ing>1 aubergine </ing>
+<ing>4 tomates </ing>
+<ing>1 courgette </ing>
+<ing>200 g de boulghour</ing>
+<ing>20 g de margarine </ing>
+<ing>50 cl d'eau (ou de bouillon de volailles ou de légumes)</ing>
+<ing>50 g de parmesan râpé </ing>
+<ing>1 gousse d'ail</ing>
+<ing>4 c. à soupe de persil </ing>
+<ing>2 c. à soupe d'huile d'olive </ing>
+<ing>sel, poivre</ing>
+<prep>Préchauffez votre four th.7 (200°C). Lavez, taillez en deux et épépinez l'aubergine, les tomates et la courgette. Coupez-les en dés.Épluchez et hachez l'ail. Effeuillez, lavez et hachez le persil. Faites chauffer l'huile dans une cocotte anti-adhésive, faites-y revenir l'aubergine, la courgette et les tomates. Assaisonnez.Faite fondre la margarine dans une poêle, faites-y revenir le boulghour 1 à 2 min et arrosez d'eau. Portez à ébullition et laissez cuire environ 12 min. Placez le boulghour et les légumes dans un saladier, mélangez l'ensemble. Assaisonnez. Répartissez la préparation dans un plat du four, saupoudrez de persil, d'ail haché et de fromage. Placez au four et laissez cuire 10 min puis faites gratiner la surface sous le grill jusqu'à l'apparition d'une légére coloration.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1107>
+<title>Bounty maison</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :8 min</inf>
+<cat>Desserts classiques</cat>
+<cat>Chocolat</cat>
+<ing>400g de lait concentré sucré</ing>
+<ing>350g de noix de coco rappée</ing>
+<ing>200g de chocolat noir 85% de cacao ou light</ing>
+<prep>Faites fondre au bain marie, le chocolat coupés en morceauxDans un saladier, mélangez le lait concentré sucré avec la noix de coco rapéeFormez des bounty avec vos mainsLaissez au frais quelques heuresTrempez les bounty dans le chocolat à l'aide d'une fourchette et posez-les sur une grille pour les égoutterMettez au frais avant de déguster</prep>
+<eng>0</eng>
+</rec>
+<rec id=1108>
+<title>Bouquets  deglaces au champagne</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :5 min</inf>
+<cat>Recettes</cat>
+<cat>Champagne</cat>
+<ing>1 kg de bouquets de crevettes vivantes</ing>
+<ing>10 cl de cognac fine champagne</ing>
+<ing>1/2 botte de cerfeuil ciselé</ing>
+<ing>70 g de beurre</ing>
+<ing>sel, poivre</ing>
+<prep>Faites chauffer le beurre dans une grande poêle, quand il est chaud, faites-y sauter les bouquets 3 min, salez un peu et poivrez bien.Déglacez avec la fine champagne sans faites flamber. Retirez du feu et ajoutez le cerfeuil finement ciselé. Mettez les bouquets dans les assiettes creuses chaudes et déposez dessus quelques copeaux de beurre salé et servez du pain de seigle.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1109>
+<title>Bourbelier de sanglier</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :30 min</inf>
+<cat>Recettes</cat>
+<cat>Cannelle</cat>
+<ing>Pour la viande :</ing>
+<ing>1 kg de rôti de sanglier</ing>
+<ing>4 clous de girofle</ing>
+<ing>50 g de beurre</ing>
+<ing>Pour la marinade :</ing>
+<ing>suffisamment de bon vin rouge pour couvrir la viande</ing>
+<ing>le jus d'un citron</ing>
+<ing>2 c. à soupe de vinaigre de vin</ing>
+<ing>les graines de 6 gousses de Cardamome</ing>
+<ing>1/2 c. à café de cannelle en poudre</ing>
+<ing>1 c. à café de gingembre</ing>
+<ing>2 clous de girofle</ing>
+<ing>1 pointe de poivre de Cayenne</ing>
+<ing>15 grains de poivre</ing>
+<prep>Faites mariner votre rôti de sanglier, depuis la veille, dans la marinade. Retirez-le, essuyez-le et faites-le rôtir aprés l'avoir piqué de 4 clou de girofle, soit à la broche, soit dans une cocotte avec du beurre.Quand il est à mi-cuisson, mettez la marinade dans une cocotte et faites-la bouillir, puis versez-la, chaude, sur votre rôti (soit dans la cocotte où il est déjà en train de cuire, soit après l'avoir ôté de la broche et placé dans une autre cocotte). Faites cuire le tout ensemble en laissant bouillotter doucement.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1110>
+<title>Bourguignon de veau</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :3 h </inf>
+<cat>Vin</cat>
+<cat>Vin rouge</cat>
+<ing>1 kg de tendron de veau</ing>
+<ing>1 tranche de jambon cru de 150 g</ing>
+<ing>200 g de pommes de terre</ing>
+<ing>300 g de carottes</ing>
+<ing>1 oignon</ing>
+<ing>1 L de vin rouge</ing>
+<ing>1 c. à soupe de farine</ing>
+<ing>1 c. à soupe d'huile</ing>
+<ing>1 noix de beurre</ing>
+<ing>1 bouquet garni</ing>
+<ing>persil ciselé</ing>
+<ing>sel, poivre</ing>
+<prep>Faites chauffer l'huile dans une cocotte.Faites colorer les morceaux de tendron de veau sur toutes les faces pendant 15 minutes en les mélangeant bien.Débarrassez de la cocotte et réservez.Coupez la tranche de jambon en carré de 1 cm de côté.Pelez et coupez les carottes en rondelles de 2 mm.Pelez et coupez les pommes de terre en petits morceaux.Epluchez et émincez finement l'oignon. Ajoutez l'oignon et le jambon dans la cocotte et laissez cuire 10 minutes.Ôtez-les à l'aide d'un écumoire et réservez.0Dans la même cocotte, faites fondre le beurre puis versez la farine en pluie.1Laissez roussir puis remettrez la viande, le jambon et l'oignon.2Mélangez bien et mouillez avec le vin rouge.3Ajoutez ensuite les pommes de terre, les carottes et le bouquet garni. Salez et poivrez.4Couvrez la cocotte et faites mijoter à feux doux pendant 2 h 30.5Découvrez et laissez mijoter encore 30 minutes à découvert. Enlevez le bouquet garni.6Disposez le tout dans un plat de service chaud et parsemez de persil ciselé.7Dégustez sans attendre.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1111>
+<title>Bourride de lotte à la sétoise</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :40 min</inf>
+<cat>Recettes</cat>
+<cat>Ail</cat>
+<ing>1 kg de lotte en filets</ing>
+<ing>2 carottes</ing>
+<ing>2 blancs de poireaux</ing>
+<ing>1 branche de céleri</ing>
+<ing>2 oignons </ing>
+<ing>1 gousse d'ail</ing>
+<ing>1/4 de verre de vin blanc sec</ing>
+<ing>thym</ing>
+<ing>laurier</ing>
+<ing>4 c. à soupe d'huile d'olive</ing>
+<ing>sel</ing>
+<ing>Pour l'aioli:</ing>
+<ing>2 gousses d’ail</ing>
+<ing>1 jaune d’œuf</ing>
+<ing>Le jus d’1/2 citron</ing>
+<ing>1 cuillère à soupe de vinaigre de vin blanc</ing>
+<ing>2 louches de fumet de poisson</ing>
+<ing>10 cl d’huile de tournesol</ing>
+<ing>10 cl d’huile d’olive</ing>
+<ing>Poivre</ing>
+<prep>Coupez les carottes, les blancs de poireaux, le céleri, les oignons et l'ail très fins et mettez-les à froid dans l'huile d'olive dans une cocotte en fonte. Laissez cuire à feu moyen pendant 20 à 25 min en remuant fréquemment pour ne pas que cela accroche à la cocotte. Coupez vos filets de lotte en morceaux, et ajoutez-les aux légumes dans la cocotte, ainsi que le vin blanc. Salez et poivrez. Couvrez et laissez cuire à feu doux en remuant de temps en temps pendant 15 min.Préparez l'aïoli : pelez les gousses d'ail et hachez-les, puis mettez-les dans un bol et salez. Ajoutez les jaunes d'oeufs et mélangez pendant 2 min, poivrez et laissez reposer durant 5 min. Versez l'huile d'arachide en filets comme pour monter une mayonnaise, puis ajoutez l'huile d'olive de la même façon. Rectifiez l'assaisonnement.Au bout des 15 min de cuisson, retirez la lotte de la cocotte et déposez-la dans un plat chaud. Ajoutez l'aïoli que vous venez de préparer à la sauce de cuisson de la cocotte. Laissez cette sauce réduire quelques instants en laissant mijoter à feu doux.Servez la bourride de lotte à la sétoise recouverte de sa sauce et accompagnée d'un riz blanc ou de légumes du soleil (courgettes, poivrons, etc.).</prep>
+<eng>0</eng>
+</rec>
+<rec id=1112>
+<title>Braciola farci aux asperges et mozzarella</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :10 min</inf>
+<cat>Italie</cat>
+<cat>Mozzarella</cat>
+<ing>4 biftecks sandwich </ing>
+<ing>12 asperges vertes </ing>
+<ing>150 g de mozzarella </ing>
+<ing>15 g de parmesan râpé </ing>
+<ing>Sel, poivre</ing>
+<ing>Pour le coulis :</ing>
+<ing>1 boîte de tomates pelées </ing>
+<ing>125 g de poireaux </ing>
+<ing>30 ml de pesto ou 2 branches de basilic </ing>
+<ing>1 gousse d'ail dégermée et hachée </ing>
+<ing>15 ml de miel </ing>
+<ing>25 g de parmesan </ing>
+<prep>Préchauffez le four Th.6 (180°C).Saisissez 30 secondes de chaque côté les steaks et déposez-les dans une assiette. Faites blanchir les asperges 3 minutes à l'eau salée. Placez trois asperges à environ 3 cm de l'extrémité de chaque steak. Ajoutez la mozzarella. Saupoudrez de parmesan et roulez trés serré. Faites tenir avec des cure-dents ou à l'aide d'une corde de boucherie. Enfournez environ 10 minutes. Mélangez tous les ingrédients du coulis au robot culinaire. Réchauffez et nappez les braciolas. Servez accompagné d'une salade de roquette. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1113>
+<title>Braciola (Italie du sud)</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :30 min</inf>
+<cat>Viandes</cat>
+<cat>Boeuf</cat>
+<ing>8 tranches de boeuf (coupées fin comme pour une pierrade)</ing>
+<ing>8 tranches de lard fumé (poitrine coupée en fines tranches)</ing>
+<ing>2 tomates pelées</ing>
+<ing>1 ou 2 oignons (quantité à adapter selon votre goût)</ing>
+<ing>ail haché</ing>
+<ing>persil haché</ing>
+<ing>huile d'olive</ing>
+<prep>Préparation de la sauce tomates : faites dorer dans de l'huile d'olive, de l'ail et les oignons. Ajoutez les tomates pelées. Salez et poivrez.Farcissez les tranches de boeuf avec : les tranches de lard fumé, l'ail, le persil, du sel, du poivre. Enroulez et attachez soit avec du fil pour cuisine ou avec des petites piques en bois. Quand la sauce est cuite à votre goût, mettez les braciole dans la sauce tomates et laissez cuire pendant 25 min (selon la taille).</prep>
+<eng>0</eng>
+</rec>
+<rec id=1114>
+<title>Bradjs (pâtisseries Algériennes) </title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Intermédiaire
+Préparation : 30 min
+Cuisson :15 min</inf>
+<ing>600 g de semoule moyenne</ing>
+<ing>200 g de beurre fondu</ing>
+<ing>mélange d’eau de fleur d’oranger et d’eau</ing>
+<ing>350 g de pâte de dattes</ing>
+<ing>1/4 c. à café de cannelle</ing>
+<ing>1 pincée de clous de girofle</ing>
+<ing>2 c. à soupe d’huile neutre</ing>
+<ing>1 pincée de sel</ing>
+<prep>Mettez la semoule dans un plat et ajoutez la pincée de sel et le beurre fondu petit à petit. Travaillez-la et laissez reposer quelques minutes.Ajouter progressivement le mélange eau/fleur d’oranger jusqu'à l'obtention d'une pâte maniable.Divisez-la en 2 boules de même taille.Ajoutez la cannelle et les clous de girofle à la pâte de dattes.Malaxez bien avec l’huile et laissez de côté.Étalez la première boule de pâte (semoule/beurre) à la main. Faites de même avec la pâte de datte et déposez-la sur la première. Si la pâte de dattes colle sur le plan de travail, farinez légèrement celui-ci. Appuyez afin de faire adhérer les 2 pâtes.0Enfin, étalez la seconde pâte (semoule/beurre) et déposez-la sur les 2 précédentes. 1Appuyez à nouveau afin de souder le tout. Arrondissez les bords et découpez des losanges. 2Faites chauffer une poêle à fonds épais et faites-les cuire des 2 côtés. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1115>
+<title>Brandade de cabillaud</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :15 min</inf>
+<cat>Recettes</cat>
+<cat>Brandade</cat>
+<ing>500 g de pommes de terre</ing>
+<ing>4 filets (de 200 g environ) de cabillaud</ing>
+<ing>15 cl de lait</ing>
+<ing>1 c. à café de jus de citron</ing>
+<ing>2 c. à café d'huile d'olive ou de tournesol</ing>
+<ing>2 gousses d'ail</ing>
+<ing>1 brin d'aneth</ing>
+<ing>sel, poivre</ing>
+<prep>Salez préalablement vos filets de cabillaud à la fleur de sel puis réserver-les au frigo pendant au moins 1h. Vérifiez bien qu'il ne reste aucune arrête dans les filets sinon enlevez-les à l'aide d'une pince à épiler.Épluchez les pommes de terre, coupez-les en petits dés et faites-les cuire dans une eau salée (10g de gros sel par litre environ) pendant 10 min à partir de l'ébullition. Une fois cuite, égouttez-les et réservez-les.Parallèlement, lavez l'aneth, séchez-le et émincez-le finement. Faites chauffer le lait dans une casserole et ajoutez-y l'aneth, les gousses d'ail épluchées et les filets de cabillaud après avoir ôté la peau. Laisser cuire 5 min à partir de l'ébullition puis égouttez les filets de poisson (gardez le lait de cuisson pour la suite de la recette).Mixez les pommes de terre et le poisson avec l'huile d'olive, puis une peu de lait de cuisson et le jus de citron, afin de détendre la brandade de cabillaud. Ajoutez une pincée de poivre pour relever le tout.Servez la brandade de cabillaud tiède avec quelques petits morceaux de poisson que vous aurez réservés au préalable ou accompagnée d'une salade bien assaisonnée.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1116>
+<title>Brandade de morue</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :20 min</inf>
+<cat>Recettes</cat>
+<cat>Brandade</cat>
+<ing>1 kg de morue salée</ing>
+<ing>1 ficelle de pain rassis</ing>
+<ing>20 cl de lait</ing>
+<ing>1 gousse d'ail</ing>
+<ing>1/2 citron</ing>
+<ing>2 brins de persil plat</ing>
+<ing>10 olives noires</ing>
+<ing>30 cl d'huile d'olives</ing>
+<ing>2 c. à soupe d'huile d'olive</ing>
+<ing>sel, poivre</ing>
+<prep>La veille, coupez la morue en morceaux. Placez-les dans une passoire à pieds disposée dans une grande bassine d'eau froide. Laissez dessaler pendant 24 heures en changeant l'eau à plusieurs reprises.Le jour même, rincez longuement la morue. Placez les morceaux dans une marmite. Couvrez d'eau froide. Portez doucement à frémissement. Maintenez-les 10 min. Faites tièdir séparément 30 cl d'huile d'olive et le lait.Egouttez la morue pochée. Enlevez les peaux noires et blanches, les arêtes, et effeuilez finement la chair à la fourchette. Dans une sauteuse, versez 3 c. à soupe d'huile d'olive tièdie prélevée sur la quantité totale. Ajoutez la morue. Pilez-la à feu doux, pour la réduire en pâte fine et homogène puis en la tournant vivement, avec une spatule en bois, incorporez petit à petit et en les alternant, l'huile et le lait tièdes.Lorsque la brandade a l'aspect d'une purée onctueuse, poivrez-la et ajoutez un filet de jus de citron. Goûtez-la et rectifiez l'assaisonnement en sel. Versez-la dans un plat chaud. Lissez-la et gardez-la au chaud. Coupez la ficelle en rondelles. Frottez-les d'une gousse d'ail coupée en deux. Faites-les frire dans l'huile restante. Au moment de servir, parsemez la brandade de feuilles de persil ciselées et piquez-la des olives dénoyautées et coupées en 2 et des petits croûtons aillés.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1117>
+<title>Brandade de morue à la purée de pomme de terre</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :35 min</inf>
+<cat>Recettes</cat>
+<cat>Brandade</cat>
+<ing>500 g de filets de morue désalés </ing>
+<ing>500 g de pommes de terre </ing>
+<ing>4 gousses d'ail </ing>
+<ing>1 oignon</ing>
+<ing>2 cubes de persil (ou persil frais)</ing>
+<ing>ciboulette</ing>
+<ing>15 cl d'huile d'olive</ing>
+<ing>1 grosse noix de beurre</ing>
+<ing>10 cl de lait</ing>
+<prep>La veille, faites dessaler les filets de morue en les trempant dans un gros volume d’eau froide. Rincez-les, changez d'eau et remettez-les à tremper, faites cette manipulation 2-3 fois et laissez tremper toute la nuit dans l'eau froide.Le jour même, commencez par peler et couper en morceaux les pommes de terre. Faites-les cuire pendant une vingtaine de minutes dans une casserole d'eau bouillante. Une fois vos pommes de terres cuites,écrasez-les en purée à l'aide d'un chinois, d'une fourchette ou d'un presse purée. Ajouter-y une grosse noix de beurre et le lait que vous aurez fait chauffer. Fouettez votre purée énergiquement tout en ajoutant quasiment toute l'huile d'olive (gardez-en un petit peu pour faire revenir vos oignons) petit à petit. Réservez votre purée au chaud.Une fois que la purée est faite, dans une sauteuse faites revenir l'oignon émincé avec les gousses d'ail hachées, la ciboulette et le persil plat dans de l'huile d'olive. Rincez vos filets de morue, égouttez-les et essuyez-les avec un linge propre. Dès que vos oignons commencent à être translucides et un peu dorés, ajoutez les filets de morue. Faire cuire à feu doux quelques minutes en émiettant avec une spatule les filets de morue.Préchauffez votre four th. 7-8 (200°C). Incorporez vos filets de morue émiettés à la purée de pomme de terre et mélangez bien le tout. Mettez votre brandade de morue à la purée de pommes de terre dans un plat à gratin et lisser la brandade à l'aide d'une fourchette. Enfournez la brandade de morue à la purée de pommes de terre pendant 15 minutes puis sortez-la du four.Servez votre brandade de morue à la purée de pommes de terre bien chaude et accompagnez-la d'une salade verte bien assaisonnée.</prep>
+<eng>432</eng>
+</rec>
+<rec id=1118>
+<title>Brandade de morue à ma façon</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+</inf>
+<cat>Recettes</cat>
+<cat>Brandade</cat>
+<ing>350 g de morue</ing>
+<ing> 300 g de pommes de terre</ing>
+<ing> 2 gousses d'ail</ing>
+<ing> 300 ml de lait 1/2 écrémé</ing>
+<ing> 120 ml d'huile d'olive</ing>
+<ing> sel, poivre</ing>
+<prep>Le jour précédent celui de la préparation faites baigner la morue dans une grande casserole d'eau pour la dessaler. Rappelez-vous de changer souvent l'eau de temps en temps pendant ces 24 h de trempette.Le lendemain, c'est-à-dire le jour de la préparation, faites cuire les pommes de terre à l'eau dans une casserole sans les peler, ni les découper.Pendant ce temps, faites bouillir également de l'eau dans une casserole et faites-y pocher la brandade durant 7 min.Retirez les arêtes puis hachez-la grossièrement.Epluchez, puis broyez l'ail.Ajoutez-le au hachis de morue, ainsi qu'un peu de lait et d'huile tiédie.Conservez de côté dans un récipient.Pelez alors les pommes de terre puis écrasez-les en purée dans un bol.Ajoutez ensuite la purée à la morue puis mélangez.0Au cas où le mélange est trop épais, ajoutez du lait.1Salez, poivrez puis servez. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1119>
+<title>Brandade de morue au citron</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :20 min</inf>
+<cat>Recettes</cat>
+<cat>Brandade</cat>
+<ing>1 kg de morue salée</ing>
+<ing>1 ficelle de pain rassis</ing>
+<ing>20 cl de lait</ing>
+<ing>1 gousse d'ail</ing>
+<ing>2 citron</ing>
+<ing>2 brins de persil plat</ing>
+<ing>une douzaine d'olives noires</ing>
+<ing>30 cl d'huile d'olive </ing>
+<ing>2 c. à soupe d'huile d'olive</ing>
+<ing>sel, poivre</ing>
+<prep>La veille, coupez la morue en morceaux. Placez-les dans une passoire à pieds disposée dans une grande bassine d'eau froide. Laissez dessaler pendant 24 heures en changeant l'eau à plusieurs reprises.Le lendemain, rincez longuement la morue. Placez les morceaux dans une marmite. Couvrez d'eau froide. Portez doucement à frémissement et maintenez-les 10 min. Faites tiédir séparément 30 cl d'huile d'olive et le lait.Egouttez la morue pochée. Enlevez les peaux noires et blanches, les arêtes, et effeuillez finement la chair à la fourchette. Dans une sauteuse, versez trois c. à soupe d'huile d'olive tiédie prélevée sur la quantité totale. Ajoutez la morue. Pilez la à feu doux, pour la réduire en pâte fine et homogéne puis en la tournant vivement avec une spatule en bois, incorporez petit à petit et en les alternant, l'huile et le lait tiédes.Lorsque la brandade a l'aspect d'une purée onctueuse, poivrez-la et ajoutez un filet de jus de citron. Goûtez-la et rectifiez l'assaisonnement en sel. Versez-la dans un plat chaud. Lissez-la et gardez-la au chaud. Coupez la ficelle en rondelles. Frottez-les d'une gousse d'ail coupée en deux. Faites-les frire dans l'huile restante. Au moment de servir, parsemez la brandade de feuilles de persil ciselées et piquez-la des olives dénoyautées et coupées en deux et des petits croûtons aillés.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1120>
+<title>Brandade de morue de Pat</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :1 h </inf>
+<cat>Recettes</cat>
+<cat>Brandade</cat>
+<ing>1 kg de morue</ing>
+<ing>500 g de pommes de terre</ing>
+<ing>2 civres ou oignons de pays</ing>
+<ing>1 gousse d'ail</ing>
+<ing>1 piment</ing>
+<ing>1 à 2 c. à soupe de vinaigre</ing>
+<ing>1 branche de thym</ing>
+<ing>2 c. à soupe d'huile</ing>
+<ing>1/2 l  de lait</ing>
+<ing>5 à 6 c. à soupe de chapelure</ing>
+<ing>poivre</ing>
+<prep>Faites dessaler la morue.Faites-la cuire à l'eau. Faites également cuire les pommes de terre à l'eau avec leur peau. Laissez refroidir.Préchauffez le four th.6 (180°C).Emiettez la morue, épluchez les pommes de terre et passez le tout au moulin à légumes (grosse grille).Faites revenir les cives ou oignons, le thym, le persil et ajoutez la morue et les pommes de terre.Ajoutez le lait, remuez bien et poivrez. Ajoutez le piment, le vinaigre et l'ail. Laissez cuire 5 à 10 min.Versez le tout dans un plat allant au four. Ajoutez l'huile, saupoudrez de chapelure et faites dorer au four 15 min.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1121>
+<title>Brandade de morue facile</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 45 min
+Cuisson :1 h 15 min</inf>
+<ing>Pour 6 cocottes</ing>
+<ing>800 g de pomme de terre</ing>
+<ing>800 g de filets de Morue (sous vide même rayon que les harengs fumés)</ing>
+<ing>20 cl d'huile d'olive</ing>
+<ing>15 cl de lait</ing>
+<ing>1 poignée d'olives noires (pour le décors)</ing>
+<ing>3 gousses d'ail écrasées</ing>
+<ing>12 tranches de pain + 1 gousse d'ail + huile d'olive</ing>
+<ing>poivre</ing>
+<ing>Thym et Laurier</ing>
+<prep>Dessalez  la morue 6 heures en changeant l'eau toute les 2 heures (pour les filets sous vide, sinon 24 heures)- Épluchez et coupez les pommes de terre en 4- Les faire cuire 25 mm dans l'eau bouillante non salée- Pochez la morue dans l'eau bouillante non salée 8 mm avec le thym et le laurier- Égouttez les pommes de terre et la morue et laissez refroidir-Effeuillez la chair de la morue en veillant à ne pas laisser d'arrêtes- Chauffez 5 cl d'huile d'olive dans une sauteuse et ajoutez les pommes de terre et la morue- Écrasez grossièrement avec une fourchette ajoutez l'ail  et cuire en remuant pendant 5 mm- Avec une cuillère en bois ou un pilon continuez d'écraser en laissant encore 5 mm0- Hors du feu versez en alternance par petites quantités les 15 cl d'huile et le lait bouillant en remuant tout le temps avec la spatule en bois1- Poivrez et goûtez pour rectifier l'assaisonnement (vous pouvez ajouter un peu d'huile d'olive si le mélange est trop compact)2- Mettre dans les cocottes et faire réchauffer à 150 ° 30 mm avant de servir  (poser un papier cuisson dessus pour éviter qu'elles se dessèchent)3- Au dernier moment dorez dans l'huile d'olive  les tranches de pain frottés avec l'ail4- Déposez une olive noire avant de servir sur chaque cocotte</prep>
+<eng>0</eng>
+</rec>
+<rec id=1122>
+<title>Brandade de morue gratinée</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :30 min</inf>
+<cat>Recettes</cat>
+<cat>Brandade</cat>
+<ing>500 g de filet de morue dessalée</ing>
+<ing>2 grosses pommes de terre</ing>
+<ing>1 gousse d'ail</ing>
+<ing>1 citron</ing>
+<ing>1 bouquet garni</ing>
+<ing>15 cl de lait</ing>
+<ing>3 c. à soupe d'huile d'olive</ing>
+<ing>150 g de comté</ing>
+<ing>sel, poivre</ing>
+<prep>La brandade de morue gratinée se prépare en deux temps. La veille, mettez les filets de morue à dessaler dans de l'eau froide. Changez l'eau plusieurs fois, autant que possible afin de retirer un maximum de sel des poissons.Le jour J, Pelez les pommes de terre, coupez-les en gros cubes et faites-les cuire 15 min dans une casserole d'eau bouillante.Coupez la morue en morceaux et faites-les pocher 3 min dans une casserole d'eau bouillante avec le bouquet garni. Égouttez. Égouttez également les pommes de terre cuites et écrasez-les grossièrement à la fourchette en ajoutant le lait petit à petit.Débarrassez la morue de la peau et des arêtes qui pourraient subsister. Émiettez-la à la fourchette en incorporant peu à peu l'huile et le citron.Pour cuire votre brandade de morue gratinée, préchauffez le four th.7 (210°C).Réunissez les pommes de terre et la morue et pressez la gousse d'ail au-dessus d'un saladier. Remuer longuement à la fourchette ou avec une spatule jusqu'à ce que tous les ingrédients soient mélangés. Poivrez et salez à votre convenance. Râpez le fromage.Disposez la brandade dans un plat à gratin, saupoudrez le fromage râpé et faites gratiner au four environ 15 min. Servez votre brandade de morue gratinée bien chaude accompagnée d'une salade verte ou de tomates fraiches.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1123>
+<title>Brandade de morue nîmoise</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :20 min</inf>
+<cat>Recettes</cat>
+<cat>Brandade</cat>
+<ing>800 g de morue salée</ing>
+<ing>2 grosses pommes de terre</ing>
+<ing>le jus d'1 citron</ing>
+<ing>6 gousses d'ail</ing>
+<ing>13 c. à soupe d'huile d'olive</ing>
+<ing>1 l de lait</ing>
+<ing>3 c. à soupe de créme fraîche</ing>
+<ing>10 olives noires dénoyautées</ing>
+<ing>50 g de chapelure blanche</ing>
+<ing>1 noix de beurre</ing>
+<ing>noix de muscade</ing>
+<ing>sel, poivre</ing>
+<prep>La veille, ôtez l'excédent de gros sel des filets de morue en les frottant à l'aide d'un torchon, puis mettez à dessaler à l'eau douce dans une passoire, mise dans un grand saladier 24 heures au minimum, en veillant à changer l'eau réguliérement.Dans la cocotte, mettez 50 cl de lait, 1,5 l d'eau, 2 gousses d'ail puis ajoutez la morue et les pommes de terre coupées en grosses rondelles.Fermez la cocotte, dés le sifflement de la soupape, baissez le feu et laissez cuire 10 min. Ouvrez.Pendant la cuisson de la morue, plongez quelques instants les gousses d'ail restantes dans de l'eau bouillante pour les blanchir.Répétez l'opération 2 ou 3 fois, puis mettez-les dans 12 c. à soupe d'huile d'olive et laissez pocher de 10 à 15 min à feu doux. Ôtez les gousses d'ail et jetez-les.Retirez et égouttez soigneusement la morue et les pommes de terre.Faites chauffer d'une part le lait restant, d'autre part l'huile d'olive.Dans le mixeur, mettez la morue, les pommes de terre, l'huile d'olive parfumée à l'ail, le lait chaud et la créme fraîche.Mixez 2 à 3 min jusqu'à l'obtention d'un mélange homogéne.0Assaisonnez en sel, poivre et noix de muscade.1Beurrez soigneusement un plat à gratin, puis garnissez-le de brandade.2Saupoudrez de chapelure. Huilez légérement le dessus et enfournez en position gril.3Juste avant de servir, ajoutez un filet de citron et décorez de quelques olives noires dénoyautées.4Vous pouvez accompagner cette brandade d'une petite salade de tomates-cerises et d'oignons frais, mais également d'une bonne salade verte.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1124>
+<title>Brandade de poisson à ma façon</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : 
+Préparation : 30 min
+Cuisson :25 min</inf>
+<cat>Recettes</cat>
+<cat>Brandade</cat>
+<ing>1 kg de filets de poisson salé</ing>
+<ing>500 g d'igname</ing>
+<ing>300 g de pomme de terre</ing>
+<ing>15 cl huile olive</ing>
+<ing>1 tête d'ail</ing>
+<ing>10 g de câpres</ing>
+<ing>100 g de parmesan râpé</ing>
+<prep>Deux jours avant, dessalez le poisson en le gardant trempé pendant 48h dans un bol d’eau claire.Ensuite, faites pochez votre poisson.Pelez l’igname et la pomme de terre.Lavez-les puis, faites-les cuire dans une casserole d’eau bouillante.Mettez ces 3 ingrédients dans le bol d’un robot adapté puis, mixez soigneusement.A la mixture obtenue, ajoutez l'huile d'olive, les câpres et l'ail.Mixez encore pour obtenir un bon mélange.Disposez votre mélange dans un plat à gratin.Déposez-y une couche fine de parmesan râpé.0Enfournez pendant 25 min sous le grill en faisant gratiner. 1Servez aussitôt.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1125>
+<title>Brandade parmentier</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Intermédiaire
+Préparation : 40 min
+Cuisson :1 h </inf>
+<cat>Hachis</cat>
+<cat>Parmentier</cat>
+<ing>600 g de morue avec la peau</ing>
+<ing>500 g de pommes de terre à purée</ing>
+<ing>3 c. à soupe de chapelure</ing>
+<ing>10 cl de lait</ing>
+<ing>10 cl d'huile d'olive</ing>
+<ing>2 gousses d'ail</ing>
+<ing>1 feuille de laurier</ing>
+<ing>1 gros bouquet de persil</ing>
+<ing>gros sel</ing>
+<ing>poivre du moulin</ing>
+<prep>La veille, rincez la morue à l'eau courante. Posez-la, peau au-dessus, dans une passoire et plongez-la dans une grande bassine d'eau froide de maniére à ce que la morue ne touche pas le fond de la bassine. Laissez-la dessaler 18 heures environ en changeant l'eau réguliérement.Le jour même, pelez les pommes de terre, plongez-les dans une grande casserole d'eau froide, portez à ébullition puis salez au gros sel et laissez cuire de 25 à 30 min, jusqu'à ce qu'elles soient tendres à cœur.Pendant ce temps, rincez une derniére fois les filets de morue à l'eau courante, égouttez-les, coupez-les en morceaux, posez-les sur la peau dans une grande casserole, recouvrez-les de 3 l d'eau froide, ajoutez une feuille de laurier; portez, sur feu doux, à la limite de l'ébullition et faites cuire 8 min sans faire bouillir en écumant réguliérement puis retirez du feu et laissez tiédir. Prélevez les morceaux de morue à l'écumoire, égouttez-les dans une passoire et effeuillez la morue du bout des doigts en éliminant la peau et les arêtes.Préchauffez le four th.6 (180°C).Lavez le persil, séchez-le et ciselez-le finement. Épluchez les gousses d'ail et hachez-les finement.Lorsque les pommes de terre sont cuites, égouttez-les puis écrasez-les à la fourchette avec la morue puis ajoutez le lait, l'huile d'olive, l'ail, le persil et du poivre.Répartissez la brandade dans des plats à gratin préalablement huilés au pinceau, parsemez de chapelure et mettez à gratiner 15 min au four.   </prep>
+<eng>0</eng>
+</rec>
+<rec id=1126>
+<title>Brazo de gitano </title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :15 min</inf>
+<cat>Recettes</cat>
+<cat>Zeste</cat>
+<ing> Pour le gâteau roulé : </ing>
+<ing>3 oeufs </ing>
+<ing>50 g de beurre </ing>
+<ing>100 g de sucre </ing>
+<ing>80 g de farine </ing>
+<ing>1 zeste de citron râpé </ing>
+<ing>100 g de sucre glace pour décorer </ing>
+<ing>Pour la créme pâtissiére : </ing>
+<ing>1/4 de l de lait </ing>
+<ing>1/2 sachet de sucre vanillé </ing>
+<ing>125 g de sucre en poudre </ing>
+<ing>30 g de beurre (ou de margarine) </ing>
+<ing>1 zeste de citron râpé </ing>
+<ing>3 jaunes d'oeufs </ing>
+<ing>1 c. à soupe de farine</ing>
+<prep>Préchauffez le four th.7 (210°C).Préparez la créme pâtissiére : mélangez à feu doux, le beurre (ou margarine) et la farine jusqu'à ce que la préparation devienne mousseuse. Ajoutez-y le lait froid mélangé au sucre vanillé.Remuez jusqu'à épaississement.Laissez cuire à feu doux 2 min. Ajoutez-y le sucre, puis hors du feu, le zeste de citron râpé et les jaunes d'oeufs. Préparez le gâteau : séparez les blancs des jaunes d'oeufs, battez les blancs en neige trés ferme.Dans une terrine, travaillez les jaunes, le sucre, le zeste jusqu'à ce que le mélange fasse le ruban. Ajoutez alors en soulevant la pâte un peu de farine, une partie des blancs.Travaillez la pâte en la soulevant, ajoutez le reste de farine et le restant des blancs.0Terminez par le beurre à peine fondu. 1Garnissez le couvercle d'une boîte à biscuit d'un carré de papier enduit de beurre.2Versez la pâte dessus. Egalisez l'épaisseur. Enfournez 10 min.3Le biscuit doit être à peine blond. 4Dés que le biscuit est cuit, renversez-le sur un torchon humide. Décollez le papier.5Etalez la créme rapidement. Roulez-le vivement.6Saupoudrez-le largement de sucre glace de façon à ce que celui-ci fasse une épaisseur de 1/2 à 1 cm.7Avec un tisonnier porté au rouge, faites des croisillons.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1127>
+<title>Bredele</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :10 min</inf>
+<cat>Recettes</cat>
+<cat>Rhum</cat>
+<ing>500 g de farine</ing>
+<ing>250 g de beurre</ing>
+<ing>300 g de sucre en poudre</ing>
+<ing>300 g de poudre d'amandes</ing>
+<ing>3 oeufs dont 1 jaune</ing>
+<ing>2 paquets de sucre vanillé</ing>
+<ing>1 verre de rhum (12,5 cl environ)</ing>
+<ing>du lait pour badigeonner</ing>
+<prep>Préchauffez le four th.8 (240°C).Dans un saladier, mélangez les ingrédients dans l'ordre.Etalez la pâte obtenue au rouleau à pâtisserie. Avec des emporte-pièces (motif Noël ou Pâques) enfoncez la pâte pour former les gâteaux.Badigeonnez avec un pinceau du mélange d'oeuf et de lait. Mettez les gâteaux sur une feuille de papier sulfurisé et mettez au four 10 min.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1128>
+<title>Bretzels salés</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :25 min</inf>
+<cat>Allemagne</cat>
+<cat>Bretzel</cat>
+<ing>500 g de farine</ing>
+<ing>30 g de levure de boulanger</ing>
+<ing>1 c. à café de sucre</ing>
+<ing>3 œufs</ing>
+<ing>140 g de beurre ramolli</ing>
+<ing>20 cl de lait tiède</ing>
+<ing>1 c. à soupe de bicarbonate de soude</ing>
+<ing>huile</ing>
+<ing>un peu de gros sel</ing>
+<ing>2 c. à soupe d'eau</ing>
+<ing>1/2 c. à café de sel</ing>
+<prep>Mettez la farine dans un bol et confectionnez un puit. Émiettez la levure et mélangez le tout en rajoutant le sucre et l’eau (vous pouvez aussi utiliser une levure de boulanger déshydratée en sachet, que vous diluerez dans l'eau tiède et ajouterez à la préparation). Laissez reposer pendant 30 min. Rajoutez les œufs, le beurre, le lait et le sel. Il faut obtenir une pâte consistante, un peu comme une pâte à modeler. Partagez la pâte en quinze portions égales. Roulez des boudins d'environ 45 cm de long et de l’épaisseur d’un doigt, en amincissant les extrémités. Repliez la pâte selon la forme du bretzel : un « 8 » couché ou un nœud non serré. Laissez reposer votre pâte à Bretzels 2 heures dans un endroit tiède (vous pouvez la laisser reposer au four à 30°C avec un bol d'eau).Préchauffez le four th.7 (210°C).Dans une grande casserole, plongez les bretzels dans de l’eau frissonnante à laquelle vous avez ajouté du bicarbonate. Dès que les Bretzels remontent à la surface, prenez-les délicatement et posez-les sur du papier sulfurisé, huilé, disposé sur une tôle.Saupoudrez vos Bretzels de gros sel et enfournez-les pendant environ 20 min, jusqu’à ce que les bretzels salés soient dorés.Laissez vos Bretzels salés refroidir à température ambiante et dégustez-les à l'apéritif par exemple.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1129>
+<title>Brick à l'oeuf</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :2 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>5 feuilles de brick </ing>
+<ing>5 oeufs frais</ing>
+<ing>200 g de fromage râpé (au choix)</ing>
+<ing>beurre doux</ing>
+<ing>sel, poivre au goût</ing>
+<prep>Étalez une feuille de brick dans une assiette plate.Cassez un œuf au milieu de la feuille de brick puis parsemez l’oeuf d'un peu de fromage râpé. Salez et poivrez à votre goût puis pliez la feuille de brick en quatre pour former un chausson.Répétez l'opération avec les autres feuilles de brick jusqu’à épuisement des ingrédients.Faites fondre une noix de beurre dans une poêle sur feu doux.Déposez les bricks dans la poêle et faites-les cuire 1 minute de chaque côté. Elles doivent être bien dorées et croustillantes en fin de cuisson.Égouttez les bricks sur du papier absorbant à la fin de la cuisson.Dressez les bricks sur un lit de salade verte assaisonnée dans les assiettes et dégustez aussitôt.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1130>
+<title>Brick à la feta</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :15 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>18 feuilles de brick  </ing>
+<ing>300 g de feta </ing>
+<ing>2 fromages frais (carrés type kiri)  </ing>
+<ing>5 oeufs </ing>
+<ing>6 tiges de sauge </ing>
+<ing>50 g de beurre </ing>
+<ing>50 g de pignons</ing>
+<ing>2 c. à soupe d'huile d'olive </ing>
+<ing>sel, poivre</ing>
+<prep>Préchauffez le four th.7 (210°C).Lavez, séchez et effeuillez la sauge.Emiettez la feta dans un saladier, ajoutez les fromages frais, l’huile d’olive, les pignons et les oeufs entiers. Salez, poivrez et mélangez bien.Faites fondre le beurre.Etalez les feuilles de brick sur le plan de travail et badigeonnez-les de beurre fondu puis garnissez généreusement le centre de préparation au fromage.Refermez les feuilles de brick en forme de triangle et posez-les sur la plaque du four recouverte de papier sulfurisé.Enfournez et faites cuire pendant 15 min en les retournant à mi-cuisson.Servez dès la sortie du four</prep>
+<eng>0</eng>
+</rec>
+<rec id=1131>
+<title>Brick à la feta et aux olives</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :20 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>5 feuilles de feta</ing>
+<ing>olives noires</ing>
+<ing>150 g de feta</ing>
+<ing>ciboulette</ing>
+<ing>persil</ing>
+<ing>huile d'olives</ing>
+<ing>sel, poivre</ing>
+<prep>Préchauffez le four th.7 (200ºC).Mélangez dans bol les ingrédients en dés. Puis posez-les dans le centre d’un brick. Pliez en triangle. Mouillez un peu la feuille.Enfournez 20 min.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1132>
+<title>Brick à la viande hachée</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>400 grammes de viande hachée</ing>
+<ing>Feuilles de bricks</ing>
+<ing>5 portions de fromage frais à tartiner</ing>
+<ing>1 oeuf</ing>
+<ing>1 oignon</ing>
+<ing>4 branches de persil</ing>
+<ing>4 branches de coriandre</ing>
+<ing>1 noix de beurre</ing>
+<ing>1 cuillère à soupe d’huile d’olive</ing>
+<ing>1/2 cuillère à café de cannelle</ing>
+<ing>1/2 cuillère à café de paprika</ing>
+<ing>1/2 cuillère à café de noix de muscade</ing>
+<ing>Sel</ing>
+<ing>Poivre</ing>
+<ing>Huile pour friture</ing>
+<prep>Pelez et hachez finement l’oignon. Faites-le revenir dans une poêle avec la noix de beurre. Quand l’oignon est translucide et le beurre bien fondu, ajoutez la viande hachée et toutes les épices, ainsi qu’une pincée de sel et de poivre. Faites revenir environ 8 minutes.Ajoutez l’oeuf et mélangez votre préparation. Retirez du feu et ajoutez le fromage frais. Réservez pour laisser refroidir.En attendant, ciselez le persil et la coriandre. Ajoutez les herbes finement ciselées au reste de la préparation.Sur votre plan de travail, déposez une feuille de brick . Ajoutez une belle cuillère de farce au milieu de la feuille de brick, sur la partie basse le plus proche de vous.Roulez la feuille de brick pour obtenir des cigares de briouate kefta.Recommencez l’opération jusqu’à épuisement des ingrédients.Dans une casserole à bord hauts, ou une friteuse, faites chauffer un grand volume d’huile. Faites dorer chaque cigare quelques minutes puis déposez-les sur du papier absorbant.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1133>
+<title>Brick algérienne</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : 
+Préparation : 1 h 
+Cuisson :5 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>brick : 5 feuilles</ing>
+<ing> viande hâchée : 500 g</ing>
+<ing> oignon : 1 </ing>
+<ing> pommes de terre : 5 </ing>
+<ing> olive</ing>
+<ing> fromage râpé : 100 g</ing>
+<ing> persil : 5 branches</ing>
+<ing> oeuf : 1 </ing>
+<ing> piment doux : 1 pincée</ing>
+<ing> poivre : 1 pincée</ing>
+<ing> sel</ing>
+<ing> huile</ing>
+<prep>Eplucher les pommes de terre, les couper en quatre. Les porter à ébulliton dans une casserole remplie d'eau. Pendant ce temps, faire revenir la viande hachée dans une poêle avec le sel et le poivre ainsi que la moitié de l'oignon émincé. Dans un saladier mettre le fromage râpé, le persil finement haché, le piment, le sel et le poivre. Une fois les pommes de terre cuites, les égoutter et les écraser avec une fourchette. Les incorporer à la préparation. Faire de même avec la viande hachée. Ajouter l'oeuf et les olives coupées en fines tranches ainsi que le reste de l'oignon. La préparation doit être un peu épaisse. Si elle est trop sèche, rajouter un oeuf. Prendre ensuite une feuille de brick, y étaler de la préparation sur le bord et enrouler la feuille. 0Déposer dans de l'huile bien chaude et faire dorer 5 min de chaque côté. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1134>
+<title>Brick au brocoli, jambon et crème fraîche allégée </title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :2 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing> 500 g de brocolis</ing>
+<ing> 4 tranches de jambon</ing>
+<ing> 4 c. à soupe de crème fraîche allégée</ing>
+<ing> poivre</ing>
+<prep>Préchauffez le four à th.6 (180°C).Dans une casserole d'eau au feu, faites cuire les brocolis. Égouttez-le après cuisson puis écrasez-le à l'aide d'une fourchette dans un saladier. Ajoutez-y le poivre ainsi que 4 c. à soupe de crème fraîche. Prenez les feuilles de brick et posez-les sur des supports plats. Mettez au milieu de chaque feuille, une tranche de jambon. Répartissez la préparation de brocolis en quatre. Posez-les sur chaque jambon. Refermez la feuille de brick et enfournez. 0Laissez cuire pendant 15 min environ. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1135>
+<title>Brick au camembert</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>1 camembert au lait cru</ing>
+<ing>beurre fondu</ing>
+<ing>poivre</ing>
+<prep>Préchauffez le four th.6 (180°C).Nappez les feuilles de brick de beurre fondu.Mettez au centre 1/4 du camembert, saupoudrez de poivre.Refermez avec de la ficelle de cuisson.Mettez au plus haut dans le four et surveillez jusqu'à ce que se soit doré (10 min).</prep>
+<eng>0</eng>
+</rec>
+<rec id=1136>
+<title>Brick au chèvre</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :15 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>1 bûche de fromage de chèvre</ing>
+<ing>4 bonnes c. à soupe de crème fraîche épaisse</ing>
+<ing>2 c. à soupe de basilic ciselé</ing>
+<ing>sel, poivre au goût</ing>
+<prep>Préchauffez le four à 180°C.Coupez la bûche de chèvre en fines rondelles.Pliez une feuille de brick en deux et déposez-y  au centre deux rondelles de fromage de chèvre.Versez 1 bonne c. à soupe de crème fraîche épaisse sur le dessus des rondelles de chèvre et saupoudrez de basilic ciselé. Salez et poivrez à votre goût. Pliez la feuille de brick de façon à bien envelopper la petite préparation au chèvre à l'intérieur (à la manière d'un samossa).Répétez l'opération pour les autres feuilles de brick jusqu’à épuisement des ingrédients.Déposez les bricks sur une plaque de four recouverte de papier cuisson.Enfournez et faites cuire pendant 15 minutes jusqu'à ce que les bricks soient bien dorées et croustillantes.Dégustez les bricks au chèvre bien chaudes et accompagnées d'une salade verte assaisonnée.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1137>
+<title>Brick au chèvre, au courgette et au poire</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :5 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>1 fromage de chèvre frais</ing>
+<ing>2 feuilles de brick</ing>
+<ing>2 tomates</ing>
+<ing>basilic frais</ing>
+<ing>1 courgette</ing>
+<ing>1 poire bien mure</ing>
+<ing>pignons de pin</ing>
+<ing>2 oignons</ing>
+<ing>huile de noix</ing>
+<prep>Préchauffez le four th.6 (180°C).Faites carameliser les oignons dans l'huile de noix.Coupez la courgette, les tomates en petits dés, incorporez-les en cours de cuisson, ajoutez la poire coupée en dés également, lorsque la poire est cuite, ôtez du feu.Otez l'eau restante afin de ne pas imbiber la feuille, placez le mélange dans une feuille de brick.Emiettez le fromage de chèvre frais par dessus (quantité selon votre amour du fromage de chèvre et cisellez du basilic frais dessus).Fermez les feuilles en aumonières et faites cuire quelques minutes selon votre four (5 min).</prep>
+<eng>0</eng>
+</rec>
+<rec id=1138>
+<title>Brick au chèvre, aux raisins secs et au miel</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>4 petits chèvres</ing>
+<ing>pignons</ing>
+<ing>1 c. à soupe de miel</ing>
+<ing>quelques feuilles de basilic</ing>
+<ing>raisins secs</ing>
+<ing>1 c. à soupe d'huile d'olive</ing>
+<ing>sel, poivre</ing>
+<prep>Préchauffez le four th.6 (180°C).Dans une poêle, faites revenir dans l'huile, les pignons, puis les raisins secs, ajoutez le miel et faites dorer un peu de chaque côté les petits chèvres.Placez ensuite les chèvres dans les feuilles de brick avec la garniture, ajoutez une feuille ou deux de basilic. Fermez les feuilles de brick en faisant des petits paquets qu'on peut faire tenir soit avec un petit cure-dent soit avec un bout de ficelle ou autre.Enfournez pendant 10 min.Servez sur un lit de salade légèrement assaisonnée, utilisez de vinaigre basalmique.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1139>
+<title>Brick au chèvre et au magret de canard fumé</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :15 min</inf>
+<cat>Canard</cat>
+<cat>Magret de canard</cat>
+<ing>4 feuilles de brick</ing>
+<ing>1 bûche de chèvre </ing>
+<ing>4 tranches de magret de canard fumé</ing>
+<ing>huile d'olive</ing>
+<ing>basilic ciselé</ing>
+<ing>sel, poivre</ing>
+<prep>Préchauffez le four à 160°C.Etalez les feuilles de brick sur un plan de travail.Déposez une rondelle de chèvre et une tranche de magret de canard au centre de chaque feuille de brick.Arrosez d'un peu d'huile d'olive. Salez, poivrez et rajoutez du basilic ciselé. Refermez les feuilles de brick à la manière de samousas.Enfournez pendant 15 minutes.Dégustez chaud.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1140>
+<title>Brick au chèvre et au saumon fumé</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :5 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>6 feuilles de brick</ing>
+<ing>6 c. à soupe de créme fraîche</ing>
+<ing>3 tranches de saumon fumé</ing>
+<ing>aneth</ing>
+<ing>6 petits fromages de chévre mou</ing>
+<ing>huile d'olive</ing>
+<prep>Mettez les 6 feuilles de brick les unes à coté des autres.Déposez au centre de chacune d'elle, 1 c. à soupe de créme fraîche, mettez 1/2 tranche de saumon fumé sur la créme fraîche, mettez le fromage de chévre sur le saumon fumé, saupoudrez d'aneth.Refermez les feuilles de brick sur la préparation en la repliant de chaque côté et en dessous.Faites frire dans de l'huile environ 3 min de chaque côté.Déposez dans chaque assiette, un lit de salade assaisonnée et déposez-y une brick encore chaude.Voilà une excellente entrée qui plait à chaque fois, aussi bonne à toute saison.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1141>
+<title>Brick au chèvre express</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :15 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>2 bûchettes de chèvre (ou crottins) coupées en rondelles </ing>
+<ing>1 c. à soupe de crème semi épaisse à 5 % de MG</ing>
+<ing>basilic</ing>
+<prep>Préchauffez le four th.6 (180°C).Pliez la feuille de brick en deux, déposez-y deux rondelles de fromage de chèvre, versez 1 bonne c. à soupe de crème semi épaisse et saupoudrez de basilic frais ou déshydraté. Pliez la feuille de brick de façon à bien envelopper la petite préparation de l'intérieur et enfournez pendant 15 min, le temps qu'ils dorent un peu. Avec une salade verte, ce plat est apprécié de tout le monde.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1142>
+<title>Brick au poulet, kiri et curry</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 35 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>10 feuilles de brick</ing>
+<ing>300 g de poulet</ing>
+<ing>10 fromages type kiri</ing>
+<ing>3 c. à café de curry</ing>
+<ing>2 pommes de terre</ing>
+<ing>2 jaunes d'oeufs</ing>
+<ing>huile de tournesol</ing>
+<ing>sel, poivre</ing>
+<prep>Faites cuire le blanc de poulet.Hachez le poulet pour la farce.Faites cuire les pommes de terre.Dans un bol, préparez la farce : écrasez grossiérement les pommes de terre, incorporez le blanc de poulet haché avec le fromage type kiri, ajoutez-y le curry et les jaunes d'oeufs, salez et poivrez.Mélangez bien la farce puis étalez 2 feuilles de brick, incoporez la farce, pliez les feuilles en forme de triangle, rectangle, en forme de nem ou carré.Faites cuire dans une poêle dans 3 cm d'huile.Puis disposez sur du papier sopalin pour enlever l'excédent d'huile.Parfait servie avec de la salade verte, tomates et quarts de citron.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1143>
+<title>Brick au thon, à l'oeuf et à la pomme de terre</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :15 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>10 feuilles de brick</ing>
+<ing>5 oeufs </ing>
+<ing>10 pommes de terre (petites) </ing>
+<ing>2 boîtes de thon</ing>
+<ing>1 oignon </ing>
+<ing>un peu de sel, et poivre</ing>
+<ing>un peu d'huile </ing>
+<prep>Faites cuire les pommes de terre dans une grande casserole d’eau bouillante.A part, faites cuire les œufs durs.Emincez l’oignon. Une fois cuit, coupez les pommes de terre en morceaux et les œufs durs en 4. Dans un grand saladier, mettez le thon, l’oignon émincé, les œufs durs et les pommes de terre.Ecrasez grossièrement le tous. Salez et poivrez. Mettez la préparation dans les feuilles de brick et repliez-les. Mettez de l’huile dans une grande poêle et faites frire les feuilles de brick 2 min de chaque coté.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1144>
+<title>Brick au thon au four</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>140 g de thon au naturel en conserve</ing>
+<ing>1 pot de fromage Boursin® cuisine</ing>
+<ing>1 tomate fraîche</ing>
+<ing>1 c. à café de curry en poudre</ing>
+<ing>sel, poivre</ing>
+<prep>Préchauffez le four à 180°C.Egouttez et émiettez le thon au naturel dans un récipient à l’aide d’une fourchette.Nettoyez, épongez et coupez la tomate en petits cubes.Mélangez le thon émietté, les cubes de tomates, le fromage Boursin et le curry en poudre dans un saladier. Salez et poivrez selon vos goûts.Placez les feuilles de brick bien à plat sur un plan de travail.Répartissez la préparation au thon au centre des feuilles de brick.Repliez chaque feuille de brick en quatre pour former des chaussons.Placez les bricks sur une plaque de four recouverte de papier cuisson.Enfournez et faites cuire pendant 10 à 15 minutes jusqu'à ce que les bricks soient bien dorées et croustillantes.0Dégustez bien chaud les bricks au thon accompagnées d'une salade verte ou de crudités assaisonnés.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1145>
+<title>Brick au thon, carottes et 2 fromages</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>8 feuilles Brick</ing>
+<ing> 300 g de thon au naturel</ing>
+<ing> 150 g de carottes</ing>
+<ing> 100 g cottage cheese à 25 %</ing>
+<ing> 100 g de fromage blanc à 0%</ing>
+<ing> margarine allégée à 60%</ing>
+<ing> graines de cumin</ing>
+<ing> sel, poivre</ing>
+<prep>Préchauffez le four à th.6 (180°C).Epluchez les carottes, rincez-les, puis râpez-les dans un bol.Réservez.Egouttez ensuite le thon dans un saladier, puis émiettez à  l'aide d'une fourchette.Ajoutez le fromage frais salé à tartiner cottage cheese et le fromage blanc.Assaisonnez en sel et poivre, puis mélangez.Incorporez 6 c. à café de cumin et versez-y les carottes râpées.Faites ensuite liquéfier au micro-ondes, 5 c. à café de margarine.Badigeonnez les feuilles de brick avec la margarine fondu, puis versez la préparation par-dessus.0Fermez ensuite les feuilles en paquet, et enfournez.1Laissez gratiner 20 min environ.2Servez bien chaud !</prep>
+<eng>0</eng>
+</rec>
+<rec id=1146>
+<title>Brick au thon de Rachida</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>1 boîte de thon  </ing>
+<ing>1 oignon</ing>
+<ing>coriandre fraîche</ing>
+<ing>2 feuilles de brick</ing>
+<ing>1 blanc d'oeuf</ing>
+<ing>huile de friture</ing>
+<ing>poivre noir</ing>
+<prep>Coupez et hachez la coriandre avec l'oignon. Mélangez-y le thon et poivrez.Coupez les feuilles de brick en 4 pour obtenir des triangles, mettez la préparation sur la brick (la pointe doit être sur le haut), faites un rouleau et collez le tout avec l'oeuf.Faites revenir les brick dans la friture pendant 5 min de chaque côté.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1147>
+<title>brick au thon et aux tomates</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :10 min</inf>
+<ing>1 paquet de 10 feuilles de brick</ing>
+<ing> huile à friture </ing>
+<ing>  Pour la farce : </ing>
+<ing> 1 boîte de thon au naturel de 200 g </ing>
+<ing> 1/2 tomate </ing>
+<ing> 1/2 oignon </ing>
+<ing> 1 pincée de cumin</ing>
+<ing> 1 pincée de persil </ing>
+<ing> 1 c. à soupe d'huile (au choix) </ing>
+<ing> sel, poivre (petite cuillère rase) </ing>
+<prep>Nettoyez et découpez l'oignon en petits morceaux. Nettoyez la tomate, pelez-la et découpez-la en petit morceaux. Hachez l'oignon et la tomate ensemble, puis faites revenir le tout dans une poêle avec un peu d'huile. Rajoutez le thon et faites revenir pour absorber un peu le jus. Salez et poivrez. Réservez. Prenez les feuilles de brick une par une, découpez-les au centre comme indiqué sur le paquet. Rabattez la partie ronde vers le côté découpé. Mettez ensuite la farce par-dessus. Puis, fermez en faisant un triangle (schéma sur le paquet de feuille de brick).Faites frire les bricks dans une poêle. Les bricks doivent être dorés.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1148>
+<title>Brick aux pommes</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :10 min</inf>
+<cat>Fruits</cat>
+<cat>Pomme</cat>
+<ing>2 pommes</ing>
+<ing>4 feuilles de pâte filo</ing>
+<ing>1 c. à soupe de miel</ing>
+<ing>2 pincées de cannelle en poudre </ing>
+<ing>20 g de beurre ou margarine + un peu de beurre pour les feuilles de pâte filo</ing>
+<prep>Préchauffez votre four à 210°C (Thermostat 7).Lavez, épluchez et coupez les pommes en petits dés.Dans une poêle à feu moyen faites fondre le beurre puis ajoutez-y les pommes, le sucre vanillé, la cannelle et faites revenir jusqu'à ce que les pommes ramollissent et qu'elles soient légèrement dorées.Plier les feuilles de brick en deux. Placez deux cuillères à café de pommes au coeur chaque feuille de brick. Repliez le coin gauche vers le bord inférieur de la bande de façon à obtenir un triangle. Replier ce triangle sur toute la longueur de la bande et rabattre le dernier morceau de pâte pour fermer le triangle. Répéter l'opération avec les trois autres feuilles de filo et réservez.Dans un petit bol, faites fondre un peu de beurre avec le miel au micro-ondes et badigeonnez les brick de ce mélange beurre-miel fondu à l'aide d'un pinceau sur les deux faces. Enfournez les bricks aux pommes pendant 5-10 minutes jusqu'à ce qu'elles deviennent craquantes et bien dorées puis laissez-les refroidir quelques minutes à température ambiante.Servez vos bricks aux pommes tièdes accompagnées d'une boule de glace !</prep>
+<eng>0</eng>
+</rec>
+<rec id=1149>
+<title>Brick de boursin</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :30 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>1 rouleau de feuilles de brick (fraîches si possible on les trouve dans les épiceries orientales ou slaves)</ing>
+<ing>30 cl de créme fraîche</ing>
+<ing>1 pot de boursin cuisine ou classique</ing>
+<ing>3 oeufs</ing>
+<ing>huile</ing>
+<ing>sel, poivre</ing>
+<prep>Dans un saladier, mélangez le boursin, la créme fraîche, les oeufs, le sel et le poivre afin d'obtenir une pâte liquide et homogéne.Préchauffez le four th.6 (180°C).Etalez les feuilles de brick, huilez-les légérement puis avec une cuillére, déposez-y le mélange précédent en étalant avec le dos de la cuillére. Enroulez comme des croissants ou des carrés chaque feuilles de brick. Huilez la plaque du four et enfournez pendant 30 min.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1150>
+<title>Brick de chèvre et jambon à la menthe</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :5 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>2 feuilles de brick</ing>
+<ing>4 crottins de fromage de chèvre</ing>
+<ing>4 tranches de jambon cru</ing>
+<ing>4 feuilles de menthe </ing>
+<ing>miel</ing>
+<ing>huile d'olive</ing>
+<prep>Découpez les feuilles de brick en deux pour disposer de demi-cercles.Déposez les tranches de jambon sur votre plan de travail, puis mettez au centre les crottins de fromage.Enroulez chaque crottin dans les tranches de jambon, puis placez-les sur une feuille de brick.Recouvrez ensuite chaque crottin emballé d'1 c. à soupe de miel, et déposez-y une feuille de menthe.Repliez la feuille de brick en triangle, comme pour faire un samoussa.Dans une poêle au feu, faites chauffer 1 c. à soupe d’huile d’olive, mettez-y les feuilles de brick et faites-les dorer 5 min sur chaque face.Servez aussitôt.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1151>
+<title>Brick de chèvre frais à la tapenade</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :5 min</inf>
+<cat>Provence</cat>
+<cat>Tapenade</cat>
+<ing>12 feuilles de brick</ing>
+<ing>12 petits chévres frais</ing>
+<ing>50 g de tapenade verte</ing>
+<ing>2 tomates</ing>
+<ing>paprika</ing>
+<ing>ciboulette</ing>
+<ing>ail frais</ing>
+<ing>huile d'olive</ing>
+<ing>vinaigre balsamique</ing>
+<prep>Préchauffez le four th.7/8 (220°C).Préparez un concassé avec les tomates et l'ail.Prenez 2 feuilles de brick, placez au centre 2 chévres, recouvrez de tapenade puis saupoudrez d'un peu de ciboulette et de paprika.Refermez la brick en aumoniére et liez à l'aide d'un fil de cuisine.Faites-en six et placez-les sur une plaque dans le four pendant 5 min.Sortez du four et placez-les sur un lit de laitue, assaisonnez avec un peu d'huile d'olive et de vinaigre balsamique.Remplacez le fil de cuisson par un brin de ciboulette.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1152>
+<title>Brick de chèvre frais de Savoie à l'huile de noisettes</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Intermédiaire
+Préparation : 15 min
+Cuisson :7 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>8 feuilles de brick</ing>
+<ing>2 fromages de chèvre frais de Savoie</ing>
+<ing>1 botte de ciboulette</ing>
+<ing>2 c. à café d'huile de noisettes</ing>
+<ing>mesclun de salade</ing>
+<ing>1 endive</ing>
+<ing>poivre</ing>
+<ing>pour la vinaigrette :</ing>
+<ing>2 c. à soupe de vinaigre balsamique</ing>
+<ing>1 c. à soupe de miel</ing>
+<ing>2 c. à soupe d'huile de noisettes</ing>
+<ing>sel et poivre </ing>
+<prep>Préchauffez le th.9 (270°C). Ciselez la ciboulette. Écrasez les fromages de chèvre à la fourchette, ajoutez la ciboulette ciselée, et l'huile de noisettes. Poivrez et mélangez bien le tout. Étalez les feuilles de brick et formez une bande de fromage. Puis roulez la feuille de brick sur elle-même jusqu'à la moitié. Arrivé à la moitié, prenez soin de replier les côtés puis de continuer à rouler afin que les rouleaux soient bien hermétiques et que le fromage ne puisse pas couler. Mettez-les sur un plat et passez-les au four 6 à 7 min, le temps qu'ils soient bien dorés. Préparez la vinaigrette en émulsionnant tous les ingrédients. Disposez le mesclun de salade, arrosez de vinaigrette et ajoutez 2 bricks de chèvre.  Voilà, c'est prêt ! </prep>
+<eng>0</eng>
+</rec>
+<rec id=1153>
+<title>Brick de fromage de chèvre au curry et tapenade</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :5 min</inf>
+<cat>Provence</cat>
+<cat>Tapenade</cat>
+<ing>4 petits fromages de chévre (type crottin de Chavignol) </ing>
+<ing>8 feuilles de brick </ing>
+<ing>1 petit pot de tapenade </ing>
+<ing>2 tomates </ing>
+<ing>2 gousses d'ail </ing>
+<ing>12 c. à café de curry en poudre </ing>
+<ing>1 bouquet de ciboulette</ing>
+<prep>Préchauffez le four th.7 (200°C).Posez 2 feuilles de brick l'une sur l'autre, déposez au milieu un fromage de chévre.Beurrez les fromages de tapenade.Pelez, épépinez et coupez les tomates en dés puis mélangez-les avec l'ail haché.Répartissez sur les fromages.Ajoutez une pincée de curry et fermez les bricks en aumôniére.Fermez en nouant le haut avec 2 brins de ciboulette.Placez-les sur la plaque du four pendant 5 min.Accompagnez les bricks de fromage de chévre au curry et tapenade de salade frisée à la vinaigrette.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1154>
+
+<inf></inf>
+<prep></prep>
+<eng>0</eng>
+</rec>
+<rec id=1155>
+<title>Bricks à la feta et au Kiri®</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :15 min</inf>
+<ing>18 feuilles de brick</ing>
+<ing>300 g de féta</ing>
+<ing>2 fromage frais de carrés type kiri</ing>
+<ing>5 oeufs</ing>
+<ing>6 feuilles de menthe</ing>
+<ing>50 g de beurre</ing>
+<ing>50 g de pignons</ing>
+<ing>2 c. à soupe d'huile d'olive</ing>
+<ing>sel, poivre</ing>
+<prep>Préchauffez le four th.7 (210°C).Lavez, séchez et ciselez les feuilles de menthe.Émiettez la féta dans un saladier, ajoutez les fromages frais, la menthe, l'huile d'olive, les pignons et les oeufs entiers. Salez, poivrez et mélangez bien.Faites fondre le beurre.Étalez les feuilles de brick sur le plan de travail et badigeonnez-les de beurre fondu puis garnissez généreusement le centre de préparation au fromage.Refermez les feuilles de brick en forme de triangle et posez-les sur la plaque du four recouverte de papier sulfurisé.Enfournez et faites cuire pendant 15 min en les retournant à mi-cuisson.Servez dès la sortie du four avec une salade verte.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1156>
+<title>Bricks à la provençale</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : 
+Préparation : 15 min
+Cuisson :15 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>12 feuilles de brick </ing>
+<ing>12 mini-boules de mozzarella</ing>
+<ing>12 olives noires  </ing>
+<ing>6 tomates </ing>
+<ing>2 branches de thym </ing>
+<ing>huile d'olive</ing>
+<ing>sel, poivre</ing>
+<prep>Préchauffez le four th.6 (180° C). Effeuillez le thym. Coupez les boules de mozzarella en 2. Coupez les tomates en petits dés. Faites chauffer 2 c. à soupe d'huile dans une casserole. Ajoutez les tomates, une pincée de thym, du sel et du poivre. Faites cuire 10 min en remuant de temps en temps. Étalez les feuilles de brick sur le plan de travail et huilez-les au pinceau. Puis réunissez-les 2 par 2. Garnissez le centre de chaque feuille de fondue de tomates. Répartissez la mozzarella et les olives par-dessus. Parsemez du reste de thym. Fermez les feuilles de brick de maniére à former des papillotes et enfournez. Faites cuire environ 6 min. Les feuilles doivent être bien dorées et croquantes et le fromage légérement fondu. 0Servez dés la sortie du four. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1157>
+<title>Bricks à la ricotta</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :3 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>6 feuilles de bricks</ing>
+<ing>2 pots de ricotta</ing>
+<ing>olives noires denoyautées</ing>
+<ing>tomates cerises</ing>
+<ing>feuilles de basilic</ing>
+<ing>huile d'olive</ing>
+<ing>sel, poivre</ing>
+<prep>Hachez les olives noires. Lavez, séchez et ciselez le basilic.Dans un saladier, mélangez la ricotta avec les olives hachées, le basilic ciselé, un filet d'huile d'olive, du sel et du poivre.Coupez chaque feuille de brick en deux. Déposez 1 c. à soupe de préparation à la ricotta, puis 2 tomates cerises sur chaque moitié, dans un coin.Repliez en triangle pour enfermer la garniture. Faites revenir les bricks à la poêle avec un peu d'huile, environ 2 minutes sur chaque face, jusqu’à ce qu’elles soient bien dorées.Egouttez sur du papier absorbant avec de servir.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1158>
+<title>Bricks à la ricotta, tomate et basilic façon aumônières</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>120 g de ricotta</ing>
+<ing>2 tomates</ing>
+<ing>8 feuilles de basilic</ing>
+<ing>1 gousse d'ail</ing>
+<ing>150 g de salade mesclun</ing>
+<ing>parmesan</ing>
+<ing>huile d'olive</ing>
+<ing>sel, poivre</ing>
+<prep>Préchauffez le four à th.6 (180°C).Ensuite épluchez l?ail, puis réduisez-le en purée dans le robot.Incorporez la ricotta, 4 c. à soupe de parmesan, les aromates et faites moudre le tout.Lavez, coupez en quartiers, épépinez, puis découpez les tomates en dés sur une planche de cuisine.Ajoutez-les à la soupe avec du sel et du poivre, puis broyez.Sur votre plan de travail, étalez les feuilles de brick.Déposez au centre, la préparation, puis rabattez-les en forme d'aumônières.Maintenez-les avec une ficelle de cuisine, puis enfournez.Laissez gratiner pendant 10 min.0Lavez ensuite soigneusement la salade, puis essorez.1Mettez dans des assiettes, puis salez et poivre.2Arrosez d?un filet d?huile.3Disposez les aumônières par-dessus.4Servez aussitôt.5Préchauffez le four à th.6 (180°C).6Ensuite épluchez l?ail, puis réduisez-le en purée dans le robot.7Incorporez la ricotta, 4 c. à soupe de parmesan, les aromates et faites moudre le tout.8Lavez, coupez en quartiers, épépinez, puis découpez les tomates en dés sur une planche de cuisine.9Ajoutez-les à la soupe avec du sel et du poivre, puis broyez.0Sur votre plan de travail, étalez les feuilles de brick.1Déposez au centre, la préparation, puis rabattez-les en forme d'aumônières.2Maintenez-les avec une ficelle de cuisine, puis enfournez.3Laissez gratiner pendant 10 min.4Lavez ensuite soigneusement la salade, puis essorez.5Mettez dans des assiettes, puis salez et poivre.6Arrosez d?un filet d?huile.7Disposez les aumônières par-dessus.8Servez aussitôt.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1159>
+<title>Bricks à la ricotta, tomate et basilic façon aumônières faciles</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+</inf>
+<ing>4 feuilles de brick</ing>
+<ing> 120 g de ricotta</ing>
+<ing> 2 tomates</ing>
+<ing> 8 feuilles de basilic</ing>
+<ing> 1 gousse d'ail</ing>
+<ing> 150 g de salade mesclun</ing>
+<ing> parmesan</ing>
+<ing> huile d'olive</ing>
+<ing> sel, poivre</ing>
+<prep>Préchauffez le four à th.6 (180°C).Ensuite épluchez l’ail, puis réduisez-le en purée dans le robot.Incorporez la ricotta, 4 c. à soupe de parmesan, les aromates et faites moudre le tout.Lavez, coupez en quartiers, épépinez, puis découpez les tomates en dés sur une planche de cuisine.Ajoutez-les à la soupe avec du sel et du poivre, puis broyez.Sur votre plan de travail, étalez les feuilles de brick.Déposez au centre, la préparation, puis rabattez-les en forme d'aumônières.Maintenez-les avec une ficelle de cuisine, puis enfournez.Laissez gratiner pendant 10 min.0Lavez ensuite soigneusement la salade, puis essorez.1Mettez dans des assiettes, puis salez et poivre.2Arrosez d’un filet d’huile.3Disposez les aumônières par-dessus.4Servez aussitôt.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1160>
+<title>Bricks à la viande et au fromage</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :20 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>10 feuilles de brick</ing>
+<ing>350 g de viande hachée</ing>
+<ing>1 oignon</ing>
+<ing>10 tranches de fromage pour hamburger</ing>
+<ing>1 pincée de cannelle</ing>
+<ing>le jus d'1 citron</ing>
+<ing>huile pour friture</ing>
+<ing>1 oeuf</ing>
+<ing>sel, poivre</ing>
+<prep>Dans un saladier, mélangez la viande, l’œuf, le sel, le poivre et la cannelle. Faites revenir le tout à feu moyen pendant 10 min. Une fois la viande cuite, laissez-la refroidir. Préparez votre feuille de brick. Déposez une tranche de fromage au centre de la brick, et par-dessus un peu de farce de viande.Pliez sur les 2 côtés puis repliez en rectangles. Faites-les frire dans de l'huile très chaude. Servez avec du jus de citron.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1161>
+<title>Bricks à la volaille et au comté</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>8 escalopes de dinde très fines</ing>
+<ing>8 feuilles de brick</ing>
+<ing>200 g de comté</ing>
+<ing>sel, poivre</ing>
+<ing>1 c. à soupe d'huile de tournesol</ing>
+<ing>10 g de beurre</ing>
+<prep>Commencez par découper le comté en 8 bâtonnets. Aplatissez vos escalopes au marteau de façon à ce qu'elles soient bien fines. Salez-les et poivrez-les. Enveloppez les bâtonnets de comté avec les escalopes en formant un rouleau. Enveloppez ensuite les escalopes dans les feuilles de brick. Pour cela, déposez votre bâtonnet comté/dinde sur le bas d'une feuille de brick et enroulez-le sur lui-même. Repliez les deux extrémités qui dépassent à l'intérieur du rouleau. Procédez ainsi pour chaque bâtonnet.Dans une poêle, faites chauffer l'huile et le beurre. Lorsque le beurre commence à mousser, faites-y frire les croustillants environ 10 min en les retournant régulièrement. Déposez les croustillants sur du papier absorbant pour éliminer le surplus d'huile. Servez-en deux par personne et accompagnez de salade verte. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1162>
+<title>Bricks au boursin et thon</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>5 feuilles de brick</ing>
+<ing>1 boite de thon au naturel</ing>
+<ing>1 boîte de Boursin</ing>
+<ing>huile d'olive</ing>
+<ing>poivre</ing>
+<prep>Dans un saladier mélangez le thon, le Boursin et le poivre. Prenez une feuille de brick et coupez-la en deux.  Déposez à l’intérieur un peu de la préparation. Etape la plus compliquée de la recette et la plus technique : pliez votre demie-feuille de brick   pour obtenir la forme triangulaire d’un samoussa. Afin que la préparation colle à la pâte à brick, réservez vos samoussas terminés au frais lorsque vous les avez terminés. Dans une poêle à feu vif faites chauffer de l’huile. Lorsqu’elle est chaude, faites dorer les bricks de chaque côté. Attendez quelques minutes de cuisson pour que la pâte à brick ait le temps de croustiller. Rien n’est plus dommage et frustrant qu’un samoussa qui manque de croustillant. Préparez dans une assiette du papier absorbant afin d’éliminer le surplus d’huile. Ces bricks au Boursin et au thon s’accompagneront parfaitement avec une petite salade bien fraiche et croquante.  Ni vu, ni connu, en un rien de temps, vous avez préparé un bon petit apéritif qui régalera, à coup sur, tous vos amis.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1163>
+<title>Bricks au chèvre et à la tapenade</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :5 min</inf>
+<cat>Provence</cat>
+<cat>Tapenade</cat>
+<ing>12 feuilles de brick</ing>
+<ing>12 petits chévres frais</ing>
+<ing>50 g de tapenade verte</ing>
+<ing>2 tomates</ing>
+<ing>paprika</ing>
+<ing>ciboulette</ing>
+<ing>ail frais</ing>
+<prep>Préchauffez le four th.6 (180°C).Préparez un concassé de tomate et d'ail.Prenez 2 feuilles de brick, placez au centre 2 chévres, recouvrez de tapenade puis de concassé de tomate et d'ail.Saupoudrez d'un peu de ciboulette et de paprika.Refermez la brick en aumoniére et liez à l'aide d'un fil de lin à cuisine.En faire 6, placez-les sur la plaque à four pendant 5 min.Sortez-les du four et placez-les sur un lit de laitue, assaisonnez avec un peu d'huile d'olive et de vinaigre balsamique.Remplacez le fil de lin par un brin de ciboulette.        </prep>
+<eng>0</eng>
+</rec>
+<rec id=1164>
+<title>Bricks au chèvre et poivrons grillés</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :5 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>2 feuilles de brick</ing>
+<ing>2 fromages de chévre frais</ing>
+<ing>1 poivron rouge</ing>
+<ing>4 feuilles de basilic</ing>
+<ing>10 cl de vinaigre balsamique préalablement réduit (env. 5 min à feu moyen) et refroidi</ing>
+<ing>1 mélange de mesclun</ing>
+<ing>germes de radis et alfafa</ing>
+<prep>Préchauffez le gril du four.Coupez en 2 et faites griller le poivron sous le gril du four.Pelez-le, rincez-le et débitez-le en minuscules cubes.Dans un saladier, effritez le fromage de chévre, ajoutez le basilic grossiérement ciselé, du poivre et les dés de poivron grillés.Mélangez bien le tout pour obtenir une "pâte" compacte et formez un boudin.Mouillez les feuilles de brick, et coupez-les en 4.Au milieu de chaque triangle, posez une rondelle de chévre, repliez les angles pour former un triangle.Passez au four pas trop chaud environ 5 min, jusqu'à ce que les bricks soient joliment dorées.Servez 2 bricks par personne, sur un lit de mesclun trés légérement assaisonné, nappez le pourtour de l'assiette d'un filet de vinaigre balsamique, et terminez par quelques germes de radis et de alfafa.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1165>
+<title>Bricks au chèvre et romarin</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 10 min
+Cuisson :3 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>200 g de fromage de chèvre demi-sec</ing>
+<ing>3 c. à soupe de miel</ing>
+<ing>1 brin de romarin</ing>
+<ing>7 c. à soupe d'huile d'olive</ing>
+<ing>sel, poivre. </ing>
+<prep>Découpez en petits morceaux le fromage de chèvre, puis assaisonnez-le avec le sel et le poivre. Ciselez finement le brin de romarin et ajoutez-le au fromage avec le miel et 1 c. à soupe d’huile, mélangez bien. Déposez la farce obtenue sur les feuilles de brick, puis rabattez ces dernières doucement. Dans une grande poêle, faites chauffer le reste d’huile d’olive. Dorez-y les bricks pendant 3 min sur chaque côté.  </prep>
+<eng>0</eng>
+</rec>
+<rec id=1166>
+<title>Bricks au chèvre, tomates et jambon cru</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :5 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>6 feuilles de brick</ing>
+<ing>2 belles tomates</ing>
+<ing>6 tranches de jambon cru</ing>
+<ing>2 crottins de chévre</ing>
+<ing>basilic</ing>
+<ing>beurre</ing>
+<ing>huile d'olive</ing>
+<ing>sel, poivre</ing>
+<prep>Coupez chaque tomate en 6 quartiers ainsi que les crottins de chévre.Enroulez chaque quartier de crottin dans 1/2 tranche de jambon cru.Beurrez chaque feuille de brick et déposez dessus légérement en dessous du milieu 2 quartiers de tomates et 2 morceaux de chévre enroulé de jambon cru.Salez, poivrez et déposez une feuilles de basilic sur chaque tomate.Refermez la feuille en repliant la partie supérieure sur la partie inferieure et rabattez chaque côté en dessous.Faites cuire à la poêle à feu doux dans un petit peu d'huile d'olive 2/3 min sur chaque face de façon à avoir une belle couleur dorée.A manger tiéde avec une salade de jeunes pousses (mache, roquette...).</prep>
+<eng>0</eng>
+</rec>
+<rec id=1167>
+<title>Bricks au chorizo, poivrons et ricotta safranée pour l’apéritif </title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :17 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>8 feuilles de bricks</ing>
+<ing>1 chorizo</ing>
+<ing>1 demi poivron rouge</ing>
+<ing>1 demi poivron vert</ing>
+<ing>1 demi poivron jaune</ing>
+<ing>200 g de ricotta</ing>
+<ing>2 pincées de safran</ing>
+<ing>huile d'olive</ing>
+<ing>sel et poivre</ing>
+<prep>Préchauffez le four th.6 (180 °C).Découpez en petits carrés tous les poivrons. Tranchez également en petits cubes le chorizo. Chauffez un filet d’huile d’olive dans une poêle. Sautez-y les poivrons. Ensuite, versez le chorizo. laissez dorer 2 minutes et retirez du feu.Ajoutez la ricotta et le safran. Salez et poivrez légèrement, mélangez. Coupez en deux les feuilles de bricks. Déposez une cuillère de préparation sur un bord et pliez en triangle pour enfermer la farce. Soudez le bord avec un peu d’eau.Déposez les bricks sur une plaque recouverte de papier sulfurisé. Enfournez-les durant 12 min. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1168>
+<title>Bricks au fromage</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :15 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>8 feuilles de brick</ing>
+<ing>1 kg de pommes de terre rates ou de pommes de terre à purée</ing>
+<ing>250 g de fromage fêta (ou tout autre fromage qui fond à la cuisson)</ing>
+<ing>un reste de viande cuite</ing>
+<ing>persil plat</ing>
+<ing>poivre, sel</ing>
+<ing>huile d'olive</ing>
+<prep>Faites bouillir les pommes de terre dans un grand volume d'eau, environ 15 minutes.Égouttez, laissez refroidir pour ôter la peau. Coupez grossiérement et écrasez à la fourchette.Préchauffez le four Th.6 (180°C).Coupez la fêta en morceaux pour l'écraser facilement à la fourchette.Hachez la viande.Mélangez la moitié de la purée et la fêta, ajoutez le persil finement ciselé, 2  cuilléres d'huile d'olive, poivrez et réservez.Mélangez l'autre moitié de la purée et de la viande hachée, salez, poivrez et réservez.Coupez chaque feuille de brick en deux, farcissez-les  pour les unes de préparation à la fêta, pour les autres, de préparation à la viande.  Roulez-les pour faire de gros nems.Disposez les nems dans un plat allant au four et enfournez environ 15 minutes.0A mi-cuisson, retournez les nems pour faire dorer chaque coté.1Vous pouvez aussi les faire cuire dans une poêle avec une petite cuillére d'huile. 2Accompagnez d'une salade verte.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1169>
+<title>Bricks au fromage de chèvre</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 2 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>8 feuilles de brick</ing>
+<ing>2 fromages de chévre frais </ing>
+<ing>huile d'olive</ing>
+<ing>basilic</ing>
+<ing>noix de muscade, poivre, sel</ing>
+<prep>Coupez le fromage de chévre frais en 4, soit 8 morceaux avec les 2 fromages. Déposez une c. à soupe sur le centre d'une feuille de brick. Saupoudrez de noix muscade, de poivre et d'un peu de sel.Ciselez les feuilles de basilic sur le fromage. Versez un filet d'huile d'olive. Fermez la feuille de brique en aumoniére,  ou en carré. Procédez de même avec le reste des ingrédients pour utiliser toutes les feuilles de bricks.Déposez dans un plat allant au four.Passez au grill 10 min en tournant votre brique afin qu'elle soit dorée.Bon appétit !</prep>
+<eng>0</eng>
+</rec>
+<rec id=1170>
+<title>Bricks au poulet, pomme et curry faciles</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+</inf>
+<ing>10 feuilles de brick</ing>
+<ing> 3 escalopes de poulet</ing>
+<ing> 1 pomme</ing>
+<ing> curry en poudre</ing>
+<ing> 1 échalote</ing>
+<ing> 10 cl de crème liquide</ing>
+<ing> huile</ing>
+<prep>Préchauffez le four à th.6 (180°C).Épluchez l'échalote.Sur votre planche de cuisine, découpez les escalopes, la pomme et l'échalote en petits morceaux.Prenez un bol et mélangez-y 3 c. à soupe d’huile et 2 c. à soupe de curry.Mettez-y les morceaux de poulet et laissez-les mariner pendant 30 min.Huilez légèrement une poêle, et au feu, faites-y dorer le poulet.Ajoutez en fin de cuisson la pomme, l'échalote et la crème.Laissez cuire durant 3 min à feu doux.Tranchez les feuilles de brick en 2.0Disposez 1 c. à soupe de poulet sur un côté, puis pliez la feuille de façon à avoir un triangle.1Posez sur une plaque, puis enfournez.2Laissez cuire pendant 20 min.3Retirez du four, puis servez. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1171>
+<title>Bricks au saumon sauvage</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>2 boites de saumon sauvage cuisiné à l’huile d’olive sans peau et sans arêtes Connétable</ing>
+<ing>4 oeufs </ing>
+<ing>4 feuilles de brick</ing>
+<ing>1 gros oignon rouge</ing>
+<ing>30 g de persil haché</ing>
+<ing>le jus d’un citron</ing>
+<ing>10 g d’huile d’olive vierge extra</ing>
+<ing>1 litre d’huile à friture</ing>
+<ing>sel fin et poivre du moulin</ing>
+<prep>Epluchez, lavez et hachez finement l’oignon. Dans une poêle, faites chauffer l’huile d’olive puis faites revenir l’oignon à feu moyen, jusqu’à ce qu’il devienne tendre et transparent. Dans un bol, écrasez le saumon avec une fourchette, puis ajoutez le persil, le jus de citron et l’oignon juste cuit. Assaisonnez (sel fin et poivre du moulin).Déposez sur votre table de travail les feuilles de brick. (Attention : celles-ci, à l’air libre, séchent trés vite et deviennent cassantes ; il faudra donc être rapide à la préparation des bricks.Placez au centre de chaque feuille, une cuillére de saumon préparé, puis repliez les 4 bords de la feuille de façon à obtenir un carré. Repliez, ensuite, celui-ci en diagonale de façon à obtenir un triangle, ajoutez l’oeuf entier au milieu, et repliez la feuille de brick. Faites glisser vos bricks dans une poêle à bords hauts, ou vous aurez préalablement fait chauffer l’huile de friture. Laissez cuire jusqu’à obtention de bricks gonflés et bien dorés.Servir les bricks trés chauds, aprés les avoir égouttés sur un papier absorbant. Attention, si les bricks doivent être servis trés chauds, l’oeuf ne doit pas être trop cuit.Il vous est alors possible de poudrer légérement les bricks d’un peu de Cayenne en poudre, de cannelle ou d’épices rapportées de vos derniéres vacances au pays du soleil ! </prep>
+<eng>0</eng>
+</rec>
+<rec id=1172>
+<title>Bricks au thon</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :35 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de bricks</ing>
+<ing>250 g de thon</ing>
+<ing>6 pommes de terre moyennes</ing>
+<ing>6 c. à soupe de crème fraîche paisse</ing>
+<ing>10 g de beurre </ing>
+<ing>1 oignon</ing>
+<ing>1 pincée de cumin </ing>
+<ing>1 pincée de noix de muscade</ing>
+<ing>1 oeuf</ing>
+<ing>persil </ing>
+<ing>sel, poivre</ing>
+<prep>Commencez par préchauffer votre four à 200°c th7. Épluchez et coupez les pommes de terre en petits cubes puis faites-les cuire dans de l'eau bouillante salée.Pelez et hachez l'oignon que vous ferez revenir avec un peu d'huile d'olive.Laissez cuire pendant 10 minutes à feu doux jusqu'à ce qu'il devienne transparent.Écrasez grossièrement les pommes de terre à la fourchette dans un saladier.Incorporez le beurre, 2 c. à soupe de crème fraîche, le cumin et la muscade, le sel et le poivre puis mélangez le tout.Hors du feu, mélangez le thon avec les oignons, le persil et le reste de la crème fraîche. Découpez chaque brick en deux, étalez un peu de jaune d'œuf dessus à l'aide d'un pinceau, puis déposez une petite épaisseur de purée et de mélange au thon en haut de la feuille. Rabattez le haut de la feuille et pliez en forme de samoussas (de triangle). Enfournez pour 10 minutes.0Vous sentez la bonne odeur qui s’échappe du four ? Vos bricks au thon sont maintenant prêtes ! 1Amusez-vous à changer quelques ingrédients la prochaine fois si vous le souhaitez. Testez avec du saumon par exemple ! 2Bonne dégustation ! </prep>
+<eng>0</eng>
+</rec>
+<rec id=1173>
+<title>Bricks au thon et à l'oeuf </title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>1 boîte de 190 g de thon au naturel</ing>
+<ing>4 œufs</ing>
+<ing>50 g de gruyère râpé</ing>
+<ing>10 feuilles de persil</ing>
+<ing>Huile pour la friture</ing>
+<ing>Sel</ing>
+<ing>Poivre</ing>
+<prep>Cassez les œufs et mettez-les un à un dans un grand saladier. Ajoutez la boîte de thon égouttée, les feuilles de persil lavées et hachées et le gruyère râpé puis salez et poivrez.Sur une assiette plate assez large, déposez une feuille de brick et avec une cuillère à soupe, prenez un peu de mélange, mettez-le au milieu de la brick et pliez celle-ci sur elle même puis en trois de façon à former un triangle, comme pour des samoussas.Pendant ce temps, faites chauffer de l'huile dans une poêle assez large. Lorsqu’elle est bien chaude, placez une à une les bricks de thon et à l’œuf et faites-les cuire des deux côtés jusqu’à obtenir une belle couleur dorée. Égouttez et dressez sur un plat que l’on peut décorer de salade verte et de tranches de citron par exemple. Servez ces bricks chaudes ou froides, pour le souper, avec une salade de crudités.</prep>
+<eng>388</eng>
+</rec>
+<rec id=1174>
+<title>Bricks au thon et aux pommes de terre</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :8 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>1 paquet de feuilles de brick</ing>
+<ing>2 boîtes de thon </ing>
+<ing>5 belles pommes de terre </ing>
+<ing>5 œufs</ing>
+<ing>1 boîte de portions de vache qui rit</ing>
+<ing>1 boîte de câpres</ing>
+<ing>persil</ing>
+<ing>sel, poivre</ing>
+<prep>Faites cuire à l'eau les pommes de terre. Déposez le thon dans un saladier, ajoutez y 4 œufs, les câpres, le sel et le poivre. Une fois les pommes terre cuites, écrasez-les et incorporez-les à la préparation que vous venez de réaliser. Prenez vos feuilles de brick et coupez-les en deux de manière à réaliser des triangles. Déposez votre préparation au centre d'une moitié de feuille et rajoutez-y une portion de vache qui rit.Refermez le triangle en veillant à bien coller les bords à l'aide d'œuf battu. Renouvelez cette opération avec vos autres triangles. Enfin, faites cuire vos triangles dans la friteuse.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1175>
+<title>Bricks au thon et câpres</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick  </ing>
+<ing>1 boîte de thon au naturel en conserve</ing>
+<ing>4 oeufs entiers</ing>
+<ing>150 g de fromage râpé </ing>
+<ing>2 c. à soupe de câpres au vinaigre</ing>
+<ing>bain de friture</ing>
+<ing>poivre au goût</ing>
+<prep>Faites chauffer l'huile dans la friteuse.Egouttez et émiettez le thon au naturel dans un saladier, à l’aide d’une fourchette.Egouttez et hachez les câpres au vinaigre.Placez les feuilles de brick bien à plat sur un plan de travail.Placez au centre de chaque feuille de brick du fromage râpé, du thon émietté et quelques câpres hachés.Cassez un oeuf sur le dessus de chaque garniture puis poivrez légèrement à votre goût.Repliez ensuite chaque bord des feuilles de brick sur la garniture pour former des carrés de feuilles de brick.Plongez les bricks au thon et aux câpres dans l’huile chaude de la friteuse et faites-les frire jusqu'à ce qu'elles soient dorées.A la fin de la cuisson, retirez les bricks au thon et au câpres de la friteuse, à l’aide d’un écumoire, puis égouttez-les sur du papier absorbant.0Servez les bricks au thon et aux câpres bien chaudes, nappées d’une sauce tomate faite maison et accompagnées d’une salade verte assaisonnée.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1176>
+<title>Bricks au thon et cornichons</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :35 min</inf>
+<ing>des feuilles de brick</ing>
+<ing>1 boite de thon au naturel d'environ 200 g (140 g égouttée)</ing>
+<ing>2 belles pommes de terre (ou 4 petites)</ing>
+<ing>4 c. à soupe de crème fraîche 15%</ing>
+<ing>1carré frais 0% (optionnel) ou 1 c. à soupe de mayonnaise (optionnel)</ing>
+<ing>quelques petits cornichons coupés en tout petits morceaux</ing>
+<ing>1 échalote</ing>
+<ing>un blanc d'œuf</ing>
+<ing>sel, poivre</ing>
+<ing>Huile d'olive</ing>
+<prep>Dans un premier temps épluchez les pommes de terre et faites les cuire à l'eau ou à la vapeur.Pendant ce temps, émincez très finement  l'échalote, égouttez le thon et émiettez le dans un saladier.Mélangez l'échalote et le thon, ajoutez tous les autres ingrédients. Une fois cuites, ajoutez les pommes de terre, écrasez bien le tout à la fourchette et mélangez. Disposez un petit tas à environ 3 cm d'un bord de la brick, rabattez le haut et le bas de la brick sur le petit tas, et roulez comme un cigare. Collez les rebord avec du blanc d'œuf.Faites chauffer un peu d'huile d'olive dans une grande sauteuse et faites cuire vos brick environ 5 minutes de chaque coté, suffisamment pour que vos brick soient bien dorées et croustillantes. Enlevez l'excèdent de "gras" sur un papier absorbant, servez!</prep>
+<eng>0</eng>
+</rec>
+<rec id=1177>
+<title>Bricks au thon et pommes de terre</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :20 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>1 paquet de feuille de brik</ing>
+<ing>2 oeufs durs</ing>
+<ing>1 oeuf frais</ing>
+<ing>3 à 4 grosses pommes de terre</ing>
+<ing>1 boîte de thon</ing>
+<ing>1 grosse c. à soupe de câpres</ing>
+<ing>1 sachet de colorant alimentaire</ing>
+<ing>1 oignon</ing>
+<ing>1 gousse d'ail</ing>
+<ing>sel, poivre</ing>
+<prep>Faites cuire les pommes de terre dans de l'eau bouillant salée et faites une purée.Ecrasez les oeufs durs et mélangez-les à la purée, ajoutez le thon et les câpres.Dans une sauteuse, faites revenir dans de l'huile, l'ail et l'oignon, ajoutez le colorant alimentaire. Une fois dorés, ajoutez le mélange de purée. Hors du feu, mélangez, salez et poivrez.Formez des triangles ou carrés avec les feuilles de brick, garnissez-les de la purée et collez-les avec l'oeuf restant.Faites-les revenir à la poêle dans un peu d'huile, 3-4min de chaque côté.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1178>
+<title>Bricks aux asperges et saumon fumé </title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de Brick </ing>
+<ing> 1 petite boîte d'asperges vertes  </ing>
+<ing> 2 tranches de saumon fumé </ing>
+<ing> 100 grammes de fromage frais  </ing>
+<ing> sel, poivre </ing>
+<ing> huile d'olive </ing>
+<prep>Coupez les feuilles de bricks en deux demi-disques. Mixez les asperges avec le fromage frais. Salez et poivrez. Ajoutez le saumon. Mixez sans réduire en purée. Badigeonnez les bricks d’huile d’olive. Déposez un peu de garniture. Pliez en triangle. Faites cuire au four pendant 10 à 12 minutes (four préchauffé à 180°C). Servez tiède. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1179>
+<title>Bricks aux courgettes</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 5 min
+Cuisson :15 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>400 g de courgettes en rondelles</ing>
+<ing>1 paquet de feuilles de brick</ing>
+<ing>1 filet d'huile d'olive</ing>
+<ing>basilic surgelé</ing>
+<ing>Sel, poivre</ing>
+<prep>Faites décongeler les rondelles de courgettes en les passant quelques minutes au micro-onde en mode décongélation.Préchauffez votre four th.7 (210°C).Une fois les courgettes décongelées, mettez-les dans un papier absorbant et pressez-les pour les essorer.Faites-les ensuite revenir à la poêle quelques instants dans un filet d'huile d'olive, salez et poivrez. Découpez vos feuilles de brick en demi cercles puis déposez au sein de chaque demi cercle deux à trois rondelles de courgette.saupoudrez de basilic ciselé surgelé. Repliez-les en triangle.Déposez vos bricks sur une plaque allant au four, recouverte de papier sulfurisé.Laissez sous le grill 10 minutes environ, jusqu'à ce qu'ils soient bien dorés.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1180>
+<title>Bricks aux légumes et au fromage blanc</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>200 g de fromage blanc</ing>
+<ing>4 feuilles de brick</ing>
+<ing>2 carottes</ing>
+<ing>2 navets</ing>
+<ing>2 poireaux</ing>
+<ing>1 cube de bouillon</ing>
+<ing>beurre</ing>
+<ing>herbes aromatiques</ing>
+<ing>huile d’olive</ing>
+<ing>1 verre d’eau</ing>
+<prep>Lavez les carottes, les navets et les poireaux. Pelez les carottes et les navets. Émincez tous les légumes en petits dés. Faites fondre du beurre dans une cocotte au feu. Ajoutez 1 verre d’eau et le cube de bouillon. Mélangez.Ajoutez les légumes et laissez-les cuire environ 10 minutes, en remuant, jusqu'à ce qu'ils soient tendres. Retirez du feu et laissez refroidir.Ajoutez le fromage blanc et mélangez. Lavez et ciselez les herbes.Déposez une cuillère à soupe de mélange sur une feuille de brick. Parsemez d'herbes ciselées. Fermez les feuilles de brick en les repliant en triangle. Versez 1 c. à soupe d’huile d’olive dans une poêle. Faites-y cuire les bricks environ 5 min sur chaque face à feu moyen.  Servez avec une salade.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1181>
+<title>Bricks chèvre et miel</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : 
+Préparation : 10 min
+Cuisson :15 min</inf>
+<cat>Bricks</cat>
+<cat>Brick au chevre</cat>
+<ing>brick : 4 </ing>
+<ing> crottin de chèvre : 2 </ing>
+<ing> miel liquide : 4 c. à café</ing>
+<ing> romarin</ing>
+<ing> baies de genièvre</ing>
+<prep>Préchauffez votre four th.7 (210°C).Coupez les crottins en deux, déposez-les au milieu des bricks. Ajoutez une cuillère de miel sur chaque demi-crottin. Ajoutez le romarin et les baies. Refermez les bricks. Mettez-les au four th.7 (210°C). Quand les bricks sont dorées, retirez-les du four. </prep>
+<eng>0</eng>
+</rec>
+<rec id=1182>
+<title>Bricks de chocolat chèvre</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 25 min
+Cuisson :10 min</inf>
+<cat>Bricks</cat>
+<cat>Brick au chevre</cat>
+<ing>10 feuilles de brick</ing>
+<ing>10 carrés de chocolat Lindt l’Universel</ing>
+<ing>1 fromage de chévre frais</ing>
+<ing>50 g de beurre fondu</ing>
+<ing>du miel liquide</ing>
+<prep>Détachez et séparez les feuilles de brick.Découpez dans chaque feuille 2 bandes les plus longues possible de 5 à 6 cm de large.Prenez une bande, passez au pinceau une fine couche de beurre fondu.Disposez un petit morceau de chévre, 1/2 carré de chocolat et deux gouttes de miel sur le bas de la bande.Rabattez le coin gauche de la bande sur le fromage, en formant un triangle équilatéral.Prenez ensuite le bas de la bande à droite et faites-la remonter à gauche en gardant les mêmes proportions.Collez le denier pliage avec du beurre et placez la fermeture sous le samousa.Servez chaud.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1183>
+<title>Bricks de crevettes au soleil froid</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>2 douzaines de crevettes de belle taille </ing>
+<ing>6 feuilles de brick</ing>
+<ing>2 grosses tomates fraîches</ing>
+<ing>2 grosses gousses d'ail</ing>
+<ing>8 feuilles de basilic</ing>
+<ing>quelques gouttes de Tabasco</ing>
+<ing>2 c. à soupe d'huile d'olive</ing>
+<ing>2 pincées de sel</ing>
+<prep>Préparez la sauce soleil froid, ébouillantez les tomates afin de les peler plus facilement. Puis épépinez-les et mettez-les dans un mixeur avec les gousses d'ail, le basilic, l'huile d'olive, le Tabasco (quantité selon le goût, mais se méfier de ne point trop en mettre) et le sel.Faites quelques tours de mixeur sans trop insister afin de ne pas chauffer la sauce et mettez-la dans un mini saladier au réfrigérateur pendant 3 heures. Faites cuire les crevettes si elles ne le sont pas déjà, nettoyez-les pour ne garder que le corps.Prenez les feuilles de brick, séparez-les et coupez-les en quatre.Enroulez chaque crevette dans chaque quart de feuille de brick et faites-les frire à feu vif dans de l'huile d'olive. Puis posez-les sur un papier absorbant.Servez-les accompagnées de la sauce soleil froid.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1184>
+<title>Bricks de Reblochon de Savoie aux petits légumes</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :2 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>1/2 Reblochon de Savoie fermier</ing>
+<ing> 6 feuilles de brick</ing>
+<ing> 2 carottes</ing>
+<ing> 250 g de champignons de Paris</ing>
+<ing> 3 c. à soupe d'huile d'olive</ing>
+<ing>Pour la créme</ing>
+<ing> 20 cl de créme liquide</ing>
+<ing> 15 g de reblochon</ing>
+<prep>Taillez les carottes en petits dés et hachez les champignons.Faites revenir le tout dans une casserole à l'huile d'olive pendant 10 min à feu doux. Assaisonnez et laissez refroidir.Coupez le reblochon en dés de 1.5 cm de côté environ en laissant la croûte.Coupez les feuilles de brick en deux.Répartissez un peu de légumes sur chaque morceau de feuilles de brick.Déposez un morceau de reblochon puis pliez délicatement en les faisant tenir avec une pique en bois.Faites frire chaque brick 2 min dans l'huile bouillante.Egouttez-les sur du papier absorbant.Préparez la créme: faites-la bouillir et ajoutez-y le morceau de reblochon jusqu'à ce qu'il soit bien fondu.0Nappez les feuilles de bricks de la créme et servez.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1185>
+<title>Bricks de saumon à l'aneth</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : 
+Préparation : 15 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>600 g de filet de saumon</ing>
+<ing>1 c. à café de graines de sésame </ing>
+<ing>1 échalote</ing>
+<ing>1 l de fumet de poisson </ing>
+<ing>5 brins d'aneth </ing>
+<ing>1 oeuf </ing>
+<ing>sel, poivre</ing>
+<prep>Faites pocher le saumon dans le fumet bouillant pendant quelques minutes.Sortez et égouttez le saumon.Dans une terrine, écrasez le poisson à la fourchette et mélangez-le avec l'aneth ciselée, l'échalote et saupoudrez de graines de sésame.Placez une ligne de farce de saumon sur le début de la brick.Roulez la brick en cigare.Badigeonnez-la avec de l'œuf battu et enfournez le temps que la brick dore.Répétez l'opération jusqu'à épuisement de la farce.Sortez les bricks du four, découpez-les et servez-les accompagnées d'aneth ciselé et d'une petite salade verte.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1186>
+<title>Bricks tomates et feta aux herbes de provence</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :15 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>8 feuilles de bricks</ing>
+<ing>1 tomate coeur de boeuf</ing>
+<ing>100 g de feta</ing>
+<ing>olives dénoyautées</ing>
+<ing>herbes de Provence</ing>
+<ing>huile d'olive</ing>
+<ing>beurre fondu</ing>
+<prep>Préchauffez le four th.6 (180°C).Lavez, puis tranchez la tomate en quartiers.Épépinez-la, puis coupez-la en petits morceaux.Émiettez la feta, déposez les miettes dans un saladier, et incorporez les olives dénoyautées.Ajoutez les tomates.Parsemez d'herbes de Provence. Mélangez.Versez sur la farce ainsi obtenue un filet d'huile d'olive.Passez maintenant à la préparation des feuilles de brick.Réunissez deux feuilles pour former une brick.0Étalez alors du beurre fondu sur les bricks ainsi assemblées.1Servez-vous  d'une cuillère à soupe pour prendre une quantité de la farce, puis déposez-la au milieu de chacune des bricks. 2Pliez chaque brick en forme de triangle en prenant soin de rabattre les bords. 3Mettez à cuire au four pendant 15 min.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1185>
+<title>Bricks de saumon à l'aneth</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : 
+Préparation : 15 min
+Cuisson :10 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>4 feuilles de brick</ing>
+<ing>600 g de filet de saumon</ing>
+<ing>1 c. à café de graines de sésame </ing>
+<ing>1 échalote</ing>
+<ing>1 l de fumet de poisson </ing>
+<ing>5 brins d'aneth </ing>
+<ing>1 oeuf </ing>
+<ing>sel, poivre</ing>
+<prep>Faites pocher le saumon dans le fumet bouillant pendant quelques minutes.Sortez et égouttez le saumon.Dans une terrine, écrasez le poisson à la fourchette et mélangez-le avec l'aneth ciselée, l'échalote et saupoudrez de graines de sésame.Placez une ligne de farce de saumon sur le début de la brick.Roulez la brick en cigare.Badigeonnez-la avec de l'œuf battu et enfournez le temps que la brick dore.Répétez l'opération jusqu'à épuisement de la farce.Sortez les bricks du four, découpez-les et servez-les accompagnées d'aneth ciselé et d'une petite salade verte.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1186>
+<title>Bricks tomates et feta aux herbes de provence</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :15 min</inf>
+<cat>Entrées</cat>
+<cat>Bricks</cat>
+<ing>8 feuilles de bricks</ing>
+<ing>1 tomate coeur de boeuf</ing>
+<ing>100 g de feta</ing>
+<ing>olives dénoyautées</ing>
+<ing>herbes de Provence</ing>
+<ing>huile d'olive</ing>
+<ing>beurre fondu</ing>
+<prep>Préchauffez le four th.6 (180°C).Lavez, puis tranchez la tomate en quartiers.Épépinez-la, puis coupez-la en petits morceaux.Émiettez la feta, déposez les miettes dans un saladier, et incorporez les olives dénoyautées.Ajoutez les tomates.Parsemez d'herbes de Provence. Mélangez.Versez sur la farce ainsi obtenue un filet d'huile d'olive.Passez maintenant à la préparation des feuilles de brick.Réunissez deux feuilles pour former une brick.0Étalez alors du beurre fondu sur les bricks ainsi assemblées.1Servez-vous  d'une cuillère à soupe pour prendre une quantité de la farce, puis déposez-la au milieu de chacune des bricks. 2Pliez chaque brick en forme de triangle en prenant soin de rabattre les bords. 3Mettez à cuire au four pendant 15 min.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1187>
+<title>Brie grillé aux tomates séchées</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :15 min</inf>
+<cat>Légumes</cat>
+<cat>Tomate</cat>
+<ing> 1 tête d’ail</ing>
+<ing> 3 échalotes hachées</ing>
+<ing> 2 c. à soupe d’huile d’olive</ing>
+<ing> 1/3 tasse de tomates séchées ou plus (hachées, égoutées)</ing>
+<ing> 1 fromage brie ou à pate molle de 250 g.</ing>
+<ing> sel, poivre</ing>
+<prep>Préchauffez le four à th.6 (180°C)Eplucher l'ail et réduisez-le en purée.Dans une poêle, faites cuire, environ 10 min, l'ail, les échalotes et les tomates .Versez ensuite la préparation sur le fromageMettez le tout sur une plaque avec alu. Utiliser du papier alu. qui ne colle pas et enfournez 15 min.Servez chaud avec du pain croûté au gout</prep>
+<eng>0</eng>
+</rec>
+<rec id=1188>
+<title>Brie pané aux kiwis</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 20 min
+Cuisson :10 min</inf>
+<cat>Recettes</cat>
+<cat>Pané</cat>
+<ing>2 oeufs</ing>
+<ing>4 portions de brie de 80 g environ</ing>
+<ing>1 c. à soupe de lait</ing>
+<ing>80 g de chapelure</ing>
+<ing>80 g de farine</ing>
+<ing>60 g de beurre clarifié</ing>
+<ing>2 c. à soupe de cidre</ing>
+<ing>sel et poivre</ing>
+<prep>Cassez les oeufs, battez-les en omelette avec le lait. Farinez les portions de brie seulement sur les faces croûte, puis badigeonnez-les d'oeufs battus avec 1 pinceau et saupoudrez uniformément de chapelure en tapotant du bout des doigts pour faire adhérer. Réservez au frais.Epluchez les kiwis. Découpez-en 3 en rondelles et mixez-les autres. Incorporez le cidre à la purée de fruits.Chauffez le beurre clarifié (sans mousse blanche et petit lait) dans une poêle antiadhésive et dorez-y les portions de brie en les retirant délicatement à la spatule dés que ça commence à dorer.Pour servir, placez le brie sur des assiettes chaudes avec les rondelles de kiwis, versez un peu de coulis, servez le reste à part.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1189>
+<title>Brioche à l'ancienne</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 25 min
+Cuisson :45 min</inf>
+<cat>Les bases</cat>
+<cat>Pain</cat>
+<ing>300 g de farine de blé</ing>
+<ing>170 g de beurre</ing>
+<ing>15 g de levure de boulanger</ing>
+<ing>1 c. à soupe de sucre en poudre</ing>
+<ing>10 cl de lait tiède</ing>
+<ing>3 œufs</ing>
+<ing>1 pincée de sel</ing>
+<prep>Préchauffez le four à 180°C (th. 6). Dans un bol, délayez votre levure dans le lait que vous aurez auparavant fait tiédir. Mélangez la farine de blé tamisée, le sucre en poudre et le sel dans un saladier. Versez petit à petit 150 g de beurre préalablement fondu. Ajoutez ensuite un à un les œufs puis incorporez le mélange levure boulangère et lait. Mélangez bien tous les ingrédients sans cesse jusqu’à l’obtention d’une pâte bien lisse. Comptez environ 15 min de pétrissage. Aidez-vous d’un robot pétrisseur si vous en avez un. Après, formez une boule de pâte à brioche. Couvrez-la d’un torchon propre et laissez-la gonfler pendant environ 1 heure dans un endroit tiède : elle doit augmenter de moitié (plus elle gonflera et plus elle sera moelleuse à la dégustation).Pétrissez à nouveau la pâte pendant au moins 15 min pour obtenir une brioche moelleuse et légère. Laissez reposer encore jusqu’à ce qu’elle double de volume.Beurrez et fariné un moule dans lequel vous placerez la brioche puis enfournez-la pendant 30 min. Couvrez-la alors d’une feuille d’aluminium si elle prend trop de couleur et prolongez la cuisson de 15 min.Sortez la brioche du four et laissez-la refroidir sur une grille. Dégustez-la accompagnée de confiture ou de pâte à tartiner.</prep>
+<eng>642</eng>
+</rec>
+<rec id=1190>
+<title>brioche à l'eau de fleur d'oranger</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 30 min
+Cuisson :25 min</inf>
+<ing>1 kg de farine</ing>
+<ing>3 oeufs</ing>
+<ing>250 g de sucre  </ing>
+<ing>150 g de beurre ramolli</ing>
+<ing>3 c. à café de crème fraîche</ing>
+<ing>25 cl d’eau tiède</ing>
+<ing>50 g de levure de boulanger</ing>
+<ing>12 cl de lait tiède</ing>
+<ing>2 c. à café d’eau de vie</ing>
+<ing>1 c. à soupe d’eau de fleur d’oranger</ing>
+<ing>2 c. à café de sel fin</ing>
+<prep>Délayez la levure dans le lait tiède et laissez gonfler pendant une dizaine de minutes. Versez la farine dans un saladier et creusez une fontaine au centre. Mettez-y le sel, le sucre, la crème fraîche, 2 oeufs entiers, le beurre, la levure diluée, l'eau de vie et l’eau de fleur d’oranger.Travaillez la pâte à la main en ajoutant l’eau petit à petit jusqu’à ce que la pâte ne colle plus. Formez une boule de pâte et farinez-la légèrement. Mettez-la dans un plat, couvrez-la d’un linge et laissez gonfler pendant 3 heures dans un endroit chaud.Beurrez et farinez un moule à cake. Coupez la pâte en trois et faites de longs boudins. Tressez-les pour former une brioche que vous placerez dans un moule. Couvrez et laissez à nouveau reposer pendant une heure. Préchauffez le four 180°C (th.6). Battez l'oeuf restant avec 1 c. à soupe de lait. Badigonnez toute la surface de la brioche. Enfournez et faites cuire 25 min. Sortez du four, démoulez aussitôt et laissez refroidir sur une grille avant de servir avec de la confiture.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1191>
+<title>Brioche à la crème d'ail et persil</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 15 min
+Cuisson :20 min</inf>
+<cat>Les bases</cat>
+<cat>Pain</cat>
+<ing>200 g de farine</ing>
+<ing>10 g de sucre semoule</ing>
+<ing>1 c. à café de levure instantanée</ing>
+<ing>130 g de lait</ing>
+<ing>15 g de beurre</ing>
+<ing>sel</ing>
+<ing>Pour la crème d'ail :</ing>
+<ing>4 gousses d'ail finement hachées</ing>
+<ing>30 g de beurre mou</ing>
+<ing>1 a 2 c. à café de persil haché</ing>
+<ing>sel si le beurre n'est pas salé</ing>
+<prep>Commencez par la crème d'ail :Épluchez les gousses d'ail et faîtes-les réduire avec le beurre et le persil.Préparez la brioche :Préchauffez le four th.6 (180°C).Mettez les ingrédients secs dans un saladier puis mélangez avec le lait tiède et pétrissez un peu.Faîtes fondre le beurre, ajoutez-le et pétrissez encore puis laissez reposer jusqu’à ce que la pâte double de volume.Formez des petites boules et laissez reposer environ 30 minutes puis faîtes des entailles avec un couteau et remplissez-les avec la crème d'ail.Laissez reposer 30 minutes puis faîtes cuire au four environ 15 à 20 minutes selon votre four.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1192>
+<title>Brioche à la fleur d'oranger</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 5 min
+Cuisson :2 h  37 min</inf>
+<cat>Les bases</cat>
+<cat>Pain</cat>
+<ing>200 g de crème fraiche semi-épaisse</ing>
+<ing>2 œufs</ing>
+<ing>3 c. à soupe de sucre semoule</ing>
+<ing>1 c. à café de sel fin</ing>
+<ing>100 g de beurre</ing>
+<ing>1 c. à soupe de fleur d'oranger</ing>
+<ing>1 c. à café de rhum</ing>
+<ing>450 g de farine</ing>
+<ing>1,5 c. à café de levure</ing>
+<prep>Dans la cuve de votre machine à pain, versez les ingrédients dans l'ordre suivant : la crème fraiche, les œufs, le sucre semoule, sel, le beurre, la fleur d'oranger, le rhum et la farine.Faites un puits dans la farine et ajouter la levure.Mettez la cuve dans la machine.Programmez sur pain normal, "option taille 1,250 kg", couleur moyenne ou foncée. Démoulez la brioche et laissez-la refroidir sur une grille avant de la couper.</prep>
+<eng>0</eng>
+</rec>
+<rec id=1193>
+<title>Brioche à la glace vanille et coulis chocolat</title>
+<inf>Auteur : www.cuisineaz.com 
+Niveau : Facile
+Préparation : 40 min
+Cuisson :20 min</inf>
+<cat>Les bases</cat>
+<cat>Pain</cat>
+<ing>1 kg de farine</ing>
+<ing>2 c. à café de sel fin</ing>
+<ing>3 œufs</ing>
+<ing>250 g de sucre  </ing>
+<ing>150 g de beurre ramolli</ing>
+<ing>3 c. à café de créme fraîche</ing>
+<ing>25 cl d’eau tiéde</ing>
+<ing>50 g de levure de boulanger</ing>
+<ing>12 cl de lait tiéde</ing>
+<ing>2 l de glace à la vanille</ing>
+<ing>100 g de chocolat noir</ing>
+<ing>2 c. à soupe de lait</ing>
+<prep>Émiettez et délayez la levure dans le lait tiéde et laissez gonfler pendant une dizaine de minutes. Versez la farine dans un saladier et creusez une fontaine au centre. Mettez-y le sel, le sucre, la créme fraîche, deux œufs entiers, le beurre et la levure diluée. Travaillez la pâte à la main en ajoutant l’eau petit à petit et ce jusqu’à ce que la pâte ne colle plus.Formez une boule de pâte et farinez-la légérement. Mettez-la dans un plat, couvrez-la d’un linge et laissez gonfler pendant 3 heures dans un endroit tiéde.Divisez la pâte en trois parts. Prenez les deux tiers, formez une boule, que vous divisez en six petits pâtons égaux. Posez un bâton dans chaque alvéole d’un moule à muffins en silicone. Avec le reste, faites des petites boules de pâte pour faire les chapeaux. Répartissez-les dans les moules.Laissez gonfler encore une heure.  Préchauffez le four th 6 (180°C).Battez l’œuf restant avec une cuillére à soupe de lait et badigeonnez-en les brioches. Enfournez et faites cuire 20 minutes. Vérifiez la cuisson avec la lame d’un couteau.Sortez du four et laissez refroidir.0Au moment de servir, cassez le chocolat en morceaux, mettez-les dans une casserole avec deux cuilléres à soupe de lait. Posez sur feu doux et mélangez jusqu’à l’obtention d’une créme lisse.1Démoulez les brioches, coupez-les en deux sans aller jusqu’au bout. Faites six boules de glace, que vous déposez sur chaque brioche, arrosez de chocolat et refermez la moitié de la brioche sur la glace.2Servez aussitôt.</prep>
+<eng>0</eng>
+</rec>
