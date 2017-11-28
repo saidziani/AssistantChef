@@ -69,7 +69,7 @@ class Search():
             haram = []#à compléter
             from stop_words import get_stop_words
             stopWords = get_stop_words('arabic')
-            from nltk.stem.isri import ISRIStemmer
+            #from nltk.stem.isri import ISRIStemmer
             stemmer = ISRIStemmer()
 
         deniedList.extend(colors)
