@@ -172,24 +172,20 @@ class Search():
         meat = ['viande', 'poisson', 'poulet','poivron', 'dinde']
         recipe = self.idSearch(idRecipe)
         keywords = self.getKeyWords(recipe)
-        cpt, length = self.existNb(meat, keywords)
+        cpt = self.existNb(meat, keywords)
         if cpt == 0:
             print(keywords)
 
 
     def existNb(self, keywords, recipeKeyWords):
-        cpt = 0
-        for keyword in keywords:
-            if keyword.lower() in recipeKeyWords:
-                cpt += 1
-        return cpt, len(recipeKeyWords)
-
+        return len(set(set(keywords)).intersection(set(recipeKeyWords)))
 
     def compare(self, keywords, recipeKeyWords):
 
-        nbWords, lenRecipeKeyWords = self.existNb(keywords, recipeKeyWords)
+        nbWords = self.existNb(keywords, recipeKeyWords)
+        lenRecipeKeyWords = len(set(recipeKeyWords))
+
         prop = round(float((nbWords / lenRecipeKeyWords) * 100), 2)
-        # print(prop)
         if prop == 0:
             return -2, prop 
         elif prop < 30:
@@ -249,6 +245,7 @@ class Search():
         from operator import itemgetter
         lang = self.lang
         corpusKeyWords = open('corpus/frKeyWords.txt', 'r') if lang == 1 else  open('corpus/arKeyWords.txt', 'r')
+
         idRecipes = {}
         recipesTocheck = {}
         for line in corpusKeyWords.readlines():
