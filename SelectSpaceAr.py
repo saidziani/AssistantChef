@@ -1,6 +1,6 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import functools
-import search, RecipesResFr
+import search, RecipesResAr
 import FruitSpaceAr, VegetableSpaceAr, SpiceSpaceAr
 
 ingredient = []
@@ -42,10 +42,10 @@ class SelectSpaceAr(object):
         self.label_4.setGeometry(QtCore.QRect(175, 300, 500, 30))
         self.label_4.setObjectName("label_4")
 
-        self.checkBox = QtWidgets.QCheckBox(Form)
-        self.checkBox.setGeometry(QtCore.QRect(225, 220, 150, 30))
-        self.checkBox.setLayoutDirection(QtCore.Qt.RightToLeft)
-        self.checkBox.setObjectName("checkBox")
+        self.checkBox_1 = QtWidgets.QCheckBox(Form)
+        self.checkBox_1.setGeometry(QtCore.QRect(225, 220, 150, 30))
+        self.checkBox_1.setLayoutDirection(QtCore.Qt.RightToLeft)
+        self.checkBox_1.setObjectName("checkBox_1")
         self.checkBox_2 = QtWidgets.QCheckBox(Form)
         self.checkBox_2.setGeometry(QtCore.QRect(375, 220, 150, 30))
         self.checkBox_2.setLayoutDirection(QtCore.Qt.RightToLeft)
@@ -113,6 +113,8 @@ class SelectSpaceAr(object):
         self.label_8.setObjectName("epices")
         self.label_8.mousePressEvent = functools.partial(self.openIngSpace, source_object=self.label_8)
 
+        self.pushButton.clicked.connect(self.recherche)
+
         self.retranslateUi(Form)
         QtCore.QMetaObject.connectSlotsByName(Form)
 
@@ -129,7 +131,7 @@ class SelectSpaceAr(object):
         self.label_7.setText(_translate("Form", "    اللحوم "))
         self.label_8.setText(_translate("Form", "    التوابل "))
 
-        self.checkBox.setText(_translate("Form", " طبيعي"))
+        self.checkBox_1.setText(_translate("Form", " طبيعي"))
         self.checkBox_2.setText(_translate("Form", " نباتي"))
         self.checkBox_3.setText(_translate("Form", " مرض السكري"))
         self.checkBox_4.setText(_translate("Form", " سمك"))
@@ -142,7 +144,6 @@ class SelectSpaceAr(object):
         
 
     def retour(self, event):
-        print('BACK')
         self.closeWindow()
 
 
@@ -165,7 +166,6 @@ class SelectSpaceAr(object):
 
     def getKeyWords(self, ingList):
         ingredient.extend(ingList)
-        print(ingredient)
 
     def recherche(self):
         checked = []
@@ -184,22 +184,22 @@ class SelectSpaceAr(object):
         if self.checkBox_7.isChecked():
             checked.append(7)
 
-        searchObj = search.Search([], 'corpus/arCorpus.txt', 1)
+        searchObj = search.Search([], 'corpus/arCorpus.txt', 2)
 
         queryToken = ingredient
-        print(queryToken)
-
+        print("Words: ", queryToken)
         queryKeyWords = searchObj.getKeyWords(queryToken)
-        print(queryKeyWords)
-        # checked, result  = searchObj.getResult(queryKeyWords , 1, checked)
+        print("keyWords: ", queryKeyWords)
+        checked, result  = searchObj.getResult(queryKeyWords , 2, checked)
 
-    #     self.sendData(result)
+        self.sendData(result)
 
-    # def sendData(self,  data):
-    #     self.window = QtWidgets.QMainWindow()
-    #     self.ui = RecipesResAr.RecipesResAr()
-    #     self.ui.setupUi(self.window, data[:5])
-    #     self.window.show()
+    def sendData(self,  data):
+        self.window = QtWidgets.QMainWindow()
+        self.ui = RecipesResAr.RecipesResAr()
+        self.ui.setupUi(self.window, data[:5])
+        self.window.show()
+        
 
 if __name__ == "__main__":
     import sys

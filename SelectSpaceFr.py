@@ -135,7 +135,6 @@ class SelectSpaceFr(object):
         
 
     def retour(self, event):
-        print('BACK')
         self.closeWindow()
 
     def openIngSpace(self, event, source_object=None):

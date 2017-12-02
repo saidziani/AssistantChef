@@ -42,7 +42,7 @@ class RecipesResAr(object):
         sizeRecipes = len(data)
         data = data[:5]
         nbRecipes = len(data)
-        self.label_3.setText(str(sizeRecipes)+' résultats de recherche')
+        self.label_3.setText(str(sizeRecipes)+' وصفة متوفرة ')
         labels = ['self.label_'+str(i) for i in range(4, nbRecipes+4)]
         labels4Cat = ['self.label_'+str(i+nbRecipes) for i in range(4, nbRecipes+4)]
         # pertinence   = ['self.label_'+str(i+nbRecipes) for i in range(4, nbRecipes+4)]
