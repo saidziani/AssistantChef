@@ -28,6 +28,23 @@ class Search():
         return taggedText
 
 
+    def getStemmedText(self, text):
+        stemmedText = []
+        if self.lang == 1:
+            stemmer = nltk.stem.snowball.FrenchStemmer()
+            stemmedText = [stemmer.stem(word) for word in text if word.isalpha()]
+        else:
+            from tashaphyne.stemming import ArabicLightStemmer
+            ArListem = ArabicLightStemmer()
+            for word in text:
+                if word.isalpha():
+                    stem = ArListem.light_stem(word)
+                    root = ArListem.get_root()
+                    stemmedText.append(root)
+        
+        return stemmedText
+
+
 
     # transform my XML page to Beautifull soup object
     def getCorpusSoup(self):
@@ -55,47 +72,55 @@ class Search():
 
     # just to build correctly my denied word list: french stop words + colors ...etc
     def getDeniedWords(self):
-        from nltk.corpus import stopwords
         deniedList = []
         if self.lang == 1:
             colors =  ['blanc', 'noir', 'rouge', 'jaune'] # à compléter
             otherWord = ['tous', 'les', 'ingrédients', 'moitiés', 'trait', 'frais', 'ensemble', 'petits', 'grand', 'préparation', 'préparations', 'poisson', 'légumes', 'fruits', 'épices', 'service', 'plat']
             haram = ['vin', 'porc', 'liqueur', 'cochenille', 'mulet']#à compléter
+            from nltk.corpus import stopwords
             stopWords = stopwords.words('french')
-            stemmer = nltk.stem.snowball.FrenchStemmer()
+            deniedList.extend(colors)
+            deniedList.extend(otherWord)
+            deniedList.extend(haram)
+            deniedList.extend(stopWords)
         else:
             colors =  [] # à compléter
             otherWord = []
             haram = []#à compléter
             from stop_words import get_stop_words
             stopWords = get_stop_words('arabic')
-            from nltk.stem.isri import ISRIStemmer
-            stemmer = ISRIStemmer()
-
-        deniedList.extend(colors)
-        deniedList.extend(otherWord)
-        deniedList.extend(haram)
-        deniedList.extend(stopWords)
-        deniedList = [stemmer.stem(word) for word in deniedList]
-        return deniedList
-
+            deniedList.extend(colors)
+            deniedList.extend(otherWord)
+            deniedList.extend(haram)
+            deniedList.extend(stopWords)
+        
+        return self.getStemmedText(deniedList)
 
     # transform a recipe on XML format to a keywords list
     def getKeyWords(self, text):
-        if self.lang == 1:
-            stemmer = nltk.stem.snowball.FrenchStemmer()
-        else:
-            from nltk.stem.isri import ISRIStemmer
-            stemmer = ISRIStemmer()
-        deniedList = self.getDeniedWords()
+
+        deniedList = set(self.getDeniedWords())
         keywords = []
-        for line in text:
-            tline = self.getTagged(line)
-            if self.lang != 1 :
+        if self.lang == 1:
+            for line in text:
+                tline = self.getTagged(line)
+                ntline = [taggedWord[0] for taggedWord in tline if taggedWord[1].startswith('N')]
+                stemmedNTLine = set(self.getStemmedText(ntline))
+                cleanText = stemmedNTLine - deniedList
+                keywords.extend(list(cleanText))
+        else:
+            # from nltk.stem.isri import ISRIStemmer
+            # stemmer = ISRIStemmer()
+            for line in text:
+                tline = self.getTagged(line)
                 tline = [(item[1].split('/')[0], item[1].split('/')[1]) for item in tline]
-            ntline = [taggedWord[0] for taggedWord in tline if taggedWord[1].startswith('N')]
-            cleanText = [stemmer.stem(word) for word in ntline if stemmer.stem(word) not in deniedList and word.isalpha()]
-            keywords.extend(cleanText)
+                ntline = [taggedWord[0] for taggedWord in tline if (taggedWord[1].startswith('N') or taggedWord[1].startswith('DTN'))]
+                stemmedNTLine = set(self.getStemmedText(ntline))
+                cleanText = stemmedNTLine - deniedList
+                keywords.extend(list(cleanText))
+
+                # cleanText = [stemmer.stem(word) for word in ntline if stemmer.stem(word) not in deniedList and word.isalpha()]
+                # keywords.extend(cleanText)
         return set(keywords)
 
 
@@ -206,7 +231,6 @@ class Search():
             noGlutin = [''] #à compélter
             noArachides = [''] #à compélter
             noLait = [''] #à compélter
-            stemmer = nltk.stem.snowball.FrenchStemmer()
         else:
             notBio = ['acide'] #à compélter
             notVegan = ['viandes', 'poisson', 'poulet'] #à compélter
@@ -215,8 +239,6 @@ class Search():
             noGlutin = [''] #à compélter
             noArachides = [''] #à compélter
             noLait = [''] #à compélter
-            from nltk.stem.isri import ISRIStemmer
-            stemmer = ISRIStemmer()
 
         nonDesirable = []
         if 1 in choice: 
@@ -234,8 +256,7 @@ class Search():
         if 7 in choice:
             nonDesirable.extend(noLait)
         
-        nonDesirable = [stemmer.stem(word) for word in nonDesirable]
-        return nonDesirable
+        return self.getStemmedText(nonDesirable)
 
 
     #lang=1 french / lang=2 arabe
@@ -245,7 +266,6 @@ class Search():
         from operator import itemgetter
         lang = self.lang
         corpusKeyWords = open('corpus/frKeyWords.txt', 'r') if lang == 1 else  open('corpus/arKeyWords.txt', 'r')
-
         idRecipes = {}
         recipesTocheck = {}
         for line in corpusKeyWords.readlines():
@@ -255,6 +275,7 @@ class Search():
             last = re.sub('\n', '', splitedLine[len(splitedLine)-1])
             recipeKeywords.append(last)
             decision, prop = self.compare(list(queryKeywords), recipeKeywords)
+            # print(decision, prop)
             if prop != 0 :
                 idRecipes[idRecipe] = prop
                 recipesTocheck[idRecipe] = (recipeKeywords, prop)
@@ -278,12 +299,22 @@ class Search():
 
 
 
+    def getBySet(self):
+        frInverse = open('corpus/frInverse.txt', 'r')
+        queryKeywords = ['croustill', 'beignet']
+        for Qkeyword in queryKeywords: 
+            for line in frInverse.readlines():
+                lineSplited = line.split(',')
+                keyword = lineSplited[0]
+                if Qkeyword == keyword:
+                    print(lineSplited[1:])
+            print(Qkeyword)
 
 
 
 if __name__ == "__main__":
     search = Search(['france'], 'corpus/frCorpus.txt')
-    print(search.idSearchData(12, 1))
+    search.getBySet()
     # text = search.getRecipe(1)
     # recipeKeyWords = search.getKeyWords(text)
     # print(recipeKeyWords)
