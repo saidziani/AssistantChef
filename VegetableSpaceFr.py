@@ -136,13 +136,13 @@ class VegetableSpaceFr(object):
 
 
         self.label_18 = QtWidgets.QLabel(Form)
-        self.label_18.setObjectName("chou-fleur")
+        self.label_18.setObjectName("chou fleur")
         pixmap = QtGui.QPixmap('ing/legumes/choufleur.jpg').scaledToWidth(80)
         self.label_18.setPixmap(pixmap)
         self.label_18.setGeometry(QtCore.QRect(340, 200, 100, 100))
         self.label_19 = QtWidgets.QLabel(Form)
         self.label_19.setGeometry(QtCore.QRect(350, 290, 80, 20))
-        self.label_19.setObjectName("chou-fleur")
+        self.label_19.setObjectName("chou fleur")
         self.label_19.mousePressEvent = functools.partial(self.stack, source_object=self.label_19)
         self.label_18.mousePressEvent = functools.partial(self.stack, source_object=self.label_19)
 
@@ -280,7 +280,6 @@ class VegetableSpaceFr(object):
 
 
     def retour(self, event):
-        print('BACK')
         self.closeWindow()
 
     def stack(self, event, source_object=None):
