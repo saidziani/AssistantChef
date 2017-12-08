@@ -24,7 +24,6 @@ class Search():
             pos_tagger = StanfordPOSTagger(model, jar, encoding='utf8' )
             tokenizedText = nltk.word_tokenize(text.lower())
             taggedText = pos_tagger.tag(tokenizedText)
-
         return taggedText
         
 
@@ -204,7 +203,7 @@ class Search():
     #lang=1 french / lang=2 arabe
     def getResult(self, queryKeywords, lang, checked):
         lang = self.lang
-        corpusKeyWords = open('corpusFr/frInverse.txt', 'r') if lang == 1 else  open('corpus/arKeyWords.txt', 'r')
+        corpusKeyWords = open('corpusFr/frInverse.txt', 'r') if lang == 1 else  open('corpusAr/arKeyWords.txt', 'r')
         content = corpusKeyWords.readlines()
         content = [w[:-1] for w in content]
         idRecipes = {}
