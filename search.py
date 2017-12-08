@@ -26,7 +26,7 @@ class Search():
             taggedText = pos_tagger.tag(tokenizedText)
 
         return taggedText
-
+        
 
     def getStemmedText(self, text):
         stemmedText = []
@@ -98,7 +98,6 @@ class Search():
 
     # transform a recipe on XML format to a keywords list
     def getKeyWords(self, text):
-
         deniedList = set(self.getDeniedWords())
         keywords = []
         if self.lang == 1:
@@ -118,34 +117,9 @@ class Search():
                 stemmedNTLine = set(self.getStemmedText(ntline))
                 cleanText = stemmedNTLine - deniedList
                 keywords.extend(list(cleanText))
-
                 # cleanText = [stemmer.stem(word) for word in ntline if stemmer.stem(word) not in deniedList and word.isalpha()]
                 # keywords.extend(cleanText)
         return set(keywords)
-
-
-    # search recipe by diffrent mode
-    def getRecipe(self, mode):
-        #mode=[1 => all the recipe, 2 => title, 3 => category, 4 => ingredient]
-        soup = self.getCorpusSoup()
-        if mode == 1:
-            output = []
-            for div in soup.find_all("rec"):
-                output.append(div.text)
-            return output
-
-        elif mode == 2:
-            balise = "title"
-        elif mode == 3:
-            balise = "cat"
-        else:
-            balise = "ing"
-
-        output = []
-        for div in soup.find_all("rec"):
-            for d in div.find_all(balise):
-                output.append(d.text)
-        return output
 
 
     # search a recipe by ID
@@ -154,30 +128,6 @@ class Search():
         recipe = [ balise.text for balise in soup.find_all("rec", attrs={"id" : idRecipe}) ]
         return recipe
 
-    # search a recipe by ID specific data
-    def idSearchData(self, idRecipe, mode):
-        #mode=[1 => title, 2 => category, 3 => ingredient]
-        soup = self.getCorpusSoup()
-        if mode == 1:
-            balise = "title"
-        elif mode == 2:
-            balise = "cat"
-        elif mode == 3:
-            balise = "ing"
-        elif mode == 4:
-            balise = "prep"
-        elif mode == 5:
-            balise = "eng"
-        else:
-            balise = "inf"
-
-        data = []
-
-        for div in soup.find_all("rec", attrs={"id" : str(idRecipe)}):
-            for d in div.find_all(balise):
-                data.append(d.text)
-        return data
-
     # get recipe ID
     def findById(self, rec):
         soup = BeautifulSoup(rec)
@@ -185,31 +135,13 @@ class Search():
         return idRecipe
 
 
-    # check if a recipe is healthy (callories <= 300)
-    def isHealthy(self, idRecipe):
-        soup = self.getCorpusSoup()
-        for balise in soup.find_all("rec", attrs={"id" : idRecipe}):
-            for eng in balise.find_all("eng"):
-                return eng.text
-
-
-    def isVegetarian(self, idRecipe):
-        meat = ['viande', 'poisson', 'poulet','poivron', 'dinde']
-        recipe = self.idSearch(idRecipe)
-        keywords = self.getKeyWords(recipe)
-        cpt = self.existNb(meat, keywords)
-        if cpt == 0:
-            print(keywords)
-
-
     def existNb(self, keywords, recipeKeyWords):
         return len(set(set(keywords)).intersection(set(recipeKeyWords)))
 
-    def compare(self, keywords, recipeKeyWords):
 
+    def compare(self, keywords, recipeKeyWords):
         nbWords = self.existNb(keywords, recipeKeyWords)
         lenRecipeKeyWords = len(set(recipeKeyWords))
-
         prop = round(float((nbWords / lenRecipeKeyWords) * 100), 2)
         if prop == 0:
             return -2, prop 
@@ -239,7 +171,6 @@ class Search():
             noGlutin = [''] #à compélter
             noArachides = [''] #à compélter
             noLait = [''] #à compélter
-
         nonDesirable = []
         if 1 in choice: 
             nonDesirable.extend(notBio)
@@ -255,52 +186,11 @@ class Search():
             nonDesirable.extend(noArachides)
         if 7 in choice:
             nonDesirable.extend(noLait)
-        
         return self.getStemmedText(nonDesirable)
 
 
-    #lang=1 french / lang=2 arabe
-    def getResult(self, queryKeywords, lang, checked):
-
-        import re
-        from operator import itemgetter
-        lang = self.lang
-        corpusKeyWords = open('corpus/frKeyWords.txt', 'r') if lang == 1 else  open('corpus/arKeyWords.txt', 'r')
-        idRecipes = {}
-        recipesTocheck = {}
-        for line in corpusKeyWords.readlines():
-            splitedLine = line.split(',')
-            idRecipe = splitedLine[0]
-            recipeKeywords = splitedLine[1:len(splitedLine)-1]
-            last = re.sub('\n', '', splitedLine[len(splitedLine)-1])
-            recipeKeywords.append(last)
-            decision, prop = self.compare(list(queryKeywords), recipeKeywords)
-            # print(decision, prop)
-            if prop != 0 :
-                idRecipes[idRecipe] = prop
-                recipesTocheck[idRecipe] = (recipeKeywords, prop)
-        sortedIdRecipes = sorted(idRecipes.items(), key=itemgetter(1), reverse=True)
-
-        deniedList = self.getNonDesirable(checked)
-        checkedRecipes = {}
-        for recipeKey in recipesTocheck.keys():
-            recipe = recipesTocheck.get(recipeKey)
-            exist, i = False, 0
-            while i < len(deniedList) and not exist:
-                if  deniedList[i] in recipe[0]:
-                    exist = True
-                i += 1
-            if not exist:
-                checkedRecipes[recipeKey] =  recipe[1]
-
-        sortedCheckedRecipes = sorted(checkedRecipes.items(), key=lambda x: x[1], reverse=True)
-
-        return sortedIdRecipes, sortedCheckedRecipes
-
-
-
     def getBySet(self):
-        frInverse = open('corpus/frInverse.txt', 'r')
+        frInverse = open('corpusFr/frInverse.txt', 'r')
         queryKeywords = ['croustill', 'beignet']
         for Qkeyword in queryKeywords: 
             for line in frInverse.readlines():
@@ -311,18 +201,86 @@ class Search():
             print(Qkeyword)
 
 
+    #lang=1 french / lang=2 arabe
+    def getResult(self, queryKeywords, lang, checked):
+        lang = self.lang
+        corpusKeyWords = open('corpusFr/frInverse.txt', 'r') if lang == 1 else  open('corpus/arKeyWords.txt', 'r')
+        content = corpusKeyWords.readlines()
+        content = [w[:-1] for w in content]
+        idRecipes = {}
+        recipesList = []
+        for line in content:
+            lineContent = line.split(',')
+            keyWord = lineContent[0]
+            if keyWord in queryKeywords:
+                recipesList.append(lineContent[1:len(lineContent)])
+        idRecipes = set(recipesList[0])
+        for wordList in recipesList:
+            idRecipes.intersection(set(wordList))
+        return idRecipes
 
-if __name__ == "__main__":
-    search = Search(['france'], 'corpus/frCorpus.txt')
-    search.getBySet()
-    # text = search.getRecipe(1)
-    # recipeKeyWords = search.getKeyWords(text)
-    # print(recipeKeyWords)
-    # recipe = search.idSearch(52)
-    # print(recipe)
 
-    # print(search.isVegetarian(52))
-    # search.getTagged()
-    # print(search.idSearch(52))
+    # transform my XML page to Beautifull soup object
+    def getCorpusSoupById(self, idRecipe):
+        if idRecipe >= 1 and idRecipe < 1000 :
+            corpus = 'corpusFr/frCorpus1.txt'
+        elif idRecipe >= 1000 and idRecipe < 2000 :
+            corpus = 'corpusFr/frCorpus2.txt'
+        elif idRecipe >= 2000 and idRecipe < 3000 :
+            corpus = 'corpusFr/frCorpus3.txt'
+        elif idRecipe >= 3000 and idRecipe < 4000 :
+            corpus = 'corpusFr/frCorpus4.txt'
+        elif idRecipe >= 4000 and idRecipe < 5000 :
+            corpus = 'corpusFr/frCorpus5.txt'
+        elif idRecipe >= 5000 and idRecipe < 6000 :
+            corpus = 'corpusFr/frCorpus6.txt'
+        elif idRecipe >= 6000 and idRecipe < 7000 :
+            corpus = 'corpusFr/frCorpus7.txt'
+        elif idRecipe >= 7000 and idRecipe < 8000 :
+            corpus = 'corpusFr/frCorpus8.txt'
+        elif idRecipe >= 8000 and idRecipe < 9000 :
+            corpus = 'corpusFr/frCorpus78.txt'
+        elif idRecipe >= 9000 and idRecipe < 10000 :
+            corpus = 'corpusFr/frCorpus9.txt'
+        elif idRecipe >= 10000 and idRecipe < 11000 :
+            corpus = 'corpusFr/frCorpus10.txt'
+        elif idRecipe >= 11000 and idRecipe < 12000 :
+            corpus = 'corpusFr/frCorpus11.txt'
+        elif idRecipe >= 12000 and idRecipe < 13000 :
+            corpus = 'corpusFr/frCorpus12.txt'
+        elif idRecipe >= 13000 and idRecipe < 14000 :
+            corpus = 'corpusFr/frCorpus13.txt'
+        elif idRecipe >= 14000 and idRecipe < 15000 :
+            corpus = 'corpusFr/frCorpus14.txt'
+        elif idRecipe >= 15000 and idRecipe < 16000 :
+            corpus = 'corpusFr/frCorpus15.txt'
+        elif idRecipe >= 16000 and idRecipe < 17000 :
+            corpus = 'corpusFr/frCorpus16.txt'
+        elif idRecipe >= 17000 and idRecipe < 18000 :
+            corpus = 'corpusFr/frCorpus17.txt'
+        else:
+            corpus = 'corpusFr/frCorpus18.txt'
+        file = open(corpus, 'r')
+        content = file.read()
+        return BeautifulSoup(content,"lxml")
 
+
+    # search a recipe by ID specific data
+    def idSearchRecipeData(self, idRecipe):
+        soup = self.getCorpusSoupById(int(idRecipe))
+        title, cat, ing, prep, eng, inf = [], [], [], [], [], []
+        for div in soup.find_all("rec", attrs={"id" : str(idRecipe)}):
+            for d in div.find_all('title'):
+                title.append(d.text)
+            for d in div.find_all('cat'):
+                cat.append(d.text)
+            for d in div.find_all('ing'):
+                ing.append(d.text)
+            for d in div.find_all('prep'):
+                prep.append(d.text)
+            for d in div.find_all('eng'):
+                eng.append(d.text)
+            for d in div.find_all('inf'):
+                inf.append(d.text)
+        return title, cat, ing, prep, eng, inf
 
