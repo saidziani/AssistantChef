@@ -138,14 +138,18 @@ class SearchSpaceFr(object):
         if self.checkBox_7.isChecked():
             checked.append(7)
 
-        searchObj = search.Search([], 'corpus/frCorpus.txt', 1)
+        searchObj = search.Search([], 'corpusFr/frCorpus.txt', 1)
         query = self.lineEdit.text()
         queryToken = searchObj.text2list(query)
+        print(queryToken)
 
         queryKeyWords = searchObj.getKeyWords(queryToken)
-        checked, result  = searchObj.getResult(queryKeyWords , 1, checked)
+        print(queryKeyWords)
 
-        self.sendData(result)
+        result  = searchObj.getResult(queryKeyWords , 1, checked)
+        
+        data2send = list(result)[:5]
+        self.sendData(data2send)
 
     def sendData(self,  data):
         self.window = QtWidgets.QMainWindow()

@@ -107,6 +107,12 @@ class SelectSpaceFr(object):
 
         self.pushButton.clicked.connect(self.recherche)
 
+        self.labelLoad = QtWidgets.QLabel(Form)
+        self.labelLoad.setGeometry(QtCore.QRect(290, 450, 200, 30))
+        self.labelLoad.setObjectName("labelLoad")
+        self.labelLoad.setText('Recherche en cours...')
+        self.labelLoad.setStyleSheet('color:#bdbdbd;font-size:16px;font-weight:900')
+        self.labelLoad.setVisible(False)
 
         self.retranslateUi(Form)
         QtCore.QMetaObject.connectSlotsByName(Form)
@@ -156,10 +162,11 @@ class SelectSpaceFr(object):
 
     def getKeyWords(self, ingList):
         ingredient.extend(ingList)
-        print(ingredient)
 
 
     def recherche(self):
+        self.labelLoad.setVisible(True)
+
         checked = []
         if self.checkBox_1.isChecked():
             checked.append(1)
@@ -176,16 +183,19 @@ class SelectSpaceFr(object):
         if self.checkBox_7.isChecked():
             checked.append(7)
 
-        searchObj = search.Search([], 'corpus/frCorpus.txt', 1)
+        searchObj = search.Search([], 'corpusFr/frCorpus.txt', 1)
 
         queryToken = ingredient
         print(queryToken)
 
         queryKeyWords = searchObj.getKeyWords(queryToken)
         print(queryKeyWords)
-        checked, result  = searchObj.getResult(queryKeyWords , 1, checked)
+        result = searchObj.getResult(queryKeyWords, 1, checked)
 
-        self.sendData(result)
+        data2send = list(result)[:5]
+        self.sendData(data2send)
+        self.labelLoad.setVisible(False)
+        
 
     def sendData(self,  data):
         self.window = QtWidgets.QMainWindow()

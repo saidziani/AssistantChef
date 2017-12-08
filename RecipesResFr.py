@@ -40,6 +40,7 @@ class RecipesResFr(object):
         self.label_3.setStyleSheet("font-size:15px;color:#bdbdbd")
 
         sizeRecipes = len(data)
+        print(data)
         data = data[:5]
         nbRecipes = len(data)
         self.label_3.setText(str(sizeRecipes)+' résultats de recherche')
@@ -51,14 +52,14 @@ class RecipesResFr(object):
 
 
         for (info, labelCat, label) in zip(data, labels4Cat, labels):
-            idRecipe = info[0]
+            idRecipe = info
             title, cat, ing, prep, eng, inf  = self.getRecipeTitle(idRecipe)
             title = ', '.join(title)
 
             tmpRecipe = [title, cat, ing, prep, eng, inf]
             recipes[idRecipe] = tmpRecipe
 
-            name = label[5:]
+            # name = label[5:]
             label = QtWidgets.QLabel(Form)
             label.setGeometry(QtCore.QRect(150, h, 500, 25))
             label.setObjectName(idRecipe)
@@ -90,19 +91,12 @@ class RecipesResFr(object):
 
 
     def retour(self, event):
-        print('BACK')
         self.closeWindow()
 
     def getRecipeTitle(self, idRecipe):
-        searchObj = search.Search([], 'corpus/frCorpus.txt', 1)
-
-        title = searchObj.idSearchData(idRecipe, 1)
-        cat = searchObj.idSearchData(idRecipe, 2)
-        ing = searchObj.idSearchData(idRecipe, 3)
-        prep = searchObj.idSearchData(idRecipe, 4)
-        eng = searchObj.idSearchData(idRecipe, 5)
-        inf = searchObj.idSearchData(idRecipe, 6)
-
+        searchObj = search.Search([], 'corpusFr/frCorpus.txt', 1)
+        title, cat, ing, prep, eng, inf = searchObj.idSearchRecipeData(idRecipe)
+        print("From getRecipe:", title)
         return title, cat, ing, prep, eng, inf
 
 
