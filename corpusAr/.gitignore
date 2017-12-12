@@ -1,0 +1,4 @@
+stanford-pos-tagger/
+corpusAr/arCorpusBiss.txt
+corpusAr/arKeyWordsStemmedTest.txt
+corpusAr/search.py
