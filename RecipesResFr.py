@@ -5,7 +5,7 @@ import functools
 recipes = {}
 
 class RecipesResFr(object):
-    def setupUi(self, Form, data):
+    def setupUi(self, Form, data, checked, queryWords):
         Form.setObjectName("Form")
         Form.setFixedSize(800, 500)
         Form.setGeometry(300, 150, 800, 500)
@@ -41,45 +41,56 @@ class RecipesResFr(object):
 
         sizeRecipes = len(data)
         print(data)
-        data = data[:5]
+        newData = []
+        for rec in data:
+            if rec:
+                newData.append(rec)
+        print(newData)
         nbRecipes = len(data)
         self.label_3.setText(str(sizeRecipes)+' résultats de recherche')
         labels = ['self.label_'+str(i) for i in range(4, nbRecipes+4)]
         labels4Cat = ['self.label_'+str(i+nbRecipes) for i in range(4, nbRecipes+4)]
-        # pertinence   = ['self.label_'+str(i+nbRecipes) for i in range(4, nbRecipes+4)]
 
         h = 110
 
-
-        for (info, labelCat, label) in zip(data, labels4Cat, labels):
+        i = 0
+        for (info, labelCat, label) in zip(newData, labels4Cat, labels):
             idRecipe = info
-            title, cat, ing, prep, eng, inf  = self.getRecipeTitle(idRecipe)
+            title, cat, ing, prep, eng, inf  = self.getRecipeTitle(idRecipe, checked)
             title = ', '.join(title)
+            if title:
+                tmpRecipe = [title, cat, ing, prep, eng, inf]
+                recipes[idRecipe] = tmpRecipe
 
-            tmpRecipe = [title, cat, ing, prep, eng, inf]
-            recipes[idRecipe] = tmpRecipe
+                label = QtWidgets.QLabel(Form)
+                label.setGeometry(QtCore.QRect(150, h, 500, 25))
+                label.setObjectName(idRecipe)
+                label.setText(title)
+                label.setStyleSheet("font-size:19px;color:#424242;font-weight:500")
+                label.mousePressEvent = self.sendData
+                label.mousePressEvent = functools.partial(self.sendData, source_object=label)
 
-            # name = label[5:]
-            label = QtWidgets.QLabel(Form)
-            label.setGeometry(QtCore.QRect(150, h, 500, 25))
-            label.setObjectName(idRecipe)
-            label.setText(title)
-            label.setStyleSheet("font-size:19px;color:#424242;font-weight:500")
-            label.mousePressEvent = self.sendData
-            label.mousePressEvent = functools.partial(self.sendData, source_object=label)
+                cat = ' | '.join(cat)
+                nameL = labelCat[5:]
+                labelL = QtWidgets.QLabel(Form)
+                labelL.setGeometry(QtCore.QRect(150, h+25, 500, 20))
+                labelL.setObjectName(nameL)
+                labelL.setText(cat)
+                labelL.setStyleSheet("font-size:14px;color:#7d7d7d;font-weight:200")
 
+                h += 65
+                i += 1
+            if i == 5:
+                break
 
-            cat = ' | '.join(cat)
-            nameL = labelCat[5:]
-            labelL = QtWidgets.QLabel(Form)
-            labelL.setGeometry(QtCore.QRect(150, h+25, 500, 20))
-            labelL.setObjectName(nameL)
-            labelL.setText(cat)
-            labelL.setStyleSheet("font-size:14px;color:#7d7d7d;font-weight:200")
+        self.keywords = queryWords
+        self.labelRechNoline = QtWidgets.QLabel(Form)
+        self.labelRechNoline.setGeometry(QtCore.QRect(150, 450, 500, 30))
+        self.labelRechNoline.setObjectName("labelRechNoline")
+        self.labelRechNoline.setStyleSheet("font-size:14px;color:#bdbdbd")
+        self.labelRechNoline.setText("Recherche infructueuse ? faites une recherhce en ligne.")
+        self.labelRechNoline.mousePressEvent = functools.partial(self.doOnlineSearche)
 
-            h += 65
-
-    
         self.retranslateUi(Form)
         QtCore.QMetaObject.connectSlotsByName(Form)
 
@@ -93,11 +104,21 @@ class RecipesResFr(object):
     def retour(self, event):
         self.closeWindow()
 
-    def getRecipeTitle(self, idRecipe):
+    def getRecipeTitle(self, idRecipe, checked):
         searchObj = search.Search([], 'corpusFr/frCorpus.txt', 1)
-        title, cat, ing, prep, eng, inf = searchObj.idSearchRecipeData(idRecipe)
+        title, cat, ing, prep, eng, inf = searchObj.idSearchRecipeData(idRecipe, checked)
         print("From getRecipe:", title)
         return title, cat, ing, prep, eng, inf
+
+
+    def doOnlineSearche(self, event):
+        queryKeyWords = '-'.join(self.keywords)
+        import webbrowser 
+        new = 2
+        url = "http://www.marmiton.org/recettes/recherche.aspx?type=all&aqt="+queryKeyWords
+        webbrowser.get(using='chromium-browser').open(url,new=new)
+        searchObj = search.Search([], 'corpusFr/frCorpus.txt', 1)
+        searchObj.updateCorpus(url)
 
 
     def sendData(self, event, source_object=None):
