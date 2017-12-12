@@ -24,6 +24,7 @@ class Search():
             pos_tagger = StanfordPOSTagger(model, jar, encoding='utf8' )
             tokenizedText = nltk.word_tokenize(text.lower())
             taggedText = pos_tagger.tag(tokenizedText)
+            print(taggedText)
         return taggedText
         
 
@@ -40,7 +41,6 @@ class Search():
                     stem = ArListem.light_stem(word)
                     root = ArListem.get_root()
                     stemmedText.append(root)
-        
         return stemmedText
 
 
@@ -75,7 +75,7 @@ class Search():
         if self.lang == 1:
             colors =  ['blanc', 'noir', 'rouge', 'jaune'] # à compléter
             otherWord = ['tous', 'les', 'ingrédients', 'moitiés', 'trait', 'frais', 'ensemble', 'petits', 'grand', 'préparation', 'préparations', 'poisson', 'légumes', 'fruits', 'épices', 'service', 'plat']
-            haram = ['vin', 'porc', 'liqueur', 'cochenille', 'mulet']#à compléter
+            haram = ['vin', 'porc', 'liqueur', 'cochenille', 'mulet', 'jambon', 'alcool', 'bière', 'rhum', 'vodka', 'whisky', 'tequila', 'Gin', 'cognac', 'pastis', 'lardon', 'champagne']#à compléter
             from nltk.corpus import stopwords
             stopWords = stopwords.words('french')
             deniedList.extend(colors)
@@ -85,12 +85,10 @@ class Search():
         else:
             colors =  [] # à compléter
             otherWord = []
-            haram = []#à compléter
             from stop_words import get_stop_words
             stopWords = get_stop_words('arabic')
             deniedList.extend(colors)
             deniedList.extend(otherWord)
-            deniedList.extend(haram)
             deniedList.extend(stopWords)
         
         return self.getStemmedText(deniedList)
@@ -155,21 +153,25 @@ class Search():
     # non desirable ingredient
     def getNonDesirable(self, choice):
         if self.lang == 1:
-            notBio = ['acide'] #à compélter
-            notVegan = ['viandes', 'poisson', 'poulet'] #à compélter
-            diab = ['sucres', 'miel'] #à compélter
-            noCrustace = [''] #à compélter
-            noGlutin = [''] #à compélter
-            noArachides = [''] #à compélter
-            noLait = [''] #à compélter
+            # notBio = ['acide'] #à compélter
+            notVegan = ['viandes', 'poisson', 'poulet', 'escalope', 'canard', 'chèvre', 'œuf', 'graisse'] #à compélter
+            diab = ['sucres', 'miel', 'tarte', 'pâtisserie'] #à compélter
+            noCrustace = ['homard', 'langoustes', 'tourteaux', 'crabes', 'araignée', 'écrevisse', 'étrille' 'crevettes','fruits de mer', 'moules', 'huîtres', 'oursin', 'saumon'] #à compélter
+            noGlutin = ['blé', 'seigle','orge','avoine', 'blé','épeautre','engrain', 'farine', 'semoule', 'boulgour', 'amidon', 'muesli', 'pâtes'] #à compélter
+            noArachides = ['arachide', 'arachin', 'cacahuète', 'conarachin', 'mandelonas', 'noix'] #à compélter
+            noLait = ['lait', 'fromage', 'beurre', 'yaourts', 'kéfir', 'viili', 'bifidus', 'caséine', 'babeurre', 'crème'] #à compélter
+            haram = ['vin', 'porc', 'liqueur', 'cochenille', 'mulet', 'jambon', 'alcool', 'bière', 'rhum', 'vodka', 'whisky', 'tequila', 'Gin', 'cognac', 'pastis', 'lardon', 'champagne']#à compléter
+
         else:
             notBio = ['acide'] #à compélter
-            notVegan = ['viandes', 'poisson', 'poulet'] #à compélter
+            notVegan = ['viandes', 'poisson', 'poulet']#à compélter
             diab = ['sucres', 'miel'] #à compélter
             noCrustace = [''] #à compélter
             noGlutin = [''] #à compélter
             noArachides = [''] #à compélter
             noLait = [''] #à compélter
+            haram = ['vin', 'porc', 'liqueur', 'cochenille', 'mulet']#à compléter
+
         nonDesirable = []
         if 1 in choice: 
             nonDesirable.extend(notBio)
@@ -185,6 +187,7 @@ class Search():
             nonDesirable.extend(noArachides)
         if 7 in choice:
             nonDesirable.extend(noLait)
+        nonDesirable.extend(haram)
         return self.getStemmedText(nonDesirable)
 
 
@@ -201,7 +204,7 @@ class Search():
 
 
     #lang=1 french / lang=2 arabe
-    def getResult(self, queryKeywords, lang, checked):
+    def getResult(self, queryKeywords, lang):
         lang = self.lang
         corpusKeyWords = open('corpusFr/frInverse.txt', 'r') if lang == 1 else  open('corpusAr/arKeyWords.txt', 'r')
         content = corpusKeyWords.readlines()
@@ -257,29 +260,120 @@ class Search():
             corpus = 'corpusFr/frCorpus16.txt'
         elif idRecipe >= 17000 and idRecipe < 18000 :
             corpus = 'corpusFr/frCorpus17.txt'
-        else:
+        elif idRecipe >= 18000 and idRecipe < 18440 :
             corpus = 'corpusFr/frCorpus18.txt'
+        else:
+            corpus = 'corpusFr/newCorpus.txt'
         file = open(corpus, 'r')
         content = file.read()
         return BeautifulSoup(content,"lxml")
 
 
     # search a recipe by ID specific data
-    def idSearchRecipeData(self, idRecipe):
+    def idSearchRecipeData(self, idRecipe, checked):
         soup = self.getCorpusSoupById(int(idRecipe))
         title, cat, ing, prep, eng, inf = [], [], [], [], [], []
+        deniedList = self.getNonDesirable(checked)
         for div in soup.find_all("rec", attrs={"id" : str(idRecipe)}):
-            for d in div.find_all('title'):
-                title.append(d.text)
-            for d in div.find_all('cat'):
-                cat.append(d.text)
-            for d in div.find_all('ing'):
-                ing.append(d.text)
-            for d in div.find_all('prep'):
-                prep.append(d.text)
-            for d in div.find_all('eng'):
-                eng.append(d.text)
-            for d in div.find_all('inf'):
-                inf.append(d.text)
+
+            check = False
+            i = 0
+            while not check and i < len(deniedList) :
+                if deniedList[i] in div.text:
+                    check = True
+                i += 1
+
+            if not check:
+                for d in div.find_all('title'):
+                    title.append(d.text)
+                for d in div.find_all('cat'):
+                    cat.append(d.text)
+                for d in div.find_all('ing'):
+                    ing.append(d.text)
+                for d in div.find_all('prep'):
+                    prep.append(d.text)
+                for d in div.find_all('eng'):
+                    eng.append(d.text)
+                for d in div.find_all('inf'):
+                    inf.append(d.text)
         return title, cat, ing, prep, eng, inf
 
+
+    def updateCorpus(self, url):
+
+        from urllib.request import urlopen
+        from urllib.parse import quote
+        import re
+        from string import punctuation
+
+        page = urlopen(url).read().decode('utf-8')
+        soup = BeautifulSoup(page,'html.parser')
+
+        lastIdToSave = open('corpusFr/lastIdToSave.txt', 'r')
+        lastID = lastIdToSave.read()
+        lastIdToSave.close()
+
+        newCorpus = open('corpusFr/newCorpus.txt', 'a')
+
+        urls, i = [], int(lastID)+1
+        for a in soup.find_all('a', attrs={"class", "recipe-card"}):
+            urls.append(str('http://www.marmiton.org'+a['href']))
+        print(urls)
+        for url in urls[:5]:
+            page = urlopen(url).read().decode('utf-8')
+            soup = BeautifulSoup(page,'html.parser')
+
+            titles = [ title.text for title in soup.find_all("h1", attrs={"class" : "main-title"}) ]
+
+            ingredients = [ qt.text+ing.text for (qt,ing) in zip(soup.find_all("span", attrs={"class" : "recipe-ingredient-qt"}), soup.find_all("span", attrs={"class" : "ingredient"})) ]
+
+            preparations = [ prep.text.split('\t\t\t')[1].split('.')[0] for prep in soup.find_all("li", attrs={"class" : "recipe-preparation__list__item"}) ]
+            preparations = re.sub('\t', ' ', '. '.join(preparations))
+
+            timePrep = ""
+            for divpTime in soup.find_all("div", attrs={"class" : "recipe-infos__timmings__preparation"}):
+                for pTime in divpTime.find_all("span", attrs={"class" : "recipe-infos__timmings__value"}):
+                    timePrep = pTime.text.strip() 
+
+            cookPrep = ""
+            for divpTime in soup.find_all("div", attrs={"class" : "recipe-infos__timmings__cooking"}):
+                for pTime in divpTime.find_all("span", attrs={"class" : "recipe-infos__timmings__value"}):
+                    cookPrep = pTime.text.strip()
+
+            info = "<inf>Auteur : www.marmiton.org \nNiveau : \nPréparation : "+timePrep+" \nCuisson :"+cookPrep+"</inf>"
+
+            categories = []
+            for tagsCat in soup.find_all("ul", attrs={"class" : "mrtn-tags-list"}):
+                for tag in tagsCat.find_all("li", attrs={"class" : "mrtn-tag"}):
+                    categories.append(tag.text)
+
+            #Remove punctuation
+            titles = ['<title>'+''.join(c for c in s if c not in punctuation)+'</title>' for s in titles]
+            categories = ['<cat>'+''.join(c for c in s if c not in punctuation)+'</cat>' for s in categories]
+            ingredients = ['<ing>'+''.join(c for c in s if c not in punctuation)+'</ing>' for s in ingredients]
+            preparations = '<prep>'+preparations+'</prep>'
+            calories = '<eng>0</eng>'
+
+            #Convert to String
+            strTitles = "\n".join(titles)
+            strTitles = " ".join(strTitles.split())
+            strCategories = "\n".join(categories)
+            strCategories = " ".join(strCategories.split())
+            strIngredients = "\n".join(ingredients)
+
+            #String to write in my Corpus
+            toWrite = '<rec id='+str(i)+'>\n'+strTitles+'\n'+info+'\n'+strCategories+'\n'+strIngredients+'\n'+preparations+'\n'+calories+'\n</rec>\n'
+            newCorpus.write(toWrite)
+
+            i += 1
+        lastIdToSave = open('corpusFr/lastIdToSave.txt', 'w')
+        lastIdToSave.write(str(i-1))
+        lastIdToSave.close()
+
+if __name__ == "__main__":
+    searchObj = Search([], 'corpus/arCorpus.txt', 2)
+    words = ['ﺔﻧﻭﺮﻜﻌﻤﻟا' ,'ﺎﺑﺎﻄﺒﻟا' ,'ﻞﺼﺒﻟا' ,'ﻞﻔﻠﻔﻟا']
+    stemmed = searchObj.getStemmedText(words)
+    query = ["ﻖﺘﺴﻔﻟاﻭ" ,"ﺓﺕﻻﻮﻛﻮﺷﻝا" ,"ﻉﺏﺎﺻا"]
+    keyWords = searchObj.getKeyWords(query)
+    print(keyWords)
