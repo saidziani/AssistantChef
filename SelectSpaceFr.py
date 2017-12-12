@@ -1,7 +1,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import functools
 import search, RecipesResFr
-import FruitSpaceFr, VegetableSpaceFr, SpiceSpaceFr
+import FruitSpaceFr, VegetableSpaceFr, SpiceSpaceFr, meatSpaceFr
 
 ingredient = []
 class SelectSpaceFr(object):
@@ -155,7 +155,7 @@ class SelectSpaceFr(object):
         elif source_object.objectName() == "epices":
             self.ui = SpiceSpaceFr.SpiceSpaceFr(self)
         else:
-            print('Hiiii')
+            self.ui = meatSpaceFr.meatSpaceFr(self)
 
         self.ui.setupUi(self.window)
         self.window.show()
@@ -190,17 +190,17 @@ class SelectSpaceFr(object):
 
         queryKeyWords = searchObj.getKeyWords(queryToken)
         print(queryKeyWords)
-        result = searchObj.getResult(queryKeyWords, 1, checked)
+        result = searchObj.getResult(queryKeyWords, 1)
 
-        data2send = list(result)[:5]
-        self.sendData(data2send)
+        data2send = list(result)
+        self.sendData(data2send, checked, queryKeyWords)
         self.labelLoad.setVisible(False)
         
 
-    def sendData(self,  data):
+    def sendData(self, data, checked, keywords):
         self.window = QtWidgets.QMainWindow()
         self.ui = RecipesResFr.RecipesResFr()
-        self.ui.setupUi(self.window, data)
+        self.ui.setupUi(self.window, data, checked, keywords)
         self.window.show()
         
 if __name__ == "__main__":

@@ -147,14 +147,14 @@ class SearchSpaceAr(object):
         queryToken = searchObj.text2list(query)
 
         queryKeyWords = searchObj.getKeyWords(queryToken)
-        checked, result  = searchObj.getResult(queryKeyWords , 2, checked)
+        checked, result  = searchObj.getResult(queryKeyWords , 2)
 
-        self.sendData(result)
+        self.sendData(result, checked)
 
-    def sendData(self,  data):
+    def sendData(self,  data, checked):
         self.window = QtWidgets.QMainWindow()
         self.ui = RecipesResAr.RecipesResAr()
-        self.ui.setupUi(self.window, data)
+        self.ui.setupUi(self.window, data, checked)
         self.window.show()            
 
 if __name__ == "__main__":

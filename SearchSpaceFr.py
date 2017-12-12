@@ -142,19 +142,19 @@ class SearchSpaceFr(object):
         query = self.lineEdit.text()
         queryToken = searchObj.text2list(query)
         print(queryToken)
-
+        
         queryKeyWords = searchObj.getKeyWords(queryToken)
         print(queryKeyWords)
 
-        result  = searchObj.getResult(queryKeyWords , 1, checked)
+        result  = searchObj.getResult(queryKeyWords , 1)
         
         data2send = list(result)[:5]
-        self.sendData(data2send)
+        self.sendData(data2send, checked)
 
-    def sendData(self,  data):
+    def sendData(self, data, checked):
         self.window = QtWidgets.QMainWindow()
         self.ui = RecipesResFr.RecipesResFr()
-        self.ui.setupUi(self.window, data)
+        self.ui.setupUi(self.window, data, checked)
         self.window.show()
         
 

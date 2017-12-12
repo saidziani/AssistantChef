@@ -1,7 +1,7 @@
 from PyQt5 import QtCore, QtGui, QtWidgets
 import functools
 import search, RecipesResAr
-import FruitSpaceAr, VegetableSpaceAr, SpiceSpaceAr
+import FruitSpaceAr, VegetableSpaceAr, SpiceSpaceAr, meatSpaceAr
 
 ingredient = []
 class SelectSpaceAr(object):
@@ -159,7 +159,7 @@ class SelectSpaceAr(object):
         elif source_object.objectName() == "epices":
             self.ui = SpiceSpaceAr.SpiceSpaceAr(self)
         else:
-            print('Hiiii')
+            self.ui = meatSpaceAr.meatSpaceAr(self)
 
         self.ui.setupUi(self.window)
         self.window.show()
