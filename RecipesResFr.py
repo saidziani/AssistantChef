@@ -58,11 +58,7 @@ class RecipesResFr(object):
                 newData.append(rec)
 
         self.newData = newData
-        # nbRecipes = len(data)
         self.label_3.setText(str(sizeRecipes)+' résultats de recherche')
-        # labels = ['self.label_'+str(i) for i in range(4, nbRecipes+4)]
-        # labels4Cat = ['self.label_'+str(i+nbRecipes) for i in range(4, nbRecipes+4)]
-
 
         global nonEmpty
         h = 110
@@ -73,6 +69,9 @@ class RecipesResFr(object):
             title = ', '.join(title)
             nonEmpty += 1
             if title:
+                tmpRecipe = [title, cat, ing, prep, eng, inf]
+                recipes[idRecipe] = tmpRecipe
+                
                 if i == 0:
                     self.label_4 = QtWidgets.QLabel(Form)
                     self.label_4.setGeometry(QtCore.QRect(150, h, 500, 25))
@@ -226,22 +225,27 @@ class RecipesResFr(object):
             nonEmpty += 1
             if title:
                 if i == 0:
+                    self.label_4.setStyleSheet("color:#424242;")
                     self.label_4.setText(title)
                     cat = ' | '.join(cat)
                     self.labelL_4.setText(cat)
                 if i == 1:
+                    self.label_5.setStyleSheet("color:#424242;")
                     self.label_5.setText(title)
                     cat = ' | '.join(cat)
                     self.labelL_5.setText(cat)
                 if i == 2:
+                    self.label_6.setStyleSheet("color:#424242;")
                     self.label_6.setText(title)
                     cat = ' | '.join(cat)
                     self.labelL_6.setText(cat)
                 if i == 3:
+                    self.label_7.setStyleSheet("color:#424242;")
                     self.label_7.setText(title)
                     cat = ' | '.join(cat)
                     self.labelL_7.setText(cat)
                 if i == 4:
+                    self.label_8.setStyleSheet("color:#424242;")
                     self.label_8.setText(title)
                     cat = ' | '.join(cat)
                     self.labelL_8.setText(cat)
