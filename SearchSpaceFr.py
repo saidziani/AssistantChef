@@ -117,7 +117,6 @@ class SearchSpaceFr(object):
         
 
     def retour(self, event):
-        print('BACK')
         self.closeWindow()
 
 
@@ -149,12 +148,12 @@ class SearchSpaceFr(object):
         result  = searchObj.getResult(queryKeyWords , 1)
         
         data2send = list(result)[:5]
-        self.sendData(data2send, checked)
+        self.sendData(data2send, checked, queryToken)
 
-    def sendData(self, data, checked):
+    def sendData(self, data, checked, queryToken):
         self.window = QtWidgets.QMainWindow()
         self.ui = RecipesResFr.RecipesResFr()
-        self.ui.setupUi(self.window, data, checked)
+        self.ui.setupUi(self.window, data, checked, queryToken)
         self.window.show()
         
 
