@@ -78,23 +78,19 @@ class Ui_Form(object):
 
 
     def openFr(self, event):
-        print('FRENCH')
         self.window = QtWidgets.QMainWindow()
         self.ui = FrenchApp.FrenchApp()
         self.ui.setupUi(self.window)
         self.window.show()
-        # self.hideWindow()
 
 
     def openAr(self, event):
-        print('ARABE')
         self.window = QtWidgets.QWidget()
         self.ui = ArabicApp.ArabicApp()
         self.ui.setupUi(self.window)
         self.window.show()
 
     def retour(self, event):
-        print('BACK')
         Form.close()
 
 
