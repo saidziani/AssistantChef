@@ -34,40 +34,47 @@ class OneRecipeFr(object):
         self.label_3 = QtWidgets.QLabel(Form)
         self.label_3.setGeometry(QtCore.QRect(110, 70, 800, 30))
         self.label_3.setObjectName("label_3")
-        self.label_3.setStyleSheet("color:#2a8fe9;font-size:23px;font-family:lato;font-weight:500")
+        self.label_3.setStyleSheet("color:#2a8fe9;font-size:25px;font-family:lato;font-weight:500")
         self.label_3.setText(recipe[0])
+
+        self.labelCat = QtWidgets.QLabel(Form)
+        self.labelCat.setGeometry(QtCore.QRect(110, 100, 800, 15))
+        self.labelCat.setObjectName("labelCat")
+        self.labelCat.setStyleSheet("color:#424242;font-size:13px;font-family:lato;font-weight:400")
+        cat = ' | '.join(recipe[1])
+        self.labelCat.setText(cat)
 
         infos = recipe[5]
         inf = re.sub(r'(Niveau : |Préparation : |Cuisson :)', '', ' '.join(infos)).split('\n')
 
         level, prepTime, cookTime = inf[1], inf[2], inf[3]
         self.label_4 = QtWidgets.QLabel(Form)
-        self.label_4.setGeometry(QtCore.QRect(110, 100, 150, 30))
+        self.label_4.setGeometry(QtCore.QRect(110, 120, 150, 30))
         self.label_4.setObjectName("label_4")
         self.label_4.setStyleSheet("color:#bdbdbd;font-size:15px;font-family:lato;font-weight:500")
         self.label_4.setText('Niveau: '+level)
 
         self.label_5 = QtWidgets.QLabel(Form)
-        self.label_5.setGeometry(QtCore.QRect(260, 100, 150, 30))
+        self.label_5.setGeometry(QtCore.QRect(260, 120, 150, 30))
         self.label_5.setObjectName("label_5")
         self.label_5.setStyleSheet("color:#bdbdbd;font-size:15px;font-family:lato;font-weight:500")
         self.label_5.setText('Préparation: '+prepTime)
 
         self.label_6 = QtWidgets.QLabel(Form)
-        self.label_6.setGeometry(QtCore.QRect(450, 100, 150, 30))
+        self.label_6.setGeometry(QtCore.QRect(450, 120, 150, 30))
         self.label_6.setObjectName("label_6")
         self.label_6.setStyleSheet("color:#bdbdbd;font-size:15px;font-family:lato;font-weight:500")
         self.label_6.setText('Cuisson: '+cookTime)
 
 
         self.label_7 = QtWidgets.QLabel(Form)
-        self.label_7.setGeometry(QtCore.QRect(110, 145, 200, 20))
+        self.label_7.setGeometry(QtCore.QRect(110, 155, 200, 20))
         self.label_7.setObjectName("label_7")
         self.label_7.setStyleSheet("color:#424242;font-size:20px;font-family:lato;font-weight:700")
 
 
         self.label_9 = QtWidgets.QLabel(Form)
-        self.label_9.setGeometry(QtCore.QRect(110, 175, 800, 350))
+        self.label_9.setGeometry(QtCore.QRect(110, 180, 800, 350))
         self.label_9.setObjectName("label_9")
         self.label_9.setStyleSheet("color:#424242;font-size:18px;font-family:lato;font-weight:400")
         ing = ', '.join(recipe[2])
@@ -92,7 +99,7 @@ class OneRecipeFr(object):
         self.label_10.setWordWrap(True)
 
         self.label_11 = QtWidgets.QLabel(Form)
-        self.label_11.setGeometry(QtCore.QRect(620, 100, 150, 30))
+        self.label_11.setGeometry(QtCore.QRect(620, 120, 150, 30))
         self.label_11.setObjectName("label_11")
         self.label_11.setStyleSheet("color:red;font-size:15px;font-family:lato;font-weight:500")
         self.label_11.mousePressEvent = functools.partial(self.youtubeOpen, recipeTitle=recipe[0])
@@ -107,7 +114,7 @@ class OneRecipeFr(object):
         self.label_2.setText(_translate("Form", ""))
         self.label_7.setText(_translate("Form", "Ingrédients:"))
         self.label_8.setText(_translate("Form", "Préparation:"))
-        self.label_11.setText(_translate("Form", "Voir sur youtube"))
+        self.label_11.setText(_translate("Form", "Similaire sur youtube"))
 
 
     def youtubeOpen(self, event, recipeTitle):
