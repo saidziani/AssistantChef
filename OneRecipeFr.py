@@ -46,7 +46,7 @@ class OneRecipeFr(object):
 
         infos = recipe[5]
         inf = re.sub(r'(Niveau : |Préparation : |Cuisson :)', '', ' '.join(infos)).split('\n')
-
+        
         level, prepTime, cookTime = inf[1], inf[2], inf[3]
         self.label_4 = QtWidgets.QLabel(Form)
         self.label_4.setGeometry(QtCore.QRect(110, 120, 150, 30))
