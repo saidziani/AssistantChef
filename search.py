@@ -153,7 +153,7 @@ class Search():
     # non desirable ingredient
     def getNonDesirable(self, choice):
         if self.lang == 1:
-            # notBio = ['acide'] #à compélter
+            notBio = ['acide'] #à compléter
             notVegan = ['viandes', 'poisson', 'poulet', 'escalope', 'canard', 'chèvre', 'œuf', 'graisse'] #à compélter
             diab = ['sucres', 'miel', 'tarte', 'pâtisserie'] #à compélter
             noCrustace = ['homard', 'langoustes', 'tourteaux', 'crabes', 'araignée', 'écrevisse', 'étrille' 'crevettes','fruits de mer', 'moules', 'huîtres', 'oursin', 'saumon'] #à compélter
